@@ -1,0 +1,86 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e14795_8k.txt
+<DESCRIPTION>FORM 8-K CURRENT REPORT
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                       Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+                                   ----------
+
+          Date of Report (Date of earliest event reported): May 8, 2003
+
+                               NVIDIA CORPORATION
+
+                                   ----------
+
+             (Exact name of registrant as specified in its charter)
+
+                                    Delaware
+                 (State or other jurisdiction of incorporation)
+
+                                     0-23985
+                            (Commission File Number)
+
+                                   94-3177549
+                      (I.R.S. Employer Identification No.)
+
+                            2701 San Tomas Expressway
+                              Santa Clara, CA 95050
+
+                                   ----------
+
+              (Address of principal executive offices and zipcode)
+
+      (Registrant's telephone number, including area code): (408) 486-2000
+<PAGE>
+
+Item 9. Regulation FD Disclosure.
+
+In accordance with SEC Release No. 33-8216, the following information, intended
+to be furnished under "Item 12. Disclosure of Results of Operations and
+Financial Condition," is instead furnished under "Item 9. Regulation FD
+Disclosure."
+
+On May 8, 2003, NVIDIA Corporation issued a press release announcing its results
+for the three months ended April 27, 2003. The press release is furnished and
+attached as Exhibit 99.1 and is incorporated herein by reference.
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                     NVIDIA Corporation
+
+                                                     By: /s/ Marvin D. Burkett
+                                                     ---------------------------
+                                                     Marvin D. Burkett
+                                                     Chief Financial Officer
+
+Date:  May 8, 2003
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+Exhibit Number    Description
+--------------    -----------
+
+99.1              Press Release, dated May 8, 2003 entitled "NVIDIA Reports
+                  Operating Results for the First Quarter Fiscal 2004."
+
+</TEXT>
+</DOCUMENT>

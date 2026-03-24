@@ -1,0 +1,1645 @@
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>ddef14a.txt
+<DESCRIPTION>DEFINITIVE PROXY STATEMENT
+<TEXT>
+
+<PAGE>
+
+================================================================================
+
+                           SCHEDULE 14A INFORMATION
+
+     Proxy Statement Pursuant to Section 14(a) of the Securities Exchange
+                         Act of 1934 (Amendment No.  )
+
+Filed by the Registrant [X]
+
+Filed by a Party other than the Registrant [_]
+
+Check the appropriate box:
+
+[_]  Preliminary Proxy Statement        [_]  Confidential, for Use of the
+                                             Commission Only (as permitted by
+                                             Rule 14a-6(e)(2))
+
+
+[X]  Definitive Proxy Statement
+
+
+[_]  Definitive Additional Materials
+
+[_]  Soliciting Material Pursuant to Section 240.14a-11(c) or Section 240.14a-12
+
+                              NVIDIA Corporation
+--------------------------------------------------------------------------------
+               (Name of Registrant as Specified In Its Charter)
+
+                           -Enter Company Name Here-
+--------------------------------------------------------------------------------
+   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+
+Payment of Filing Fee (Check the appropriate box):
+
+[X]  No fee required.
+
+[_]  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+
+     (1) Title of each class of securities to which transaction applies:
+
+     -------------------------------------------------------------------------
+
+     (2) Aggregate number of securities to which transaction applies:
+
+     -------------------------------------------------------------------------
+
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (Set forth the amount on which
+         the filing fee is calculated and state how it was determined):
+
+     -------------------------------------------------------------------------
+
+     (4) Proposed maximum aggregate value of transaction:
+
+     -------------------------------------------------------------------------
+
+     (5) Total fee paid:
+
+     -------------------------------------------------------------------------
+
+[_]  Fee paid previously with preliminary materials.
+
+[_]  Check box if any part of the fee is offset as provided by Exchange
+     Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+     was paid previously. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+     (1) Amount Previously Paid:
+
+     -------------------------------------------------------------------------
+
+     (2) Form, Schedule or Registration Statement No.:
+
+     -------------------------------------------------------------------------
+
+     (3) Filing Party:
+
+     -------------------------------------------------------------------------
+
+     (4) Date Filed:
+
+     -------------------------------------------------------------------------
+
+Notes:
+<PAGE>
+
+                              NVIDIA CORPORATION
+                           2701 San Tomas Expressway
+                         Santa Clara, California 95050
+
+                               ----------------
+
+                 NOTICE OF 2001 ANNUAL MEETING OF STOCKHOLDERS
+
+                         TO BE HELD ON AUGUST 15, 2001
+
+TO THE STOCKHOLDERS OF NVIDIA CORPORATION:
+
+   Notice Is Hereby Given that the 2001 Annual Meeting of Stockholders of
+NVIDIA Corporation, a Delaware corporation, will be held on Wednesday, August
+15, 2001 at 2:00 p.m. local time at NVIDIA's corporate headquarters located at
+2701 San Tomas Expressway, Santa Clara, California, for the following
+purposes:
+
+  1. To elect three directors to hold office until the 2004 Annual Meeting of
+     Stockholders;
+
+  2. To approve an amendment to our Amended and Restated Certificate of
+     Incorporation to increase the authorized number of shares of Common
+     Stock from 200,000,000 shares to 500,000,000 shares;
+
+  3. To ratify the selection of KPMG LLP as our independent accountants for
+     our fiscal year ending January 27, 2002; and
+
+  4. To transact such other business as may properly come before the meeting
+     or any adjournment or postponement thereof.
+
+   The foregoing items of business are more fully described in the Proxy
+Statement accompanying this Notice.
+
+   The Board of Directors has fixed the close of business on June 21, 2001 as
+the record date for the determination of stockholders entitled to notice of
+and to vote at this Annual Meeting of Stockholders and at any adjournment or
+postponement thereof.
+
+                                        By Order of the Board of Directors
+
+                                        /s/ Christine B. Hoberg
+
+                                        Christine B. Hoberg
+                                        Secretary
+
+Santa Clara, California
+
+June 25, 2001
+
+
+All Stockholders are cordially invited to attend the meeting in person.
+Whether or not you expect to attend the meeting, please complete, date, sign
+and return the enclosed proxy as promptly as possible in order to ensure your
+representation at the meeting. A return envelope (which is postage prepaid if
+mailed in the United States) is enclosed for that purpose. Even if you have
+given your proxy, you may still vote in person if you attend the meeting.
+Please note, however, that if your shares are held of record by a broker, bank
+or other nominee and you wish to vote at the meeting, you must obtain from the
+record holder a proxy issued in your name.
+<PAGE>
+
+                              NVIDIA CORPORATION
+                           2701 San Tomas Expressway
+                         Santa Clara, California 95050
+
+                               ----------------
+
+                                PROXY STATEMENT
+                    FOR 2001 ANNUAL MEETING OF STOCKHOLDERS
+                                August 15, 2001
+
+                               ----------------
+
+                INFORMATION CONCERNING SOLICITATION AND VOTING
+
+General
+
+   The enclosed proxy is solicited on behalf of the Board of Directors of
+NVIDIA Corporation, a Delaware corporation, for use at the Annual Meeting of
+Stockholders to be held on August 15, 2001 at 2:00 p.m. local time, or at any
+adjournment or postponement thereof, for the purposes set forth herein and in
+the accompanying Notice of Annual Meeting. The Annual Meeting will be held at
+our corporate headquarters located at 2701 San Tomas Expressway, Santa Clara,
+California. We intend to mail this proxy statement and accompanying proxy card
+on or about June 29, 2001, to all stockholders entitled to vote at the Annual
+Meeting.
+
+
+Solicitation
+
+   We will bear the entire cost of solicitation of proxies, including
+preparation, assembly, printing and mailing of this proxy statement, the proxy
+and any additional information furnished to stockholders. Copies of
+solicitation materials will be furnished to banks, brokerage houses,
+fiduciaries and custodians holding in their names shares of Common Stock
+beneficially owned by others to forward to such beneficial owners. We may
+reimburse persons representing beneficial owners of Common Stock for their
+costs of forwarding solicitation materials to such beneficial owners. Original
+solicitation of proxies by mail may be supplemented by telephone, telegram or
+personal solicitation by directors, officers or other regular employees of
+NVIDIA. No additional compensation will be paid to directors, officers or
+other regular employees for such services.
+
+Voting Rights and Outstanding Shares
+
+   Only holders of record of Common Stock at the close of business on June 21,
+2001 will be entitled to notice of and to vote at the Annual Meeting. At the
+close of business on June 21, 2001, we had outstanding and entitled to vote
+71,197,331 shares of Common Stock.
+
+
+   Each holder of record of Common Stock on such date will be entitled to one
+vote for each share held on all matters to be voted upon at the Annual
+Meeting.
+
+   All votes will be tabulated by the inspector of election appointed for the
+meeting, who will separately tabulate affirmative and negative votes,
+abstentions and broker non-votes. Abstentions will be counted towards the
+tabulation of votes cast on proposals presented to the stockholders and will
+have the same effect as negative votes. Broker non-votes are counted towards a
+quorum, but are not counted for any purpose in determining whether a matter
+has been approved.
+
+Revocability of Proxies
+
+   Any person giving a proxy pursuant to this solicitation has the power to
+revoke it at any time before it is voted. It may be revoked by filing with our
+corporate Secretary at our principal executive office, 2701 San Tomas
+Expressway, Santa Clara, California 95050, a written notice of revocation or a
+duly executed proxy bearing a later date, or it may be revoked by attending
+the meeting and voting in person. Attendance at the meeting will not, by
+itself, revoke a proxy.
+
+                                       1
+<PAGE>
+
+Stockholder Proposals
+
+   The deadline for submitting a stockholder proposal or nomination for
+director for approval at this year's annual meeting was no later than June 11,
+2001.
+
+
+   The deadline for submitting a stockholder proposal for inclusion in our
+proxy statement and form of proxy for the 2002 Annual Meeting of Stockholders
+pursuant to Rule 14a-8 of the Securities Exchange Act of 1934 is March 28,
+2002. If a stockholder proposal or nomination for director is not submitted in
+time for inclusion in the written proxy materials, such matter may be
+submitted for stockholder approval at the annual meeting if it is submitted no
+earlier than the close of business on April 17, 2002 and no later than the
+close of business on May 17, 2002. You are also advised to review our Bylaws,
+which contain additional requirements with respect to advance notice of
+stockholder proposals and director nominations.
+
+
+                                  Proposal 1
+
+                             Election Of Directors
+
+   Our Amended and Restated Certificate of Incorporation and Bylaws provide
+that the Board of Directors shall be divided into three classes, each class
+consisting, as nearly as possible, of one-third of the total number of
+directors, with each class having a three-year term. Vacancies on the Board
+may be filled only by persons elected by a majority of the remaining
+directors. A director elected by the Board to fill a vacancy (including a
+vacancy created by an increase in the Board) shall serve for the remainder of
+the full term of the class of directors in which the vacancy occurred and
+until such director's successor is elected and qualified.
+
+   The Board is presently composed of seven members. There are three directors
+in the class whose term of office expires in 2001. Each of the nominees for
+election to this class is currently a director. If elected at the Annual
+Meeting, each of the nominees would serve until the 2004 annual meeting and
+until his successor is elected and qualified, or until such director's earlier
+death, resignation or removal.
+
+   Directors are elected by a plurality of the votes present in person or
+represented by proxy and entitled to vote at the meeting. Shares represented
+by executed proxies will be voted, if authority to do so is not withheld, for
+the election of the three nominees named below. In the event that any nominee
+should be unavailable for election as a result of an unexpected occurrence,
+such shares will be voted for the election of such substitute nominee as
+management may propose. Each person nominated for election has agreed to serve
+if elected, and management has no reason to believe that any nominee will be
+unable to serve.
+
+   Set forth below is biographical information for each person nominated and
+each person whose term of office as a director will continue after the Annual
+Meeting.
+
+Nominees for Election for a Three-year Term Expiring at the 2004 Annual
+Meeting
+
+   James C. Gaither, age 63, has served as a director of NVIDIA since December
+1998. Mr. Gaither is a managing director of Sutter Hill Ventures, a venture
+capital investment firm. He is also senior counsel to the law firm of Cooley
+Godward LLP and was a partner of the firm from 1971 until July 2000. Prior to
+beginning his law practice with the firm in 1969, Mr. Gaither served as a law
+clerk to The Honorable Earl Warren, Chief Justice of the United States,
+Special Assistant to the Assistant Attorney General in the United States
+Department of Justice and Staff Assistant to the President of the United
+States, Lyndon Johnson. Mr. Gaither is a former president of the Board of
+Trustees at Stanford University and is a member of the Board of Directors of
+The William and Flora Hewlett Foundation, and the James Irvine Foundation. Mr.
+Gaither currently serves on the Board of Directors of Basic American, Inc., a
+food processing company, Blue Martini, Inc., a customer interaction company,
+Levi Strauss & Company, a manufacturer and marketer of brand-name apparel, and
+Siebel Systems, Inc., an e-business application software provider. Mr. Gaither
+holds a B.A. in Economics from Princeton University and a J.D. degree from
+Stanford University.
+
+                                       2
+<PAGE>
+
+
+   Jen-Hsun Huang, age 38, co-founded NVIDIA in April 1993 and has served as
+its President, Chief Executive Officer and a member of the Board of Directors
+since its inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic
+Corporation, a computer chip manufacturer, where he held a variety of
+positions, most recently as Director of Coreware, the business unit
+responsible for LSI's "system-on-a-chip" strategy. From 1984 to 1985, Mr.
+Huang was a microprocessor designer for Advanced Micro Devices, a
+semiconductor company. In October 1999, Mr. Huang was selected as a member of
+the Board of Trustees of RAND Corporation, a nonprofit institution that helps
+improve policy and decision-making through research and analysis. Mr. Huang
+holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree
+from Stanford University.
+
+
+   A. Brooke Seawell, age 53, has served as a director of NVIDIA since
+December 1997. Mr. Seawell has been a general partner of Technology Crossover
+Ventures since February 2000. Mr. Seawell acted as an independent consultant
+to several technology companies from 1999 to 2000. From 1997 to 1998, Mr.
+Seawell was Executive Vice President of NetDynamics, Inc., an Internet
+application server software company. From 1991 to 1997, Mr. Seawell was Senior
+Vice President and Chief Financial Officer of Synopsys, Inc., an electronic
+design automation software company. Mr. Seawell also serves on the Board of
+Directors of Informatica Corporation, a data integration software company, and
+several privately held companies. Mr. Seawell holds a B.A. degree in Economics
+and an M.B.A. degree in Finance from Stanford University.
+
+                       The Board of Directors Recommends
+                        A Vote FOR Each Named Nominee.
+
+Directors Continuing in Office Until the 2002 Annual Meeting
+
+   Harvey C. Jones, age 48, has served as a director of NVIDIA since November
+1993. Mr. Jones is the Chairman of the Board of Tensilica Inc., a privately-
+held company he co-founded in 1997. Tensilica designs and licenses
+application-specific microprocessors for use in high volume embedded systems.
+From December 1987 through February 1998, Mr. Jones held various positions at
+Synopsys, Inc., a developer of electronic design automation software, where he
+served as President through December 1992, as Chief Executive Officer until
+January 1994 and as Executive Chairman of the Board until February 1998. Prior
+to joining Synopsys, Mr. Jones served as President and Chief Executive Officer
+of Daisy Systems Corporation, a computer-aided engineering company that he co-
+founded in 1981. Mr. Jones currently serves on the Board of Directors of
+Remedy Corporation, an enterprise software company, Simplex Solutions, a deep
+submicron circuit verification company and Numerical Technology Corporation,
+an integrated circuit technology and software company. Mr. Jones holds a B.S.
+degree in Mathematics and Computer Sciences from Georgetown University and an
+M.S. degree in Management from Massachusetts Institute of Technology.
+
+   William J. Miller, age 55, has served as a director of NVIDIA since
+November 1994. From April 1996 through October 1999, Mr. Miller was Chief
+Executive Officer and Chairman of the Board of Avid Technology, Inc., a
+provider of digital tools for multimedia. Mr. Miller also served as President
+of Avid Technology from September 1996 through October 1999. From March 1992
+to October 1995, Mr. Miller served as Chief Executive Officer of Quantum
+Corporation, a mass storage company. He was a member of the Board of
+Directors, and Chairman thereof, from, respectively, May 1992 and September
+1993 to August 1995. From 1981 to March 1992, he served in various positions
+at Control Data Corporation, a supplier of computer hardware, software and
+services, most recently as Executive Vice President and President, Information
+Services. Mr. Miller serves on the Board of Directors of Waters Corporation, a
+scientific instrument manufacturing company and on the Board of Directors of
+ESPS, Inc., a provider of software for renditioning and publishing complex
+documents. Mr. Miller holds a B.A. and a J.D. degree from the University of
+Minnesota.
+
+Directors Continuing in Office Until the 2003 Annual Meeting
+
+   Tench Coxe, age 42, has served as a director of NVIDIA since June 1993. Mr.
+Coxe is a managing director of Sutter Hill Ventures, a venture capital
+investment firm. Prior to joining Sutter Hill Ventures in 1987, Mr. Coxe was
+Director of Marketing and MIS at Digital Communication Associates. Mr. Coxe
+also serves on the Board of Directors of Clarus Corporation, a software
+company, Copper Mountain Networks Inc., a provider of high-speed
+
+                                       3
+<PAGE>
+
+DSL solutions, E-Loyalty Corp., a customer loyalty software firm, and several
+privately held companies. Mr. Coxe holds a B.A. degree in Economics from
+Dartmouth College and an M.B.A. degree from Harvard Business School.
+
+   Mark A. Stevens, age 40, has served as a director of NVIDIA since June
+1993. Mr. Stevens has been a managing member of Sequoia Capital, a venture
+capital investment firm, since March 1993. Prior to that time, beginning in
+July 1989, he was an associate at Sequoia Capital. Prior to joining Sequoia,
+he held technical sales and marketing positions at Intel. Mr. Stevens
+currently serves on the Board of Directors of MP3.com, Inc., an online music
+company, Pixelworks, Inc., a fabless semiconductor company developing image
+processors, Terayon Communication Systems, Inc., a broadband systems company,
+and several privately held companies. Mr. Stevens holds a B.S.E.E. degree, a
+B.A. degree in Economics and an M.S. degree in Computer Engineering from the
+University of Southern California and an M.B.A. degree from Harvard Business
+School.
+
+Board Committees and Meetings
+
+   During the fiscal year ended January 28, 2001, the Board held five (5)
+meetings and acted by unanimous written consent five (5) times. The Board has
+an Audit Committee and a Compensation Committee.
+
+   The Audit Committee meets with our independent accountants at least
+annually to review the results of the annual audit and discuss the financial
+statements, recommends to the Board the independent accountants to be retained
+and receives and considers the accountants' comments as to controls, adequacy
+of staff and management performance and procedures in connection with audit
+and financial controls. The Audit Committee consists of three non-employee
+directors: Messrs. Miller, Seawell and Stevens. The Audit Committee was formed
+upon the effectiveness of NVIDIA's initial public offering on January 21,
+1999. It met five (5) times during the fiscal year ended January 28, 2001.
+Messrs. Miller and Stevens are independent directors, as specified under the
+Nasdaq independence standards. Mr. Seawell served as interim Chief Financial
+Officer during a portion of the fourth quarter of fiscal 1999, prior to the
+date that Christine Hoberg, our Chief Financial Officer, joined NVIDIA.
+Mr. Seawell was asked to serve in this temporary position due to his extensive
+finance and accounting background, including a B.A. degree in Economics and an
+M.B.A. degree in Finance from Stanford University, and his service as Senior
+Vice President and Chief Financial Officer of Synopsys from 1991 to 1997. Mr.
+Seawell received in December 1998 in consideration for his service in this
+role, an option to purchase 64,100 shares of Common Stock at an exercise price
+of $3.50 per share. As a result of this option grant, under the Nasdaq
+standards Mr. Seawell is not currently classified as an independent director.
+However, in accordance with Nasdaq guidelines, the Board of Directors has
+unanimously determined that Mr. Seawell's background makes him highly
+qualified to be a member of the Audit Committee and that his service is in our
+best interest. The Audit Committee has adopted a written Audit Committee
+Charter that is attached hereto as Appendix A.
+
+   The Compensation Committee makes recommendations concerning salaries and
+incentive compensation, awards stock options to employees and consultants
+under our stock option plans and otherwise determines compensation levels and
+performs such other functions regarding compensation as the Board may
+delegate. The Compensation Committee has delegated to Jen-Hsun Huang, a
+director and our President and Chief Executive Officer, the ability to
+determine salaries, incentive compensation and stock option awards for
+employees below the vice president level. The Compensation Committee consists
+of three non-employee directors: Messrs. Coxe, Gaither and Jones. It acted by
+unanimous written consent five (5) times.
+
+   During the fiscal year ended January 28, 2001, each Board member attended
+at least 75% of the aggregate meetings of the Board and of the committees on
+which he served that were held during the period for which he was a director
+or committee member, respectively.
+
+                                       4
+<PAGE>
+
+          Report of the Audit Committee of the Board of Directors/1/
+
+   Effective January 31, 2000, the SEC adopted new rules and amendments to
+current rules relating to the disclosure of information about companies' audit
+committees. In large part, the new rules are based on recommendations made by
+the Blue Ribbon Committee on Improving the Effectiveness of Corporate Audit
+Committees. The new rules require that, for all votes of stockholders
+occurring after December 15, 2000, the proxy statement must contain a report
+of the audit committee addressing several issues identified in the rules. In
+addition, the SEC recommends that audit committees adopt written charters. Any
+such charter must be included as an attachment to the proxy statement at least
+once every three years. Our Board of Directors adopted the charter of the
+Audit Committee in May 2000 and amended the charter in May 2001. A copy of the
+amended charter is included in this proxy statement as Appendix A.
+
+   In accordance with the Audit Committee's charter, the Audit Committee
+assists our Board of Directors in fulfilling its responsibility for oversight
+of the quality and integrity of our accounting, auditing and financial
+reporting practices. Management is responsible for our internal controls. Our
+independent auditors are responsible for performing an independent audit of
+our consolidated financial statements in accordance with generally accepted
+auditing standards and issuing a report thereon. The Audit Committee has
+general oversight responsibilities with respect to our financial reporting and
+reviews the results and scope of the audit and other services provided by our
+independent auditors.
+
+   In this context, the Audit Committee has reviewed and discussed the audited
+financial statements for fiscal year 2001 with management and with the
+independent auditors. Specifically, the Audit Committee has discussed with the
+independent auditors the matters required to be discussed by SAS 61
+(Codification of Statements on Auditing Standards, AU Section 380), which
+includes, among other things:
+
+  .  methods used to account for significant unusual transactions;
+
+  .  the effect of significant accounting policies in controversial or
+     emerging areas for which there is a lack of authoritative guidance or
+     consensus;
+
+  .  the process used by management in formulating particularly sensitive
+     accounting estimates and the basis for the auditors' conclusions
+     regarding the reasonableness of those estimates; and
+
+  .  disagreements with management over the application of accounting
+     principles, the basis for management's accounting estimates and the
+     disclosures in the financial statements.
+
+   The Audit Committee has received the written disclosures and the letter
+from our independent auditors, KPMG LLP, required by Independence Standards
+Board Standard No. 1, Independence Discussions with Audit Committees.
+Additionally, the Audit Committee has discussed with KPMG LLP the issue of its
+independence from us.
+
+   Based on its review of the audited financial statements and the various
+discussions noted above, the Audit Committee recommended to the Board of
+Directors that the audited financial statements be included in our Annual
+Report on Form 10-K for the fiscal year ended January 28, 2001.
+
+                                          Audit Committee
+
+                                          William J. Miller
+                                          A. Brooke Seawell
+                                          Mark A. Stevens
+--------
+/1/ This Section is not "soliciting materials," is not deemed "filed" with the
+SEC and is not to be incorporated by reference in any of our past or future
+filings under the Securities Act of 1933 or the Securities Exchange Act of
+1934, irrespective of any general incorporation language in any such filing.
+
+                                       5
+<PAGE>
+
+                                  Proposal 2
+
+      Approval of Increase in Number of Authorized Shares of Common Stock
+
+   The Board of Directors has adopted, subject to stockholder approval, an
+amendment to our Amended and Restated Certificate of Incorporation to increase
+the authorized number of shares of Common Stock from 200,000,000 shares to
+500,000,000 shares.
+
+   The additional Common Stock to be authorized by adoption of the amendment
+would have rights identical to our currently outstanding Common Stock.
+Adoption of the proposed amendment and issuance of the Common Stock would not
+affect the rights of the holders of currently outstanding Common Stock except
+for effects incidental to increasing the number of shares of Common Stock
+outstanding, such as dilution of the earnings per share and voting rights of
+current holders of Common Stock. If the amendment is adopted, it will become
+effective upon filing of a Certificate of Amendment to our Amended and
+Restated Certificate of Incorporation with the Secretary of State of the State
+of Delaware.
+
+   In addition to the 70,104,138 outstanding shares of Common Stock as of
+April 30, 2001, the Board has reserved 24,024,036 shares of Common Stock for
+issuance upon exercise of options and rights granted under NVIDIA's stock
+option and stock purchase plans and up to 3,235,897 shares of Common Stock for
+issuance upon conversion of outstanding convertible promissory notes.
+
+   Although at present the Board of Directors has no plans to issue the
+additional shares of Common Stock, it desires to have such shares available to
+provide additional flexibility to use its capital stock for business and
+financial purposes in the future. The additional shares may be used, without
+further stockholder approval, for various purposes including, without
+limitation, raising capital, providing equity incentives to employees,
+officers or directors, effecting stock dividends, establishing strategic
+relationships with other companies and expanding our business or product lines
+through the acquisition of other businesses or products. We could also use the
+additional shares of Common Stock that would become available for issuance if
+the proposal were adopted to oppose a hostile takeover attempt or to delay or
+prevent changes in control or management. For example, without further
+stockholder approval, the Board could adopt a "poison pill" which would, under
+certain circumstances related to an acquisition of shares not approved by the
+Board of Directors, give certain holders the right to acquire additional
+shares of Common Stock at a low price, or the Board could strategically sell
+shares of Common Stock in a private transaction to purchasers who would oppose
+a takeover or favor the current Board. Although this proposal to increase the
+authorized Common Stock has been prompted by business and financial
+considerations and not by the threat of any hostile takeover attempt (nor is
+the Board currently aware of any such attempts directed towards NVIDIA), you
+should be aware that approval of this proposal could facilitate our future
+efforts to deter or prevent changes in control of NVIDIA, including
+transactions in which you might otherwise receive a premium for your shares
+over then-current market prices.
+
+   Our audited consolidated financial statements, management's discussion and
+analysis of financial condition and results of operations and certain
+supplementary financial information are incorporated by reference from our
+Annual Report on Form 10-K, including any amendment, for the fiscal year ended
+January 28, 2001, as filed with the SEC.
+
+   The affirmative vote of the holders of a majority of the shares of the
+Common Stock will be required to approve this amendment to our Amended and
+Restated Certificate of Incorporation. As a result, abstentions and broker
+non-votes will have the same effect as negative votes.
+
+                       The Board of Directors Recommends
+                            A Vote FOR Proposal 2.
+
+                                       6
+<PAGE>
+
+                                  Proposal 3
+
+               Ratification of Selection of Independent Auditors
+
+   The Board has selected KPMG LLP as our independent auditors for the fiscal
+year ending January 27, 2002 and has further directed that management submit
+the selection of independent auditors for ratification by the stockholders at
+the Annual Meeting. KPMG LLP has audited our financial statements since April
+1995. Representatives of KPMG LLP are expected to be present at the Annual
+Meeting, will have an opportunity to make a statement if they so desire and
+will be available to respond to appropriate questions.
+
+   Stockholder ratification of the selection of KPMG LLP as our independent
+auditors is not required by our Bylaws or otherwise. However, the Board is
+submitting the selection of KPMG LLP to the stockholders for ratification as a
+matter of good corporate practice. If the stockholders fail to ratify the
+selection, the Audit Committee and the Board will reconsider whether or not to
+retain that firm. Even if the selection is ratified, the Audit Committee and
+the Board in their discretion may direct the appointment of different
+independent auditors at any time during the year if they determine that such a
+change would be in your or NVIDIA's best interests.
+
+   The affirmative vote of the holders of a majority of the shares present in
+person or represented by proxy and entitled to vote at the Annual Meeting will
+be required to ratify the selection of KPMG LLP. Abstentions will be counted
+toward the tabulation of votes cast on proposals presented to the stockholders
+and will have the same effect as negative votes. Broker non-votes are counted
+towards a quorum, but are not counted for any purpose in determining whether
+this matter has been approved.
+
+   Audit Fees. During the fiscal year ended January 28, 2001, the aggregate
+fees billed by KPMG LLP for the audit of our financial statements for such
+fiscal year and for the review of our interim financial statements were
+$263,000.
+
+   Financial Information Systems Design and Implementation Fees. During the
+fiscal year ended January 28, 2001, there were no fees billed by KPMG LLP for
+information technology consulting.
+
+   All Other Fees. During fiscal year ended January 28, 2001, the aggregate
+fees billed by KPMG LLP for professional services other than audit and
+information technology consulting fees were $724,000. Other professional fees
+primarily consisted of services related to (i) our statutory audit
+requirements, (ii) income tax review, (iii) assistance with our acquisitions
+activity, (iv) tax strategy and planning, and (v) SEC filings.
+
+   The Audit Committee has determined the rendering of the information
+technology consulting fees and all other non-audit services by KPMG LLP is
+compatible with maintaining the auditor's independence.
+
+                       The Board of Directors Recommends
+                            A Vote FOR Proposal 3.
+
+                                       7
+<PAGE>
+
+        Security Ownership of Certain Beneficial Owners And Management
+
+   The following table sets forth certain information regarding ownership of
+NVIDIA's Common Stock as of April 30, 2001 by: (i) each director and nominee
+for director; (ii) each of the executive officers named in the Summary
+Compensation Table; (iii) all executive officers and directors as a group; and
+(iv) all those known by us to be beneficial owners of more than five percent
+of our outstanding Common Stock.
+
+<TABLE>
+<CAPTION>
+                                                 Beneficial Ownership (1)
+                                                 ---------------------------
+                                                   Number of       Percent
+Beneficial Owner                                    Shares        of Total
+----------------                                 --------------- -----------
+<S>                                              <C>             <C>
+Jen-Hsun Huang (2)(3)...........................       5,556,186         7.9%
+Jeffrey D. Fisher (2)(4)........................         302,595           *
+Christine B. Hoberg (2)(5)......................          42,473           *
+Chris A. Malachowsky (2)(6).....................       4,308,250         6.1%
+Curtis R. Priem (2)(7)..........................       5,861,525         8.3%
+Tench Coxe (2)(8)...............................         576,918           *
+James C. Gaither (2)(9).........................         101,152           *
+Harvey C. Jones (2)(10).........................         484,602           *
+William J. Miller (2)(11).......................         207,500           *
+A. Brooke Seawell (2)(12).......................         190,000           *
+Mark A. Stevens (2)(13).........................         213,936           *
+FMR Corporation(14).............................      10,221,168        14.6%
+ Edward C. Johnson 3d and Abigail P. Johnson
+ 82 Devonshire Street
+ Boston, MA 02109
+Janus Capital Corporation(15)...................       4,744,851         6.8%
+ Thomas H. Bailey
+ 100 Fillmore Street
+ Denver, CO 80206-4923
+All current directors and executive officers as
+ a group (11 persons) (16)......................      17,991,737        24.8%
+</TABLE>
+--------
+  *  Represents beneficial ownership of less than 1% of the outstanding shares
+     of NVIDIA's Common Stock.
+
+ (1) This table is based upon information supplied by officers, directors and
+     principal stockholders and Schedules 13D and 13G filed with the
+     Securities and Exchange Commission. Unless otherwise indicated in the
+     footnotes to this table and subject to community property laws where
+     applicable, we believe that each of the stockholders named in this table
+     has sole voting and investment power with respect to the shares indicated
+     as beneficially owned. Applicable percentages are based on 70,104,138
+     shares of Common Stock outstanding on April 30, 2001. In computing the
+     number of shares beneficially owned by a person and the percentage
+     ownership of that person, shares of Common Stock subject to options held
+     by that person that are exercisable within 60 days are deemed
+     outstanding. These shares, however, are not deemed outstanding for the
+     purpose of computing the percentage ownership of any other person.
+
+ (2) The address for each of these persons is c/o NVIDIA Corporation, 2701 San
+     Tomas Expressway, Santa Clara, CA 95050.
+
+ (3) Includes 4,264,800 shares of Common Stock held by The Jen-Hsun and Lori
+     Huang Living Trust dated May 1, 1995, of which Mr. Huang is the trustee,
+     and 501,200 shares of Common Stock held by J. and L. Huang Investments,
+     L.P., of which Mr. Huang and his wife are general partners. Also includes
+     800,000 shares of Common Stock issuable upon exercise of vested options
+     within 60 days of April 30, 2001.
+
+ (4) Includes 39,000 shares of Common Stock held by Jeffrey D. Fisher, as
+     custodian for his three minor children under the Uniform Gifts to Minors
+     Act. Also includes 47,120 shares of Common Stock issuable upon exercise
+     of vested options within 60 days of April 30, 2001.
+
+                                       8
+<PAGE>
+
+ (5) Includes 36,876 shares of Common Stock issuable upon exercise of vested
+     options within 60 days of April 30, 2001.
+
+ (6) Includes 3,270,000 shares of Common Stock held by The Chris and Melody
+     Malachowsky Living Trust dated October 20, 1994, of which Mr. Malachowsky
+     is the trustee, and 477,000 shares of Common Stock held by Malachowsky
+     Investments L.P., of which Mr. Malachowsky and his wife are general
+     partners. Also includes 411,250 shares of Common Stock issuable upon
+     exercise of vested options within 60 days of April 30, 2001.
+
+ (7) Includes 54,000 shares of Common Stock held by The Priem Family CRT and
+     4,309,400 shares held by the Priem Family Foundation. Mr. Priem is the
+     president of the Priem Family Foundation. Mr. Priem disclaims beneficial
+     ownership of the shares of Common Stock held by the Priem Family
+     Foundation. Also includes 408,125 shares of Common Stock issuable upon
+     exercise of vested options within 60 days of April 30, 2001.
+
+ (8) Includes 481,918 shares of Common Stock held in a retirement trust over
+     which Mr. Coxe exercises voting and investment power. Includes 95,000
+     shares of Common Stock issuable upon exercise of vested options within 60
+     days of April 30, 2001.
+
+ (9) Includes 34,902 shares of Common Stock held by Cooley Godward LLP, of
+     which Mr. Gaither is a partner. Mr. Gaither disclaims beneficial
+     ownership of such shares held by such entity, except to the extent of his
+     pecuniary interest therein. Also includes 66,250 shares of Common Stock
+     issuable upon exercise of vested options within 60 days of April 30,
+     2001.
+
+(10) Includes 95,000 shares of Common Stock issuable upon exercise of vested
+     options within 60 days of April 30, 2001.
+
+(11) Includes 82,500 shares of Common Stock issuable upon exercise of vested
+     options within 60 days of April 30, 2001.
+
+(12) Includes 190,000 shares of Common Stock issuable upon exercise of vested
+     options within 60 days April 30, 2001.
+
+(13) Includes 92,500 shares of Common Stock issuable upon exercise of vested
+     options within 60 days of April 30, 2001.
+
+(14) According to a Schedule 13G jointly filed on February 14, 2001, FMR
+     Corp., Edward C. Johnson 3d and Abigail P. Johnson beneficially own and
+     have sole dispositive power with respect to 10,221,168 shares of our
+     common stock. The following FMR Corp. subsidiaries have beneficial
+     ownership: Fidelity Management & Research Company, 9,790,198 shares, with
+     Edward C. Johnson 3d, through his control of this entity, having sole
+     dispositive power over such shares; Fidelity Management Trust Company,
+     346,520 shares, with Edward C. Johnson 3d and FMR Corp. each having sole
+     dispositive power over such shares and sole voting power over 250,420 of
+     such shares; and Fidelity International Limited, Pembroke Hall,
+     42 Crowlane, Hamilton, Bermuda, 84,450 shares. Edward C. Johnson 3d owns
+     12.0% and Abigail P. Johnson owns 24.5% of the aggregate outstanding
+     voting stock of FMR Corp. Mr. Johnson is chairman of FMR Corp. and Ms.
+     Johnson is a director of FMR Corp. The Johnson family represents 49% of
+     the voting power of FMR Corp. The Johnson family has voting power over
+     39.89% of the voting shares of Fidelity International Limited. Mr.
+     Johnson is also the chairman of Fidelity International Limited.
+     Additional disclosure can be found in the 13G filing.
+
+(15) According to a Schedule 13G filed on February 15, 2001, Janus Capital
+     Corporation and Thomas H. Bailey beneficially own 4,744,851 shares of our
+     common stock. Thomas H. Bailey owns approximately 12.2% of Janus Capital,
+     serves as President and Chairman of the Board of Janus Capital, and may
+     be deemed to have voting and dispositive power with respect to shares
+     held by the managed portfolios of Janus Capital. Additional disclosure
+     can be found in the 13G filing.
+
+(16) Includes 2,324,621 shares issuable upon exercise of vested options held
+     by all current directors and executive officers within 60 days of April
+     30, 2001. See footnotes (3)-(13).
+
+                                       9
+<PAGE>
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+   Section 16(a) of the Exchange Act requires our directors and executive
+officers, and persons who own more than ten percent of a registered class of
+the Company's equity securities, to file with the SEC initial reports of
+ownership and reports of changes in ownership of Common Stock or our other
+equity securities. Officers, directors and greater than ten percent
+stockholders are required by SEC regulation to furnish us with copies of all
+Section 16(a) forms they file.
+
+   To our knowledge, based solely on a review of the copies of such reports
+furnished to us and written representations that no other reports were
+required, during the fiscal year ended January 28, 2001, all Section 16(a)
+filing requirements applicable to its officers, directors and greater than ten
+percent beneficial owners were complied with.
+
+                            Executive Compensation
+
+Compensation of Directors
+
+   Directors do not receive any cash compensation for their services as
+members of the Board of Directors, although they are reimbursed for certain
+expenses incurred in connection with attendance at Board and committee
+meetings. Beginning in February 1998, upon the adoption of the 1998 Non-
+Employee Directors' Stock Option Plan (the "Directors Plan"), each director
+who is not an employee, consultant or an affiliate of NVIDIA or our affiliates
+receives automatic nonstatutory stock option grants. In July 2000, the Board
+of Directors amended the 1998 Plan to incorporate the automatic grant
+provisions of the Directors Plan into the 1998 Plan. The terms of the 1998
+Plan, as they relate to non-employee directors, as well as the terms of the
+Directors Plan, are referred to in this discussion as the "Director Plan
+Provisions."
+
+   Under the Director Plan Provisions, non-employee directors who are elected
+or appointed for the first time are automatically granted 100,000 non-
+qualified stock options ("Initial Grant"). On the day following each annual
+meeting, non-employee directors shall be granted an option to purchase 40,000
+shares of common stock and each non-employee director who is a member of a
+Committee shall be granted an option to purchase 10,000 shares of common stock
+("Annual Grant"); however, if the person has not been serving on the Board or
+committee since the prior year annual meeting, then the number of shares
+granted will be reduced pro rata for each full quarter prior to the date of
+grant during which such person did not serve as an non-employee director.
+
+   Initial Grants vest monthly over a four-year period and become exercisable
+on the fourth anniversary of the date of grant. Options under the Annual Grant
+vest monthly over a one-year period and become exercisable on the one-year
+anniversary of the date of grant if the director has attended at least 75% of
+the regularly scheduled meetings. If the director fails to attend at least 75%
+of the regularly scheduled meetings, then options will vest annually over four
+years following the date of grant at the rate of 10% per year for the first
+three years and 70% for the fourth year such that the entire option will
+become exercisable on the four-year anniversary of the date of grant.
+
+   The exercise price for options granted under the Director Plan Provisions
+is at least 100% of the fair market value on the date of grant. No option
+granted under such provisions may be exercised after the expiration of
+10 years from the date it was granted. Options granted under the Director Plan
+Provisions generally are non-transferable except to family members, a family
+trust, a family partnership or a family limited liability company. However, an
+optionee may designate a beneficiary who may exercise the option following the
+optionee's death. An optionee whose service relationship with NVIDIA or any of
+our affiliates (whether as a non-employee director of ours or subsequently as
+an employee, director or consultant of ours or an affiliate of ours) ceases
+for any reason, may exercise vested options for the term provided in the
+option agreement (12 months generally, 18 months in the event of death).
+
+   If we sell substantially all of our assets, or if we are involved in any
+merger or any consolidation in which we are not the surviving corporation, or
+if there is any other change in control, all outstanding awards under the
+
+                                      10
+<PAGE>
+
+Director Plan Provisions either will be assumed or substituted for by any
+surviving entity. If the surviving entity does not assume or substitute for
+the NVIDIA awards, the awards will terminate if they are not exercised prior
+to any sale of assets, merger or consolidation.
+
+   During the last three (3) fiscal years, options to purchase shares of our
+Common Stock were granted to non-employee directors. In December 1998, Mr.
+Seawell was granted an option to purchase 64,100 shares of the Company's
+Common Stock at an exercise price of $3.50 per share. In December 1998, Mr.
+Gaither received his Initial Grant of an option to purchase 100,000 shares of
+the Company's Common Stock at an exercise price of $3.50 per share. In June
+1999, Annual Grants under the Director Plan Provisions were as follows: 50,000
+shares to each of Messrs. Coxe, Jones, Seawell and Mr. Stevens; 40,000 shares
+to Mr. Miller; and 10,000 shares to Mr. Gaither, each at an exercise price of
+$8.19 per share. In July 2000, Annual Grants under the Director Plan
+Provisions were as follows: 50,000 shares to each of Messrs. Coxe, Gaither,
+Jones, Miller, Seawell and Stevens, each at an exercise price of $68.00 per
+share.
+
+   As of April 30, 2001, options to purchase 600,000 shares of Common Stock
+were outstanding and no shares remained available for future grant under the
+Directors' Plan. Unless terminated sooner, the Directors' Plan will terminate
+in February 2008. Future grants to non-employee directors will be made under
+the Director Plan Provisions from shares available under our 1998 Equity
+Incentive Plan (the "1998 Plan"). Unless sooner terminated, the 1998 Plan will
+also terminate in February 2008.
+
+   We have entered into indemnity agreements with each of our directors and
+executive officers. The form of indemnity agreement provides, among other
+things, that we will indemnify our executive officers and directors, under the
+circumstances and to the extent provided for in the indemnify agreements, for
+any and all expenses he or she may be required to pay in actions or
+proceedings because of his or her status as a director or executive officer of
+NVIDIA, to the fullest extent permitted by the Company's Bylaws and Delaware
+law.
+
+                                      11
+<PAGE>
+
+Compensation of Executive Officers
+
+   The following table shows for the fiscal years ended January 28, 2001,
+January 30, 2000 and January 31, 1999, compensation awarded or paid to, or
+earned by, our Chief Executive Officer and our other four most highly
+compensated executive officers receiving compensation in excess of $100,000 in
+fiscal year 2001 (the "Named Executive Officers").
+
+                          Summary Compensation Table
+
+
+<TABLE>
+<CAPTION>
+                                                                Long Term
+                                                               Compensation
+                                  Annual Compensation             Awards
+                                  -------------------------    ------------
+                                                                Securities    All Other
+Name and Principal        Fiscal   Salary                       Underlying   Compensation
+Position                 Year (1)    ($)          Bonus ($)    Options (#)     ($) (1)
+------------------       -------- ----------      ---------    ------------  ------------
+<S>                      <C>      <C>             <C>          <C>           <C>
+Jen-Hsun Huang..........   2001   $ 400,000       $ 400,000(2)   800,000           --
+ President and Chief
+ Executive Officer         2000     300,000         300,000(3)         0           --
+                           1999     257,692         200,000(4)   800,000        2,697(5)
+
+Jeffrey D. Fisher.......   2001   $ 399,558(2)(6) $  42,083       80,000           --
+ Executive Vice
+ President,                2000     418,250(6)       23,600       42,000        2,357(5)
+ Worldwide Sales           1999     198,683(6)           --      200,000           --
+
+Christine B. Hoberg.....   2001   $ 200,000       $ 102,083(2)    50,000           --
+ Chief Financial Officer   2000   $ 200,000          15,710            0           --
+                           1999      30,384(7)           --      590,000           --
+
+Chris A. Malachowsky....   2001   $ 209,000       $  84,583(2)    65,000           --
+ Vice President,
+ Engineering               2000     191,250          19,700            0           --
+                           1999     183,461              --      500,000(8)     2,505(5)
+
+Curtis R. Priem.........   2001   $ 197,316       $  69,583(2)    30,000           --
+ Chief Technical Officer   2000     180,000           8,700            0           --
+                           1999     180,000              --      500,000        3,792(5)
+</TABLE>
+
+--------
+(1) Effective January 1, 1998, we changed our fiscal year-end financial
+    reporting period from December 31 to January 31. Effective February 1,
+    1998, we changed our fiscal year end from January 31 to a 52- or 53-week
+    year ending on the last Sunday in January.
+
+(2) Partially paid in fiscal year 2002.
+
+(3) Paid in fiscal year 2001.
+
+(4) Paid in fiscal year 2000.
+
+(5) Represents market value of commemorative gift of property, including
+    income taxes incurred for such gift, received in recognition of five (5)
+    years of service to NVIDIA.
+
+(6) Includes sales commissions or $299,558, $318,280, and $98,683 in fiscal
+    years 2001, 2000 and 1999, respectively.
+
+(7) Ms. Hoberg joined NVIDIA in December 1998.
+
+(8) Please note that due to a typographical error the Annual Report of Form
+    10-K, as amended, for the fiscal year ended January 28, 2001, that was
+    filed with the Securities and Exchange Commission on May 25, 2001,
+    indicates incorrect bonus, long term compensation awards and all other
+    compensation amounts for Mr. Malachowsky for the 1999 fiscal year. The
+    above table reflects the correct information, as does the table that
+    appears in the Annual Report on Form 10-K, as amended, for fiscal 2001
+    included with these proxy materials. The correct information also was
+    included in the proxy statement for our annual meeting of stockholders
+    held in 1999.
+
+
+                                      12
+<PAGE>
+
+                       Stock Option Grants And Exercises
+
+   We grant options to our executive officers under the 1998 Plan. As of April
+30, 2001, options to purchase a total of 4,378,414 shares were outstanding
+under the 1998 Plan and options to purchase 17,138,908 shares remained
+available for grant thereunder.
+
+   The following tables show for the fiscal year ended January 28, 2001,
+certain information regarding options granted to, exercised by, and held at
+year-end by, the Named Executive Officers:
+
+                       Option Grants In Last Fiscal Year
+
+<TABLE>
+<CAPTION>
+                           Individual Grants
+                         ---------------------
+                                                                    Potential Realizable
+                         Number of  % of Total                        Value at Assumed
+                         Securities  Options                       Annual Rates of Stock
+                         Underlying Granted to Exercise            Price Appreciation for
+                          Options   Employees   Price                  Option Term (4)
+                          Granted   in Fiscal   ($/Sh)  Expiration ----------------------
+          Name             (#)(1)    Year (2)    (3)       Date      5% ($)     10% ($)
+          ----           ---------- ---------- -------- ---------- ---------- -----------
+<S>                      <C>        <C>        <C>      <C>        <C>        <C>
+Jen-Hsun Huang..........  800,000      7.42%    $18.53   01/31/10  $9,323,489 $23,627,551
+Jeffrey D. Fisher.......   15,000      0.14%    $32.00   02/27/10     301,870     764,997
+                           15,000      0.14%    $58.06   10/18/10     547,720   1,388,043
+                           50,000      0.46%    $29.94   01/02/11     941,352   2,385,608
+Christine B. Hoberg.....   50,000      0.46%    $29.94   01/02/11     941,352   2,385,608
+Chris A. Malachowsky....   15,000      0.14%    $58.06   10/18/10     547,720   1,388,042
+                           50,000      0.46%    $29.94   01/02/11     941,351   2,385,609
+Curtis R. Priem.........   30,000      0.28%    $29.94   01/02/11     564,811   1,431,365
+</TABLE>
+--------
+(1) Initial option grants generally vest at a rate of 25% on the first
+    anniversary of the vesting commencement date and 6.25% each quarter
+    thereafter and have a term of 10 years. Subsequent option grants generally
+    vest 6.25% per quarter from the date of grant.
+
+(2) Based on an aggregate of 10,777,375 shares subject to options granted to
+    persons who were employees in the fiscal year ended January 28, 2001,
+    including the Named Executive Officers.
+
+(3) The exercise price per share of each option was equal to the fair market
+    value of the Common Stock on the date of grant as determined by the Board.
+
+(4) The potential realizable value is calculated based on the term of the
+    option at the time of grant (10 years). It is calculated assuming that the
+    fair market value of NVIDIA's Common Stock on the date of grant
+    appreciates at the indicated annual rate compounded annually for the
+    entire term of the option and that the option is exercised at the exercise
+    price and sold on the last day of its term at the appreciated price. Stock
+    price appreciation of 5% and 10% is assumed pursuant to rules promulgated
+    by the Securities and Exchange Commission and does not represent our
+    prediction of our stock price performance.
+
+                                      13
+<PAGE>
+
+                Aggregated Option Exercises in Last Fiscal Year
+                       and Fiscal Year-End Option Values
+
+   This table sets forth for each Named Executive Officer the number and value
+of securities underlying unexercised options at January 28, 2001.
+
+<TABLE>
+<CAPTION>
+                                                       Number of Securities
+                                                      Underlying Unexercised       Value of Unexercised In-the-Money
+                            Shares      Value       Options at January 28, 2001     Options at January 28, 2001(1)
+                         Acquired on   Realized  --------------------------------- ---------------------------------
+Name                     Exercise (#)    ($)     Exercisable (#) Unexercisable (#) Exercisable ($) Unexercisable ($)
+----                     ------------ ---------- --------------- ----------------- --------------- -----------------
+<S>                      <C>          <C>        <C>             <C>               <C>             <C>
+Jen-Hsun Huang..........        --            --     670,000          930,000        $29,808,970      $33,739,830
+Jeffrey D. Fisher.......    52,040    $3,178,126      42,208          227,752          1,801,624        8,228,271
+Christine B. Hoberg.....   110,624     6,903,903      36,876          345,000          1,744,696       15,000,913
+Chris A. Malachowsky....        --            --     344,687          220,313         16,209,531        8,411,694
+Curtis R. Priem.........        --            --     343,750          186,250         16,209,531        7,994,204
+</TABLE>
+--------
+(1) Based on the difference between $50.81 (the fair market value of NVIDIA's
+    common stock on January 26, 2001, the last trading day of the fiscal year)
+    and the exercise price.
+
+        Report of the Compensation Committee of the Board of Directors
+                         on Executive Compensation/2/
+
+Introduction
+
+   Our executive compensation policies and practices are established and
+administered by the Compensation Committee of the Board of Directors. The
+Compensation Committee consists of three non-employee directors: Tench Coxe,
+James C. Gaither and Harvey C. Jones. The Committee's determinations regarding
+compensation of the Chief Executive Officer and other executive officers are
+reviewed with all the non-employee directors.
+
+Philosophy
+
+   The goals of the compensation program are: (1) to align the financial
+interests of the executive officers and other key employees with those of the
+stockholders; and (2) to provide a means for NVIDIA to attract, retain, and
+reward high-quality executives who contribute to our long-term success.
+
+  .  Our philosophy regarding base salaries for executives is conservative,
+     with the goal of maintaining base salaries at the industry median for
+     comparable companies.
+
+  .  We maintain semi-annual incentive bonus opportunities that are intended
+     to motivate executives to achieve specific operating and strategic
+     objectives. The combination of base and incentive bonus is targeted to
+     bring total compensation to competitive levels.
+
+  .  We provide significant equity-based incentives for executives and other
+     key employees to ensure they are motivated over the long-term to
+     increase stockholder value and to contribute to our long-term growth.
+
+Compensation Plans
+
+   Our executive compensation comprises three elements, each of which is
+intended to support the overall compensation philosophy.
+--------
+2 The material in this report is not "soliciting material," is not deemed
+"filed" with the SEC, and is not to be incorporated by reference into any past
+or future filing that we make under the Securities Act of 1933 or the
+Securities Exchange Act of 1934, irrespective of any general incorporation
+language contained in such filing.
+
+                                      14
+<PAGE>
+
+   Base Salary. We recognize the importance of maintaining compensation levels
+competitive with semiconductor and other leading technology companies with
+which we compete for talent. Base salary is targeted at the median level for
+companies in similar businesses of similar characteristics such as sales
+volume, capitalization and financial performance. We review with the Chief
+Executive Officer an annual salary plan for our executive officers (other than
+the Chief Executive Officer). The salary plan is modified as we deem
+appropriate upon our approval. The annual salary plan is developed based on an
+annual review of executive salaries at semiconductor and other comparable
+technology companies, including the Radford Survey. The industry group shown
+on NVIDIA's Performance Measurement Comparison Graph includes larger companies
+included in such compensation survey, as well as companies of comparable size
+within the fabless semiconductor sector. Such annual plan also takes into
+account past performance and expected future contributions of the individual
+executive.
+
+   Bonus. We introduced a semi-annual incentive bonus plan in the second half
+of fiscal 2000, which provides bonus compensation to executives, based on
+achievement of specific financial performance targets. The plan is funded
+based on achieving a minimum threshold in operating margin and is distributed
+based on individual performance objectives.
+
+   Long-Term Incentives. Long-term incentives have been in the form of stock
+options. We believe that equity-based compensation closely aligns the
+interests of executive officers with your interests as stockholders, by
+providing an incentive to manage NVIDIA with a focus on long-term strategic
+objectives set by the Board of Directors relating to growth and stockholder
+value. Stock options are granted under the 1998 Equity Incentive Plan. Stock
+options are granted at not less than fair market value and have value only if
+NVIDIA's stock price increases. The size of the option grant is determined
+based on competitive practices in the technology industry and our philosophy
+of significantly linking executive compensation with stockholder interests.
+Stock options vest in a series of installments over a four-year period,
+contingent upon the executives continued employment at NVIDIA. Options
+terminate 10 years after the date of grant. Subsequent grants are based on a
+number of factors, including individual performance, job level, expected
+future performance, and the competitive environment.
+
+   Executive officers are also generally eligible to participate in NVIDIA's
+1998 Employee Stock Purchase Plan. Participation levels in such Plan are at
+the discretion of each executive. However, as a result of applicable laws
+regarding stock ownership, Messrs. Huang, Malachowsky and Priem are not
+eligible to participate in this Plan.
+
+   In fiscal 2001, we determined that each of executive officers should
+receive option grants. The table on page 13 reflects such grants. Out of a
+total of 10,777,375 options granted to employees under the 1998 Equity
+Incentive Plan and 2000 Nonstatutory Equity Incentive Plan in fiscal 2001,
+executive officers received grants for 1,025,000 shares, or approximately 9.5%
+of the total options granted to employees under the 1998 Equity Incentive Plan
+and the 2000 Nonstatutory Equity Incentive Plan in fiscal 2001.
+
+   We believe the programs described above provide compensation that is
+competitive with comparable technology companies, that they link the interests
+of our executives together with yours as stockholders, and that they provide
+the basis for us to attract and retain qualified executives. We will continue
+to monitor the relationship among executive compensation, NVIDIA's performance
+and stockholder value.
+
+Chief Executive Officer Compensation
+
+   A process similar to that discussed above for executive officers determines
+compensation for Jen-Hsun Huang, the Chief Executive Officer. Following our
+review of compensation paid to Chief Executive Officers at other comparable
+technology companies, we increased Mr. Huang's base salary for fiscal 2001
+from $300,000 to $400,000. In addition, Mr. Huang's fiscal 2001 bonus target
+was set at $400,000, based on achieving key financial and other strategic
+objectives. We determined that Mr. Huang achieved his objectives in fiscal
+2001. For fiscal 2002, we determined to leave Mr. Huang's base salary at
+$400,000, and increased his annual bonus target to $600,000. The bonus, if
+any, that Mr. Huang will be paid for fiscal 2002 performance continues to be
+based on achieving key financial and other strategic objectives.
+
+                                      15
+<PAGE>
+
+   In fiscal 2001, Mr. Huang was also granted an option to acquire 800,000
+shares of common stock at an exercise price of $18.53, which was the fair
+market value of the stock on such date. This option vests on a quarterly basis
+over four years following the date of the grant. This grant was intended to
+continue to maintain the overall competitiveness of Mr. Huang's compensation
+package and strengthen the alignment of Mr. Huang's interests with those of
+our stockholders during a critical phase of NVIDIA's development.
+
+   We intend to continue to monitor Mr. Huang's compensation level in light of
+his performance and the compensation levels of executives at comparable
+companies.
+
+                                          Compensation Committee
+
+                                          Tench Coxe
+                                          James C. Gaither
+                                          Harvey C. Jones
+
+Compensation Committee Interlocks and Insider Participation
+
+   For the fiscal year ended January 28, 2001, the Compensation Committee
+consisted of Messrs. Coxe, Gaither and Jones. No member of the Compensation
+Committee is an officer or employee of NVIDIA, and none of our executive
+officers serve as a member of a compensation committee of any entity that has
+one or more executive officers serving as a member of the Compensation
+Committee. Each of our directors, or their affiliated entities, other than Mr.
+Seawell, has purchased and holds NVIDIA securities.
+
+   Mr. Gaither has provided legal services to NVIDIA since its inception. See
+"Certain Transactions."
+
+
+
+                  Performance Measurement Comparison/1/
+
+
+   The following graph shows a comparison of total stockholder return of an
+investment of $100 in cash on January 22, 1999 (the date the Company's Common
+Stock began trading on the Nasdaq National Market) through January 26, 2001
+(the last trading day of the Company's 2001 fiscal year) in (i) NVIDIA's
+Common Stock; (ii) the Hambrecht & Quist Technology Index; and (iii) the
+Nasdaq Stock Market (U.S.). Historic stock price performance is not
+necessarily indicative of future stock price performance. All values assume
+reinvestment of the full amount of all dividends.
+--------
+
+
+
+/1/ The material in this report is not "soliciting material," is not deemed
+"filed" with the SEC, and is not to be incorporated by reference into any of
+our past or future filings under the Securities Act of 1933 or the Securities
+Exchange Act of 1934, irrespective of any general incorporation language
+contained in such filing.
+
+
+                                      16
+<PAGE>
+
+                    COMPARISON OF CUMULATIVE TOTAL RETURN*
+
+   AMONG NVIDIA CORPORATION, THE HAMBRECHT & QUIST TECHNOLOGY INDEX
+   AND THE NASDAQ STOCK MARKET (U.S.)
+
+
+                              [COMPARISON CHART]
+CRSP Total Return Indices
+Monthly Values as of January 31, 2001
+Incorporates historical edits made through 01/31/01
+<TABLE>
+<CAPTION>
+                    Total Return       Total Return         Total Return
+Date                Value NVIDIA       Value Nasdaq      Value for H&Q Tech
+----                ------------       ------------      ------------------
+<S>                 <C>                <C>               <C>
+01/29/99              100               100                     100
+02/26/99              115.463158         91.0448862              88.9126504
+03/31/99              111.189474         97.9340573              95.7739565
+04/30/99               96.0526316       101.088859               99.382254
+05/28/99               89.8              98.2891226             100.738768
+06/30/99              100.663158        107.132818              113.400859
+07/30/99              105.926316        105.200887              111.830492
+08/31/99              148.031579        109.649548              117.180726
+09/30/99              101.315789        109.800207              119.838832
+10/29/99              116.452632        118.6005                132.40955
+11/30/99              182.242105        133.030113              154.772829
+12/31/99              247.042105        162.291016              196.109804
+01/31/00              195.063158        156.284395              187.619321
+02/29/00              336.842105        185.993469              239.802088
+03/31/00              444.652632        182.162664              221.192916
+04/28/00              469.084211        153.221986              197.305928
+05/31/00              600.663158        134.738493              173.262924
+06/30/00              669.084211        158.381373              198.302778
+07/31/00              631.578947        149.803917              185.618815
+08/31/00              835.526316        167.509739              218.319984
+09/29/00              861.842105        145.753247              194.675039
+10/31/00              654.115789        133.725617              176.952874
+11/30/00              426.315789        103.094871              126.660283
+12/29/00              344.905263         97.6665097             126.451776
+01/31/01              543.421053        109.629334              144.593872
+</TABLE>
+  *  ASSUMES $100 INVESTED ON 1/22/99 IN STOCK OR INDEX, INCLUDING
+     REINVESTMENT OF DIVIDENDS. THE LAST DAY ON WHICH STOCK WAS TRADED IN THE
+     FISCAL YEAR ENDED JANUARY 28, 2001 WAS JANUARY 26, 2001.
+
+                                      17
+<PAGE>
+
+                             Certain Transactions
+
+   James C. Gaither, one of our directors and a member of our compensation
+committee, is Senior Counsel to Cooley Godward LLP, which has provided legal
+services to us since our inception.
+
+   We have entered into indemnity agreements with each of our directors and
+executive officers. The form of indemnity agreement provides, among other
+things, that NVIDIA will indemnify such executive officer and director, under
+the circumstances and to the extent provided for therein, for any and all
+expenses he or she may be required to pay in actions or proceedings because of
+his or her status as a director or executive officer of NVIDIA, to the fullest
+extent permitted by the Company's Bylaws and Delaware law.
+
+                                 Other Matters
+
+Other Business
+
+   We do not know of any other matters will be presented for consideration at
+the Annual Meeting. If any other matters are properly brought before the
+meeting, it is the intention of the persons named in the accompanying proxy to
+vote on such matters in accordance with their best judgment.
+
+Annual Report On Form 10-K
+
+   Our annual report on Form 10-K, as amended, for the year ended January 28,
+2001, as filed with the SEC, is available electronically through our web site
+at http://www.nvidia.com. It is also available without charge upon written
+request to: Corporate Secretary, NVIDIA Corporation, 2701 San Tomas
+Expressway, Santa Clara, California 95050. Copies may also be obtained
+electronically through the SEC's EDGAR database: http://www.sec.gov.
+
+                                          By Order of the Board of Directors
+
+                                          /s/ Christine B. Hoberg
+
+                                          Christine B. Hoberg
+                                          Secretary
+
+June 25, 2001
+
+
+                                      18
+<PAGE>
+
+                                   Appendix A
+
+                            Audit Committee Charter
+<PAGE>
+
+                              NVIDIA CORPORATION
+           Charter of the Audit Committee of the Board of Directors
+                               adopted May 2000;
+                               amended May 2001
+
+I. Audit Committee Purpose
+
+  .  The Audit Committee is appointed by the Board of Directors to assist the
+     Board in fulfilling its oversight responsibilities. The Audit
+     Committee's primary duties and responsibilities are to:
+
+  .  Monitor the integrity of the Company's financial reporting process and
+     systems of internal controls regarding finance, accounting, and legal
+     compliance.
+
+  .  Monitor the independence and performance of the Company's independent
+     auditors.
+
+  .  Provide an avenue of communication among the independent auditors,
+     management and the Board of Directors.
+
+   The Audit Committee has the authority to conduct any investigation
+appropriate to fulfilling its responsibilities, and it has direct access to
+the independent auditors as well as anyone in the organization. The Audit
+Committee has the ability to retain, at the Company's expense, special legal,
+accounting, or other consultants or experts it deems necessary in the
+performance of its duties.
+
+II. Audit Committee Composition and Meetings
+
+   Audit Committee members shall meet the requirements of the Nasdaq National
+Market. The Audit Committee shall comprise at least three directors as
+determined by the Board, none of whom shall be an employee and each of whom
+shall be free from any relationship that would interfere with the exercise of
+his or her independent judgment, as determined by the Board of Directors, in
+accordance with applicable Nasdaq requirements. All members of the Committee
+shall have a basic understanding of finance and accounting and be able to read
+and understand fundamental financial statements, and at least one member of
+the Committee shall have accounting or related financial management expertise.
+
+   Audit Committee members shall be appointed by the Board.
+
+   The Committee shall meet at least four times annually, or more frequently
+as circumstances dictate. The Committee should meet privately in executive
+session at least annually with management, the independent auditors, and as a
+committee to discuss any matters that the Committee or each of these groups
+believe should be discussed. In addition, the Committee should communicate
+with management and the independent auditors quarterly to review the Company's
+financial statements and significant findings based upon the auditors' limited
+review procedures.
+
+III. Audit Committee Responsibilities and Duties
+
+Review Procedures
+
+  1. Review and reassess the adequacy of this Charter at least annually.
+     Submit the charter to the Board of Directors for approval and have the
+     document published at least every three years in accordance with SEC
+     regulations.
+
+  2. Review the Company's annual audited financial statements prior to filing
+     or distribution. Review should include discussion with management and
+     independent auditors of significant issues regarding accounting
+     principles, practices, and judgments.
+
+  3. In consultation with the management and the independent auditors,
+     consider the integrity of the Company's financial reporting processes
+     and controls. Discuss significant financial risk exposures and the steps
+     management has taken to monitor, control, and report such exposures.
+     Review significant
+
+                                      A-1
+<PAGE>
+
+     findings prepared by the independent auditors together with management's
+     responses, including the status of previous recommendations.
+
+  4. Review with financial management and the independent auditors the
+     company's quarterly financial results prior to the release of earnings
+     and/or the company's quarterly financial statements prior to filing or
+     distribution. Discuss any significant changes to the Company's
+     accounting principles and any items required to be communicated by the
+     independent auditors in accordance with SAS 61 (see item 9).
+
+Independent Auditors
+  5. The independent auditors are ultimately accountable to the Audit
+     Committee and the Board of Directors. The Audit Committee shall review
+     the independence and performance of the auditors and annually recommend
+     to the Board of Directors the appointment of the independent auditors or
+     approve any discharge of auditors when circumstances warrant.
+
+  6. Approve the fees and other significant compensation to be paid to the
+     independent auditors.
+
+  7. On an annual basis, the Committee should review and discuss with the
+     independent auditors all significant relationships they have with the
+     Company that could impair the auditors' independence.
+
+  8. Review the independent auditors audit plan--discuss scope, staffing,
+     locations, reliance upon management and general audit approach.
+
+  9. Prior to releasing the year-end earnings, discuss the results of the
+     audit with the independent auditors. Discuss certain matters required to
+     be communicated to audit committees in accordance with AICPA SAS 61.
+
+  10. Consider the independent auditors' judgments about the quality and
+      appropriateness of the Company's accounting principles as applied in
+      its financial reporting.
+
+Legal Compliance
+
+  11. On at least an annual basis, review with the Company's legal counsel,
+      any legal matters that could have a significant impact on the
+      organization's financial statements, the Company's compliance with
+      applicable laws and regulations, and inquiries received from regulators
+      or governmental agencies.
+
+Other Audit Committee Responsibilities
+
+  12. Annually prepare a report to stockholders as required by the Securities
+      and Exchange Commission. The report should be included in the Company's
+      annual proxy statement.
+
+  13. Perform any other activities consistent with this Charter, the
+      Company's by-laws, and governing law, as the Committee or the Board
+      deems necessary or appropriate.
+
+  14. Maintain minutes of meetings and periodically report to the Board of
+      Directors on significant results of the foregoing activities.
+
+                                      A-2
+<PAGE>
+
+                           CERTIFICATE OF AMENDMENT
+                                      OF
+               AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+                                      OF
+                              NVIDIA CORPORATION
+                           (a Delaware corporation)
+
+   NVIDIA Corporation, a Delaware corporation (the "Corporation"), does hereby
+certify:
+
+   First: The name of the Corporation is NVIDIA Corporation.
+
+   Second: The Corporation's original Certificate of Incorporation was filed
+with the Delaware Secretary of State on February 24, 1998 under the name of
+NVIDIA Delaware Corporation.
+
+   Third: The Board of Directors of the Corporation, acting in accordance with
+Sections 141(f) and 242 of the General Corporation Law of the State of
+Delaware, adopted resolutions to amend Paragraph A of Article IV of the
+Amended and Restated Certificate of Incorporation of the Corporation to read
+in its entirety as follows:
+
+   "A. This corporation is authorized to issue two classes of stock to be
+designated, respectively, "Common Stock" and "Preferred Stock." The total
+number of shares which the corporation is authorized to issue is Five Hundred
+Two Million (502,000,000) shares. Five Hundred Million (500,000,000) shares
+shall be Common Stock, each having a par value of one-tenth of one cent
+($.001). Two Million (2,000,000) shares shall be Preferred Stock, each having
+a par value of one-tenth of one cent ($.001).
+
+   The Preferred Stock may be issued from time to time in one or more series.
+The Board of Directors is hereby authorized, by filing a certificate (a
+"Preferred Stock Designation") pursuant to the Delaware General Corporation
+Law, to fix or alter from time to time the designation, powers, preferences
+and rights of the shares of each such series and the qualifications,
+limitations or restrictions of any wholly unissued series of Preferred Stock,
+and to establish from time to time the number of shares constituting any such
+series or any of them; and to increase or decrease the number of shares of any
+series subsequent to the issuance of shares of that series, but not below the
+number of shares of such series then outstanding. In case the number of shares
+of any series shall be decreased in accordance with the foregoing sentence,
+the shares constituting such decrease shall resume the status that they had
+prior to the adoption of the resolution originally fixing the number of shares
+of such series."
+
+   Fourth: Thereafter pursuant to a resolution of the Board of Directors this
+Certificate of Amendment was submitted to the stockholders of the Corporation
+for their approval, and was duly adopted in accordance with the provisions of
+Section 242 of the General Corporation Law of the State of Delaware.
+
+   Fifth: All other provisions of the Amended and Restated Certificate of
+Incorporation shall remain in full force and effect.
+
+   In Witness Whereof, NVIDIA Corporation has caused this Certificate of
+Amendment to be signed by its President and attested to by its Secretary in
+Santa Clara, California this      day of May, 2001.
+
+                                          NVIDIA Corporation
+
+                                          -------------------------------------
+                                          Jen-Hsun Huang
+                                          President and Chief Executive
+                                           Officer
+
+Attest:
+
+-------------------------------
+Christine B. Hoberg
+Secretary
+<PAGE>
+                              NVIDIA CORPORATION
+
+           PROXY FOR ANNUAL MEETING OF STOCKHOLDERS AUGUST 15, 2001
+
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+
+The undersigned hereby appoints Jen-Hsun Huang and Christine B. Hoberg, or
+either of them, each with full power of substitution as proxies of the
+undersigned, to attend the Annual Meeting of Stockholders of NVIDIA Corporation,
+to be held at the Company's Corporate Headquarters, 2701 San Tomas Expressway,
+Santa Clara, California, on Wednesday, August 15, 2001 at 2:00 p.m. local time
+and at any adjournment or postponement thereof, to vote the number of shares the
+undersigned would be entitled to vote if personally present, and to vote in
+their discretion upon any other business that may properly come before the
+meeting.
+
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN.
+IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR PROPOSALS 1, 2 AND 3.
+
+Please sign, date and return this proxy in the envelope provided, which requires
+no postage if mailed in the United States.
+
+                          CONTINUED ON THE OTHER SIDE
+             IMPORTANT TO MARK, DATE AND SIGN ON THE REVERSE SIDE
+<PAGE>
+  PLEASE MARK
+  /X/ VOTES AS IN THIS EXAMPLE
+
+                  THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR
+                             PROPOSALS 1, 2 AND 3.
+                             ---------------------
+
+
+1.  ELECTION OF DIRECTORS.
+    NOMINEES: James C. Gaither, Jen-Hsun Huang and A. Brooke Seawell
+
+          FOR  WITHHELD
+          / /    / /
+
+          / /  __________________________________________
+          For all nominees except as noted above
+
+2.  To approve an amendment to the Company's Amended and Restated Certificate of
+    Incorporation to increase the authorized number of shares of Common Stock
+    from 200,000,000 shares to 500,000,000 shares.
+
+          FOR  AGAINST  ABSTAIN
+          / /    / /      / /
+
+
+3.  To ratify the selection of KPMG LLP as the Company's independent auditors
+    for fiscal 2002.
+
+          FOR  AGAINST  ABSTAIN
+          / /    / /      / /
+
+
+/ / MARK HERE IF YOU PLAN TO ATTEND THE MEETING
+
+
+/ / MARK HERE FOR ADDRESS CHANGE AND NOTE BELOW
+
+Signature:____________________________________ Date:________
+
+Signature:____________________________________ Date:________
+
+(This Proxy should be marked, dated and signed by the stockholder(s) exactly as
+his or her name appears on the stock certificate(s) and returned in the enclosed
+envelope. If shares are held by joint tenants or as community property, both
+should sign. When signing as attorney, as executor, administrator, trustee or
+guardian, please give full title as such. A corporation is requested to sign its
+name by its authorized officer, with the office held designated. If a
+partnership, please sign in partnership name by authorized person.)
+</TEXT>
+</DOCUMENT>

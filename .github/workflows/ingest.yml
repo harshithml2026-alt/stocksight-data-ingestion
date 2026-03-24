@@ -1,0 +1,33 @@
+name: Ingest SEC filings to Pinecone
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "SEC/**"
+      - "ingest_to_pinecone.py"
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openai pinecone beautifulsoup4 tqdm
+
+      - name: Ingest SEC filings into Pinecone
+        env:
+          OPENAI_API_KEY:      ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY:    ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME }}
+        run: python ingest_to_pinecone.py

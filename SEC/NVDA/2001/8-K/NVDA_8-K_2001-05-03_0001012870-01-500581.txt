@@ -1,0 +1,201 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.txt
+<DESCRIPTION>FORM 8-K DATED APRIL 18, 2001
+<TEXT>
+
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, DC 20549
+                             --------------------
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+                    Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+
+
+       Date of Report (Date of earliest event reported): April 18, 2001
+
+
+
+                              NVIDIA CORPORATION
+              (Exact name of registrant as specified in charter)
+
+                                   Delaware
+                (State or other jurisdiction of incorporation)
+
+
+             0-23985                                     94-3177549
+      (Commission File No.)                 (I.R.S. Employer Identification No.)
+
+
+                              3535 Monroe Street
+                             Santa Clara, CA 95051
+             (Address of principal executive offices and zip code)
+
+                                (408) 615-2500
+             (Registrant's telephone number, including area code)
+<PAGE>
+
+Item 2.  Acquisition or Disposition of Assets.
+
+     This Current Report on Form 8-K contains forward-looking statements within
+the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended. These forward-
+looking statements are subject to risks and uncertainties that could cause
+results to be materially different than expectations. Such risks and
+uncertainties include, but are not limited to, those related to the ability of
+NVIDIA Corporation, a Delaware corporation ("NVIDIA"), and its wholly-owned
+subsidiary, NVIDIA US Investment Company, a Delaware corporation ("Acquisition
+Sub") to achieve the anticipated benefits of the purchase of certain assets of
+3dfx Interactive, Inc., a California corporation ("3dfx"), pursuant to the Asset
+Purchase Agreement, dated as of December 15, 2000, by and among such parties
+(the "Asset Purchase Agreement"). Investors are advised to read the Company's
+Annual Report on Form 10-K and quarterly reports on Form 10-Q filed with the
+Securities and Exchange Commission for a fuller discussion of these and other
+risks and uncertainties.
+
+     On April 18, 2001, Acquisition Sub completed the purchase of certain
+graphic assets of 3dfx. At the closing, Acquisition Sub made payments totaling
+$55 million in cash and acquired specified assets relating to the graphics chip
+business of 3dfx, including patents and patent applications. On the date of
+execution of the Asset Purchase Agreement, Acquisition Sub loaned 3dfx $15
+million pursuant to a Credit Agreement, dated as of December 15, 2000, by and
+between Acquisition Sub and 3dfx. In addition, following the closing, NVIDIA and
+3dfx filed a stipulation to dismiss with prejudice the patent litigation between
+the parties. The litigation was dismissed on April 26, 2001, pursuant to a
+judicial order.
+
+     Under the terms of the Asset Purchase Agreement, the cash consideration due
+at the closing was $70 million, less $15 million that was loaned to 3dfx
+pursuant to a Credit Agreement, (the "Cash Consideration"). Pursuant to the
+Asset Purchase Agreement, following this closing, Acquisition Sub is to pay 3dfx
+one million shares of NVIDIA common stock (the "Stock Consideration"), subject
+to 3dfx satisfying certain conditions. The Asset Purchase Agreement provides
+that the Stock Consideration becomes deliverable by Acquisition Sub to 3dfx upon
+the completion of the winding up of the business of 3dfx pursuant to 3dfx's plan
+of dissolution, and delivery to Acquisition Sub of a certificate certifying the
+following: (i) that the shareholders of 3dfx have duly adopted resolutions
+approving the wind-up and dissolution of 3dfx; (ii) that all liabilities of 3dfx
+and its subsidiaries have been paid in full or otherwise provided for; and (iii)
+that 3dfx has validly dissolved. The Asset Purchase Agreement also provides that
+3dfx may request up to $25 million (the "Post-Closing Advance") prior to the
+payment of the Stock Consideration. If the Post-Closing Advance is paid, the
+Stock Consideration is reduced by the number of shares equal to the quotient
+determined by dividing the amount of the Post-Closing Advance by $50.00. The
+Post-Closing Advance can be requested by 3dfx if 3dfx (i) is not in breach of
+the Asset Purchase Agreement; and (ii) has expended all or substantially all of
+the Cash Consideration in payment of liabilities of 3dfx and its subsidiaries,
+and reasonably and in good faith determines (y) that the then-remaining Cash
+Consideration is or will be insufficient to enable 3dfx and its subsidiaries to
+pay in full all then-remaining liabilities of 3dfx and its subsidiaries; and (z)
+that all then-remaining liabilities of 3dfx and its subsidiaries could and would
+be paid in full if 3dfx had access to the Post-Closing Advance. The maximum
+amount of the Post-closing Advance is $25 million. Unless Acquisition Sub
+determines in good faith that the Post-Closing Advance requested would not
+permit 3dfx to pay in full all then-remaining liabilities of 3dfx and its
+subsidiaries, the Asset Purchase Agreement requires that the Post-Closing
+Advance be delivered to 3dfx within 10 business days after Acquisition Sub
+receives 3dfx's written request.
+
+     A copy of the press release issued by NVIDIA relating to the closing of the
+acquisition is attached as an exhibit to this Current Report on Form 8-K.
+
+Item 7.  Financial Statements, Pro Forma Financial Information and Exhibits
+
+
+                                       2
+<PAGE>
+
+     (a)  The acquired business financial statements will be filed within 60
+          days after the last date that this Report must be filed with the
+          Securities and Exchange Commission.
+
+     (b)  The pro forma financial information will be filed within 60 days after
+          the last date that this Report must be filed with the Securities and
+          Exchange Commission.
+
+     (c)  Exhibits.
+
+
+     Exhibit Number        Description
+     --------------        -----------
+
+          2.1              Asset Purchase Agreement, dated as of December 15,
+                           2000, by and among NVIDIA Corporation, NVIDIA US
+                           Investment Company (previously known as Titan
+                           Acquistion Corp. No.2) and 3dfx Interactive, Inc.(1)
+
+         99.1              Press Release, dated as of April 19, 2001 by NVIDIA
+                           Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------
+(1) Previously filed as an exhibit to our Form 10-K for the fiscal year ended
+January 28, 2001 and incorporated herein by reference.
+
+                                       3
+<PAGE>
+
+                                  SIGNATURES
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+     Date:  May 3, 2001
+
+                                               NVIDIA CORPORATION
+
+
+
+
+                                               By:  /s/ Christine B. Hoberg
+                                               ----------------------------
+                                               Christine B. Hoberg
+                                               Chief Financial Officer
+
+                                       4
+<PAGE>
+
+                          EXHIBIT INDEX
+
+          Exhibit Number        Description
+          --------------        -----------
+
+              99.1              Press Release, dated as of April 19, 2001 by
+                                NVIDIA Corporation
+
+                                       5
+</TEXT>
+</DOCUMENT>
