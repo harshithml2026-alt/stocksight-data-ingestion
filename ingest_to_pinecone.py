@@ -16,18 +16,21 @@ Usage:
 
 import os
 import re
+import time
 import hashlib
 import argparse
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 from pinecone import Pinecone
 from tqdm import tqdm
 
-EMBEDDING_MODEL = "text-embedding-3-small"
-CHUNK_SIZE      = 4000   # chars (~1000 tokens)
-CHUNK_OVERLAP   = 400    # chars
+EMBEDDING_MODEL  = "text-embedding-3-small"
+CHUNK_SIZE       = 4000   # chars (~1000 tokens)
+CHUNK_OVERLAP    = 400    # chars
+EMBED_SLEEP      = 0.5    # seconds between embedding calls (rate limit buffer)
+MAX_RETRIES      = 6      # max retries on rate limit errors
 
 
 def extract_text(file_path: Path) -> str:
@@ -53,8 +56,18 @@ def chunk_text(text: str) -> list[str]:
 
 
 def embed(texts: list[str], client: OpenAI) -> list[list[float]]:
-    response = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
-    return [item.embedding for item in response.data]
+    """Embed texts with exponential backoff on rate limit errors."""
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
+            time.sleep(EMBED_SLEEP)
+            return [item.embedding for item in response.data]
+        except RateLimitError as e:
+            if attempt == MAX_RETRIES - 1:
+                raise
+            wait = 2 ** attempt  # 1, 2, 4, 8, 16, 32 seconds
+            print(f"\n  Rate limit hit — retrying in {wait}s...")
+            time.sleep(wait)
 
 
 def file_metadata(file_path: Path) -> dict | None:
