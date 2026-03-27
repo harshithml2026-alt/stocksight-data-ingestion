@@ -1,0 +1,81 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            WASHINGTON, D.C. 20549
+
+
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+
+
+                    PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                                April 12, 2001
+                                DATE OF REPORT
+                       (DATE OF EARLIEST EVENT REPORTED)
+
+
+
+                                AMAZON.COM INC.
+              (EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER)
+
+      DELAWARE                    000-22513                  91-1646860
+   (STATE OF OTHER          (COMMISSION FILE NO.)          (IRS EMPLOYER
+    JURISDICTION                                         IDENTIFICATION NO.)
+  OF INCORPORATION)
+
+        1200 - 12TH AVENUE SOUTH, SUITE 1200, SEATTLE, WASHINGTON 98144
+         (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES. INCLUDING ZIP CODE)
+
+                                (206) 266-1000
+             (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+<PAGE>
+
+ITEM 9.   REGULATION FD DISCLOSURE
+
+     The Company's Letter to Shareholders, which accompanies its Annual Report
+for the Year Ended December 31, 2000, is attached as Exhibit 99.1.
+
+                                       2
+<PAGE>
+
+                                  SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                        AMAZON.COM, INC.
+                                        (REGISTRANT)
+
+
+Dated: April 12, 2001                   By:  /s/ L. Michelle Wilson
+                                             ----------------------------------
+                                             L. Michelle Wilson
+                                             Senior Vice President
+
+
+                                 EXHIBIT INDEX
+
+
+Exhibit Number      Description
+--------------      -----------
+
+    99.1            2000 Letter to Shareholders.
+
+                                       3
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,98 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e8-k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                                 JULY 25, 2000
+                                 DATE OF REPORT
+                       (DATE OF EARLIEST EVENT REPORTED)
+
+
+
+                                AMAZON.COM INC.
+               (EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER)
+
+          DELAWARE                 000-22513              91-1646860
+       (STATE OF OTHER       (COMMISSION FILE NO.)       (IRS EMPLOYER
+        JURISDICTION                                   IDENTIFICATION NO.)
+      OF INCORPORATION)
+
+        1200 - 12TH AVENUE SOUTH, SUITE 1200, SEATTLE, WASHINGTON 98144
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES. INCLUDING ZIP CODE)
+
+                                 (206) 266-1000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+
+
+<PAGE>   2
+ITEM 5.   OTHER EVENTS
+
+          On July 26, 2000, Amazon.com, Inc. ("Amazon.com") announced its
+financial results for the second quarter of 2000.
+
+          On July 25, 2000, Amazon.com, Inc. ("Amazon.com") announced the
+resignation of Amazon.com's President and COO, Joseph Galli.
+
+ITEM 7.   FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+          (c)  Exhibits
+
+                   99.1  Press Release dated July 26, 2000 regarding
+                         Amazon.com's second quarter financial results.
+
+                   99.2  Press release dated July 25, 2000 regarding the
+                         resignation of Amazon.com's President and COO,
+                         Joseph Galli.
+<PAGE>   3
+                                   SIGNATURES
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                        AMAZON.COM, INC.
+                                        (REGISTRANT)
+
+
+Dated: July 27, 2000                    By:  /s/ MARK S. PEEK
+                                             ----------------------------------
+                                             Mark S. Peek
+                                             Chief Accounting Officer and
+                                             Vice President, Finance
+
+<PAGE>   4
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit Number      Description
+--------------      -----------
+<S>                 <C>
+    99.1            Press Release dated July 26, 2000 regarding Amazon.com's
+                    second quarter financial results.
+
+    99.2            Press Release dated July 25, 2000 regarding the resignation
+                    of Amazon.com's President and COO, Joseph Galli.
+</TABLE>
+</TEXT>
+</DOCUMENT>

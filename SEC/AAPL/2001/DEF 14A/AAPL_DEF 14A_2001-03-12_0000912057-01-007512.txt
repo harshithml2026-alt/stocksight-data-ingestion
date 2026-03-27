@@ -1,0 +1,2654 @@
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>a2040764zdef14a.txt
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>
+                            SCHEDULE 14A INFORMATION
+
+                  Proxy Statement Pursuant to Section 14(a) of
+            the Securities Exchange Act of 1934 (Amendment No.    )
+
+<TABLE>
+      <S>        <C>
+      Filed by the Registrant /X/
+      Filed by a Party other than the Registrant / /
+
+      Check the appropriate box:
+      / /        Preliminary Proxy Statement
+      / /        Confidential, for Use of the Commission Only (as permitted
+                 by Rule 14a-6(e)(2))
+      /X/        Definitive Proxy Statement
+      / /        Definitive Additional Materials
+      / /        Soliciting Material Pursuant to Section240.14a-12
+
+                               APPLE COMPUTER, INC.
+      -----------------------------------------------------------------------
+                 (Name of Registrant as Specified In Its Charter)
+
+      -----------------------------------------------------------------------
+           (Name of Person(s) Filing Proxy Statement, if other than the
+                                    Registrant)
+</TABLE>
+
+Payment of Filing Fee (Check the appropriate box):
+
+<TABLE>
+<S>        <C>  <C>
+/X/        No fee required.
+/ /        Fee computed on table below per Exchange Act Rules 14a-6(i)(1)
+           and 0-11.
+           (1)  Title of each class of securities to which transaction
+                applies:
+                ----------------------------------------------------------
+           (2)  Aggregate number of securities to which transaction
+                applies:
+                ----------------------------------------------------------
+           (3)  Per unit price or other underlying value of transaction
+                computed pursuant to Exchange Act Rule 0-11 (set forth the
+                amount on which the filing fee is calculated and state how
+                it was determined):
+                ----------------------------------------------------------
+           (4)  Proposed maximum aggregate value of transaction:
+                ----------------------------------------------------------
+           (5)  Total fee paid:
+                ----------------------------------------------------------
+/ /        Fee paid previously with preliminary materials.
+/ /        Check box if any part of the fee is offset as provided by
+           Exchange Act Rule 0-11(a)(2) and identify the filing for which
+           the offsetting fee was paid previously. Identify the previous
+           filing by registration statement number, or the Form or
+           Schedule and the date of its filing.
+           (1)  Amount Previously Paid:
+                ----------------------------------------------------------
+           (2)  Form, Schedule or Registration Statement No.:
+                ----------------------------------------------------------
+           (3)  Filing Party:
+                ----------------------------------------------------------
+           (4)  Date Filed:
+                ----------------------------------------------------------
+</TABLE>
+<PAGE>
+                                     [LOGO]
+
+                              APPLE COMPUTER, INC.
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+                          TO BE HELD ON APRIL 19, 2001
+
+To Holders of Common Stock of
+Apple Computer, Inc.:
+
+    Notice is hereby given that the Annual Meeting of Shareholders of Apple
+Computer, Inc., a California corporation (the "Company"), will be held on
+Thursday, April 19, 2001 at 10:00 a.m., local time, at the Company's principal
+executive offices located at 1 Infinite Loop, Cupertino, California 95014, for
+the following purposes, as more fully described in the accompanying Proxy
+Statement:
+
+    1.  To elect the Company's Board of Directors.
+
+    2.  To approve an amendment to the 1998 Executive Officer Stock Plan to
+        increase the number of shares of Common Stock reserved for issuance
+        thereunder by 5,000,000 shares.
+
+    3.  To ratify the appointment of KPMG LLP as independent auditors of the
+        Company for fiscal year 2001.
+
+    4.  To consider a shareholder proposal.
+
+    5.  To transact such other business as may properly come before the meeting
+        and any postponement(s) or adjournment(s) thereof.
+
+    All shareholders are cordially invited to attend the meeting in person.
+However, to ensure that each shareholder's vote is counted at the meeting,
+shareholders are requested to mark, sign, date and return the enclosed proxy
+card as promptly as possible in the envelope provided. Shareholders attending
+the meeting may vote in person even if they have previously returned proxy
+cards.
+
+    Only shareholders of record as of the close of business on February 21, 2001
+are entitled to receive notice of, to attend and to vote at the meeting.
+
+                                               Sincerely,
+
+                                          [SIG]
+                                               NANCY R. HEINEN
+                                               SENIOR VICE PRESIDENT,
+                                               GENERAL COUNSEL AND SECRETARY
+
+Cupertino, California
+March 12, 2001
+<PAGE>
+                                     [LOGO]
+
+                              APPLE COMPUTER, INC.
+                                1 INFINITE LOOP
+                          CUPERTINO, CALIFORNIA 95014
+
+                                PROXY STATEMENT
+
+INTRODUCTION
+
+    The enclosed Proxy is solicited on behalf of the Board of Directors (the
+"BOARD") of Apple Computer, Inc., a California corporation (the "COMPANY"), for
+use at the Company's annual meeting of shareholders (the "ANNUAL MEETING") to be
+held on Thursday, April 19, 2001 at 10:00 a.m., local time, and at any
+postponement(s) or adjournment(s) thereof. The purposes of the Annual Meeting
+are set forth in this Proxy Statement and in the accompanying Notice of Annual
+Meeting of Shareholders. The Annual Meeting will be held at the Company's
+principal executive offices at the address shown above.
+
+    The Company's complete mailing address is 1 Infinite Loop, Cupertino,
+California 95014, and its telephone number is (408) 996-1010. Georgeson
+Shareholder Communications Inc., which is assisting with the mechanics of the
+return of the proxies, may be contacted at (800) 223-2064.
+
+    These proxy solicitation materials were mailed on or about March 12, 2001 to
+all shareholders entitled to vote at the Annual Meeting.
+
+PROCEDURAL MATTERS
+
+    Shareholders of record as of the close of business on February 21, 2001 (the
+"RECORD DATE") are entitled to receive notice of, to attend, and to vote at the
+Annual Meeting. There were 346,068,877 shares of Common Stock issued and
+outstanding on the Record Date. Each share has one vote on all matters. The
+closing sale price of Common Stock as reported on the Nasdaq National Market on
+the Record Date was $18.875 per share.
+
+    A shareholder may revoke any proxy given pursuant to this solicitation by
+attending the Annual Meeting and voting in person, or by delivering to the
+Company's Corporate Secretary at the Company's principal executive offices
+referred to above, prior to the Annual Meeting, a written notice of revocation
+or a duly executed proxy bearing a date later than that of the previously
+submitted proxy.
+
+    The Company will bear the cost of this solicitation. The Company has
+retained the services of Georgeson Shareholder Communications Inc. to assist in
+obtaining proxies from brokers and nominees of shareholders for the Annual
+Meeting. The estimated cost of such services is $14,000 plus out-of-pocket
+expenses. In addition, the Company will reimburse brokerage firms and other
+persons representing beneficial owners of shares for their reasonable expenses
+in forwarding solicitation material to such beneficial owners. Certain of the
+Company's directors, officers and regular employees, without additional
+compensation, may solicit proxies personally or by telephone, facsimile or
+telegram.
+
+    Attendance at the Annual Meeting is limited to shareholders. Admission to
+the meeting will be on a first-come, first-served basis. Registration will begin
+at 9:00 a.m. and each shareholder may be asked to present valid picture
+identification such as a driver's license or passport. Cameras, recording
+devices and other electronic devices will not be permitted at the meeting.
+<PAGE>
+QUORUM; ABSTENTIONS; BROKER NON-VOTES
+
+    In the election of directors, the seven candidates receiving the highest
+number of affirmative votes will be elected as directors. Proposals 2 and 3 each
+require for approval (i) the affirmative vote of a majority of the shares
+"represented and voting" and (ii) the affirmative vote of a majority of the
+required quorum. Proposal 4 requires the unanimous vote of the shares
+outstanding on the Record Date. The required quorum for the transaction of
+business at the Annual Meeting is a majority of the shares of Common Stock
+issued and outstanding on the Record Date. Shares that are voted "FOR",
+"AGAINST" or "ABSTAIN" in a matter are treated as being present at the meeting
+for purposes of establishing the quorum, but only shares voted "FOR" or
+"AGAINST" are treated as shares "represented and voting" at the Annual Meeting
+with respect to such matter. Accordingly, abstentions and broker non-votes will
+be counted for purposes of determining the presence or absence of the quorum for
+the transaction of business, but will not be counted for purposes of determining
+the number "represented and voting" with respect to a proposal.
+
+INTERNET VOTING
+
+    Shareholders whose shares are registered in the name of a bank or brokerage
+firm may be eligible to vote electronically through the Internet or by
+telephone. A large number of banks and brokerage firms are participating in the
+ADP Investor Communication Services online program. This program provides
+eligible shareholders the opportunity to vote via the Internet or by telephone.
+Voting forms will provide instructions for shareholders whose bank or brokerage
+firm is participating in ADP's program.
+
+    Registered shareholders may vote electronically through the Internet by
+following the instructions included with their proxy card. Shareholders not
+wishing to vote electronically through the Internet or whose form does not
+reference Internet or telephone voting information should complete and return
+the enclosed paper proxy card. Signing and returning the proxy card or
+submitting the proxy via the Internet or by telephone does not affect the right
+to vote in person at the Annual Meeting.
+
+DIRECTORS
+
+    Listed below are the seven directors nominated for re-election at the Annual
+Meeting. All of the directors elected at the Annual Meeting will serve a
+one-year term expiring at the next annual meeting of shareholders.
+
+<TABLE>
+<CAPTION>
+                                                                                   DIRECTOR
+NAME                                POSITION WITH THE COMPANY             AGE       SINCE
+----                                -------------------------           --------   --------
+<S>                                 <C>                                 <C>        <C>
+William V. Campbell...............  Director                               60        1997
+Gareth C.C. Chang.................  Director                               58        1996
+Millard S. Drexler................  Director                               56        1999
+Lawrence J. Ellison...............  Director                               56        1997
+Steven P. Jobs....................  Director and Chief Executive           46        1997
+                                    Officer
+Arthur D. Levinson................  Director                               51        2000
+Jerome B. York....................  Director                               62        1997
+</TABLE>
+
+    WILLIAM V. CAMPBELL has been Chairman of the Board of Directors of
+Intuit, Inc. ("INTUIT") since August 1998. From September 1999 to January 2000,
+Mr. Campbell acted as Chief Executive Officer of Intuit. From April 1994 to
+August 1998, Mr. Campbell was President and Chief Executive Officer and a
+director of Intuit. From January 1991 to December 1993, Mr. Campbell was
+President and Chief Executive Officer of GO Corporation. Mr. Campbell also
+serves on the board of directors of SanDisk Corporation.
+
+    GARETH C.C. CHANG is the Chief Executive Officer and Chairman of the Board
+of PingPong Technology. He is also the Executive Chairman of Click2Asia.com.
+Formerly, Mr. Chang served as Chairman and Chief Executive Officer of STAR TV
+and Executive Director of News Corporation. Prior to joining STAR TV,
+
+                                       2
+<PAGE>
+Mr. Chang was President of Hughes Electronics International and President of
+Direct TV International from 1993 to 1998. Previously, he was Corporate Vice
+President of McDonnell Douglas Corporation. He is currently a member of the
+Advisory Council of Nike Inc. and serves on the board of SRS Labs Inc.
+
+    MILLARD S. DREXLER has been Chief Executive Officer of Gap Inc. since 1995,
+and President since 1987. Mr. Drexler has been a member of the Board of
+Directors of Gap Inc. since November 1983. He also served as the President of
+the Gap Division from 1983 to 1987.
+
+    LAWRENCE J. ELLISON has been Chief Executive Officer and a director of
+Oracle Corporation ("ORACLE") since he co-founded Oracle in May 1977, and was
+President of Oracle until June 1996. Mr. Ellison has been Chairman of the Board
+of Oracle since June 1995.
+
+    STEVEN P. JOBS is one of the Company's co-founders and currently serves as
+its Chief Executive Officer. Mr. Jobs is also the Chairman and Chief Executive
+Officer of Pixar Animation Studios. In addition, Mr. Jobs co-founded NeXT
+Software, Inc. ("NEXT") and served as the Chairman and Chief Executive Officer
+of NeXT from 1985 until 1997 when NeXT was acquired by the Company. Mr. Jobs is
+currently a director of Gap Inc.
+
+    ARTHUR D. LEVINSON, PH.D. has been President, Chief Executive Officer and a
+director of Genentech Inc. ("GENENTECH") since July 1995. Dr. Levinson has been
+Chairman of the Board of Directors of Genentech since September 1999. He joined
+Genentech in 1980 and served in a number of executive positions, including
+Senior Vice President of R&D from 1993 to 1995.
+
+    JEROME B. YORK is Chairman and Chief Executive Officer of
+MicroWarehouse, Inc. Previously, he was Vice Chairman of Tracinda Corporation
+from September 1995 to October 1999. In May 1993, he joined International
+Business Machines Corporation ("IBM") as Senior Vice President and Chief
+Financial Officer, and he served as a director of IBM from January 1995 to
+August 1995. Prior to joining IBM, Mr. York served in a number of executive
+positions at Chrysler Corporation, including Executive Vice President-Finance
+and Chief Financial Officer from May 1990 to May 1993. He also served as a
+director of Chrysler Corporation from 1992 to 1993. Mr. York is also a director
+of MGM Mirage, Inc., Metro-Goldwyn-Mayer, Inc. and National TechTeam, Inc.
+
+BOARD MEETINGS AND COMMITTEES
+
+    The Board met and/or took action by written consent a total of eleven times
+during fiscal year 2000. The Board has a standing Audit and Finance Committee
+("AUDIT COMMITTEE").
+
+    The Audit Committee is primarily responsible for reviewing the services
+performed by the Company's independent auditors and internal audit department,
+evaluating the Company's accounting policies and its system of internal controls
+and reviewing significant financial transactions. The Audit Committee met six
+times during fiscal year 2000.
+
+    Consistent with the new Nasdaq audit committee structure and membership
+requirements, the Audit Committee is comprised of three members: Messrs. York,
+Campbell and Levinson. Because of Mr. York's affiliation with MicroWarehouse,
+(see "CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS"), he is deemed to be a
+"non-independent" director. As permitted under the Nasdaq requirements, the
+Board carefully considered Mr. York's affiliation with MicroWarehouse as well as
+his accounting and financial expertise and determined that it is in the best
+interest of the Company and its shareholders that he continue to serve as a
+member of the Audit Committee. Both Mr. Campbell and Dr. Levinson are
+independent directors.
+
+    The Audit Committee operates under a written charter adopted by the Board
+which is included in this proxy statement as Appendix A.
+
+    During fiscal year 2000, with the exception of Mr. Ellison, no director
+attended fewer than 75% of the aggregate of all meetings of the Board and the
+committees, if any, upon which such director served and which were held during
+the period of time that such person served on the Board or such committee.
+
+                                       3
+<PAGE>
+DIRECTOR COMPENSATION
+
+    In 1997, the Company ended its practice of paying cash retainers and fees to
+directors, and approved the Apple Computer, Inc. 1997 Director Stock Option Plan
+(the "DIRECTOR PLAN"). The Director Plan was approved by the shareholders in
+April 1998 and 800,000 shares have been reserved for issuance under the Director
+Plan. Pursuant to the Director Plan, the Company's non-employee directors are
+granted an option to acquire 30,000 shares of Common Stock upon their initial
+election to the Board ("INITIAL OPTIONS"). On the fourth anniversary of a
+non-employee director's initial election to the Board and on each subsequent
+anniversary, the director will be entitled to receive an option to acquire
+10,000 shares of Common Stock ("ANNUAL OPTIONS"). Initial Options vest and
+become exercisable in equal annual installments on each of the first through
+third anniversaries of the date of grant. Annual Options are fully vested and
+immediately exercisable on their date of grant. As of the end of the fiscal
+year, there were options for 360,000 shares outstanding under the Director Plan.
+
+EXECUTIVE OFFICERS
+
+    The following sets forth certain information regarding executive officers of
+the Company. Information pertaining to Mr. Jobs, who is both a director and an
+executive officer of the Company, may be found in the section entitled
+"DIRECTORS".
+
+    FRED D. ANDERSON, Executive Vice President and Chief Financial Officer (age
+56), joined the Company in April 1996. Prior to joining the Company,
+Mr. Anderson was Corporate Vice President and Chief Financial Officer of
+Automatic Data Processing, Inc., a position he held from August 1992 to
+March 1996. Mr. Anderson also serves as a member of the Board of Directors of
+3Com Corporation.
+
+    TIMOTHY D. COOK, Senior Vice President, Worldwide Operations and interim
+Senior Vice President, Worldwide Sales, Service & Support (age 40), joined the
+Company in February 1998. Prior to joining the Company, Mr. Cook held the
+position of Vice President, Corporate Materials for Compaq Computer Corporation
+("COMPAQ"). Previous to his work at Compaq, Mr. Cook was the Chief Operating
+Officer of the Reseller Division at Intelligent Electronics. Mr. Cook also spent
+12 years with IBM, most recently as Director of North American Fulfillment.
+
+    NANCY R. HEINEN, Senior Vice President, General Counsel and Secretary (age
+44), joined the Company in September 1997. Prior to joining the Company,
+Ms. Heinen held the position of Vice President, General Counsel and Secretary of
+the Board of Directors at NeXT from February 1994 until the acquisition of NeXT
+by the Company in February 1997.
+
+    RONALD B. JOHNSON, Senior Vice President, New Business Development (age 42),
+joined the Company in January 2000. Prior to joining the Company, Mr. Johnson
+spent 10 years with Target Stores, most recently as Senior Merchandising
+Executive.
+
+    JONATHAN RUBINSTEIN, Senior Vice President, Hardware Engineering (age 44),
+joined the Company in February 1997. Before joining the Company, Mr. Rubinstein
+was Executive Vice President and Chief Operating Officer of FirePower Systems
+Incorporated, from May 1993 to August 1996. Mr. Rubinstein also serves as a
+member of the Board of Directors of Immersion Corporation.
+
+    SINA TAMADDON, Senior Vice President, Applications (age 43), joined the
+Company in September 1997. Mr. Tamaddon has also served with the Company in the
+position of Senior Vice President, Worldwide Service and Support, and Vice
+President and General Manager, Newton Group. Before joining the Company,
+Mr. Tamaddon held the position of Vice President, Europe with NeXT from
+September 1996 through March 1997. From August 1994 to August 1996,
+Mr. Tamaddon held the position of Vice President, Professional Services with
+NeXT.
+
+    AVADIS TEVANIAN, JR., PH.D., Senior Vice President, Software Engineering
+(age 39), joined the Company in February 1997 upon the Company's acquisition of
+NeXT. With NeXT, Dr. Tevanian held several
+
+                                       4
+<PAGE>
+positions, including Vice President, Engineering, from April 1995 to
+February 1997. Prior to April 1995, Dr. Tevanian worked as an engineer with NeXT
+and held several management positions.
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    The following table sets forth certain information as of January 31, 2001
+(the "TABLE DATE") with respect to the beneficial ownership of the Company's
+Common Stock by (i) each person the Company believes beneficially holds more
+than 5% of the outstanding shares of Common Stock; (ii) each director;
+(iii) each Named Executive Officer listed in the Summary Compensation Table
+under the heading "EXECUTIVE COMPENSATION" and (iv) all directors and executive
+officers as a group. On the Table Date, 346,025,643 shares of Common Stock were
+issued and outstanding. Unless otherwise indicated, all persons named as
+beneficial owners of Common Stock have sole voting power and sole investment
+power with respect to the shares indicated as beneficially owned.
+
+        SECURITY OWNERSHIP OF DIRECTORS, NOMINEES AND EXECUTIVE OFFICERS
+
+<TABLE>
+<CAPTION>
+                                   SHARES OF COMMON STOCK          PERCENT OF
+NAME OF BENEFICIAL OWNER           BENEFICIALLY OWNED(1)    COMMON STOCK OUTSTANDING
+------------------------           ----------------------   ------------------------
+<S>                                <C>                      <C>
+AIM Management Group.............        20,168,808(2)                5.83%
+Steven P. Jobs...................        15,060,002(3)                4.35%
+Fred D. Anderson.................           636,004(4)                   *
+William V. Campbell..............            60,502(5)                   *
+Gareth C.C. Chang................            64,000(5)                   *
+Millard S. Drexler...............            40,000(6)                   *
+Lawrence J. Ellison..............            60,000(5)                   *
+Ronald B. Johnson................           318,750(7)                   *
+Arthur D. Levinson...............           101,600(8)                   *
+Mitchell Mandich.................           245,456(9)                   *
+Jonathan Rubinstein..............           505,184(10)                  *
+Jerome B. York...................            80,000(5)                   *
+All executive officers and
+  directors as a group
+  (15 persons)...................        18,666,841                   5.39%
+</TABLE>
+
+--------------------------
+(1) Represents shares of Common Stock held and/or options held by such
+    individuals that were exercisable at the Table Date or within 60 days
+    thereafter. The share numbers have been adjusted to reflect the Company's
+    two-for-one stock split in June 2000.
+
+(2) Based on a Form 13G dated February 9, 2001 for the period ending
+    December 31, 2000, filed by AIM Management Group, Inc., 11 Greenway Plaza,
+    Suite 100, Houston, TX 77046. The Form 13G filing for AIM Management Group,
+    an institutional investment advisor, also includes AIM Advisors, Inc., AIM
+    Capital Management, Inc. and AIM Private Asset Management, Inc.
+    Collectively, they are the beneficial owners of 20,168,808 shares or 5.83%
+    of the Common Stock.
+
+(3) Includes 15,060,000 shares of Common Stock which Mr. Jobs has the right to
+    acquire by exercise of stock options.
+
+(4) Includes 633,332 shares of Common Stock which Mr. Anderson has the right to
+    acquire by exercise of stock options.
+
+(5) Includes 60,000 shares of Common Stock which Messrs. Campbell, Chang,
+    Ellison and York each have the right to acquire by exercise of stock
+    options.
+
+(6) Includes 20,000 shares of Common Stock which Mr. Drexler has the right to
+    acquire by exercise of stock options.
+
+(7) Includes 318,750 shares of Common Stock which Mr. Johnson has the right to
+    acquire by exercise of stock options.
+
+(8) Includes 1,400 shares which Dr. Levinson holds indirectly.
+
+                                       5
+<PAGE>
+(9) Includes 245,246 shares of Common Stock which Mr. Mandich has the right to
+    acquire by exercise of stock options.
+
+(10) Includes 500,000 shares of Common Stock which Mr. Rubinstein has the right
+     to acquire by exercise of stock options.
+
+ *  Represents less than 1% of the issued and outstanding shares of Common Stock
+    on the Table Date.
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+    Section 16(a) of the Securities Exchange Act of 1934, as amended, requires
+the Company's officers and directors, and persons who own more than ten percent
+of a registered class of the Company's equity securities, to file reports of
+securities ownership and changes in such ownership with the Securities and
+Exchange Commission (the "SEC"). Officers, directors and greater than ten
+percent shareholders also are required by rules promulgated by the SEC to
+furnish the Company with copies of all Section 16(a) forms they file.
+
+    Based solely upon a review of the copies of such forms furnished to the
+Company, the absence of a Form 3, 4 or 5 or written representations that no
+Forms 5 were required, the Company believes that, during fiscal year 2000, its
+officers, directors and greater than ten percent beneficial owners complied with
+all applicable Section 16(a) filing requirements.
+
+                                       6
+<PAGE>
+           REPORT OF THE BOARD OF DIRECTORS ON EXECUTIVE COMPENSATION
+
+    Until April 2000, the members of the Compensation Committee were
+Messrs. Edgar S. Woolard and Gareth C.C. Chang. Mr. Woolard retired from the
+Board of Directors in April 2000 and the Company ceased to have an active
+Compensation Committee. As a result, the Company's executive compensation
+program is presently administered by the Board. The Board reviews and approves
+the base salaries, bonuses, stock options and other compensation of the
+executive officers and management-level employees of the Company and administers
+the Company's stock option plans. Mr. Jobs, who is both a member of the Board
+and the Company's Chief Executive Officer, does not participate in deliberations
+of the Board concerning executive compensation.
+
+    The Company's executive compensation program focuses on Company performance,
+individual performance and increases in stockholder value over time as
+determinants of executive pay levels. These principles are intended to motivate
+executive officers to improve the financial position of the Company, to hold
+executives accountable for the performance of the organizations for which they
+are responsible, to attract key executives into the service of the Company, and
+to create value for the Company's shareholders. The compensation for executive
+officers is based on two elements: Cash compensation and equity-based
+compensation.
+
+CASH COMPENSATION
+
+    The Company reviews executive compensation surveys in both the computer
+industry and general industry to ensure that the total cash compensation
+provided to executive officers and senior management remains at competitive
+levels so that the Company can continue to attract and retain management
+personnel with the talents and skills required to meet the challenges of a
+highly competitive industry. The compensation of executive officers is reviewed
+annually.
+
+BONUSES
+
+    For fiscal year 2000, the Board established a FY00 Vice Presidents and
+Directors Incentive Bonus Plan (the "BONUS PLAN"), under which cash bonuses for
+employees at the level of director and above were determined based on specified
+revenue, unit shipments and profit targets for the Company. Because the Company
+achieved the metrics specified in the Bonus Plan, payments were made thereunder.
+Executive officers and members of the Board were not eligible to participate in
+the Bonus Plan and received no other bonuses for fiscal year 2000.
+
+EQUITY-BASED COMPENSATION
+
+    In fiscal year 2000, the Board emphasized equity-based compensation,
+principally in the form of options, as the cornerstone of the Company's
+executive compensation program. Equity awards are typically set by the Board
+based on industry surveys, each officer's individual performance and
+achievements, market factors and the recommendations of management. In fiscal
+year 2000, executive officers were eligible to receive grants of stock options
+under the 1998 Executive Officer Stock Plan ("1998 PLAN"). In addition,
+executive officers were eligible to participate in the Company's Employee Stock
+Purchase Plan.
+
+    During fiscal year 2000, options were granted under the 1998 Plan to
+Messrs. Jobs, Johnson, and Tamaddon and Ms. Heinen. The options granted under
+the 1998 Plan were at an exercise price equal to the fair market value of the
+Common Stock on the date of grant and generally vest in increments over a
+four-year period after grant, subject to the participant's continued employment
+with the Company. However, the options granted to Mr. Jobs will vest in full in
+July 2001. All options granted under the 1998 Plan expire ten years from the
+date of grant, unless a shorter term is provided in the option agreement or the
+participant's employment with the Company terminates before the end of such
+ten-year period.
+
+                                       7
+<PAGE>
+COMPENSATION OF THE CHIEF EXECUTIVE OFFICER
+
+    In December 1999, in recognition of Mr. Jobs' outstanding performance over
+the previous two and a half years, the Board awarded Mr. Jobs a special
+executive bonus in the form of a Gulfstream V airplane. The Board anticipates
+delivering the plane to Mr. Jobs during fiscal 2001. In January 2000, Mr. Jobs
+accepted the position of Chief Executive Officer, which he had previously held
+on an interim basis. The Board at that time granted Mr. Jobs 20 million options
+under the 1998 Plan. Mr. Jobs will continue to receive a salary of $1 per year
+for the services he performs as the Company's Chief Executive Officer.
+
+SECTION 162(m)
+
+    The Company intends that options granted under the Company's stock option
+plans be deductible by the Company under Section 162(m) of the Internal Revenue
+Code of 1986, as amended.
+
+             MEMBERS OF THE BOARD OF DIRECTORS (EXCLUDING MR. JOBS)
+
+<TABLE>
+    <S>                       <C>                       <C>
+    William V. Campbell       Gareth C.C. Chang         Millard S. Drexler
+    Lawrence J. Ellison       Arthur D. Levinson        Jerome B. York
+</TABLE>
+
+INFORMATION REGARDING EXECUTIVE COMPENSATION
+
+    The following table summarizes compensation information for the last three
+fiscal years for (i) Mr. Jobs, Chief Executive Officer and (ii) the four most
+highly compensated executive officers other than the Chief Executive Officer who
+were serving as executive officers of the Company at the end of the fiscal year
+(collectively, the "NAMED EXECUTIVE OFFICERS").
+
+                           SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                           ANNUAL               LONG-TERM
+                                                                        COMPENSATION          COMPENSATION
+                                                                    ---------------------     -------------
+                                                                                               SECURITIES
+                       NAME AND                           FISCAL                               UNDERLYING         ALL OTHER
+                  PRINCIPAL POSITION                       YEAR      SALARY      BONUS          OPTIONS*        COMPENSATION
+-------------------------------------------------------  --------   --------   ----------     -------------     -------------
+                                                                      ($)         ($)              (#)               ($)
+<S>                                                      <C>        <C>        <C>            <C>               <C>
+Steven P. Jobs.........................................    2000           1    90,000,000(1)   20,000,000           --
+Chief Executive Officer                                    1999           1       --              --                --
+                                                           1998           1       --              --                --
+
+Fred D. Anderson.......................................    2000     660,414       --              --                 6,750(2)
+Executive Vice President and Chief Financial Officer       1999     605,260       --              950,000           29,700(3)
+                                                           1998     604,283       --              500,000(4)        60,123(5)
+
+Ronald B. Johnson......................................    2000     328,719      500,000(6)     1,200,000          111,444(7)
+Senior Vice President, New Business Development            1999       --          --              --                --
+                                                           1998       --          --              --                --
+
+Mitchell Mandich.......................................    2000     453,444       --              --                 7,650(2)
+Senior Vice President, Worldwide Sales(8)                  1999     402,941       --              775,752            7,200(2)
+                                                           1998     402,253       --              916,668(4)         8,118(2)
+
+Jonathan Rubinstein....................................    2000     451,949       --              --                 6,577(2)
+Senior Vice President, Hardware Engineering                1999     402,200       --              458,334            5,888(9)
+                                                           1998     402,095       --              600,000(4)         4,804(2)
+</TABLE>
+
+------------------------------
+
+*   Adjusted to reflect the Company's two-for-one stock split in June 2000.
+
+(1) In December 1999, Mr. Jobs was given a special executive bonus for serving
+    as the Company's interim Chief Executive Officer for the previous 2 1/2
+    years without compensation, in the form of an aircraft with a total cost to
+    the Company of approximately $90,000,000. In January 2000, Mr. Jobs accepted
+    the position of Chief Executive Officer of the Company.
+
+(2) Consists of matching contributions made by the Company in accordance with
+    the terms of the 401(k) plan.
+
+                                       8
+<PAGE>
+(3) Consists of $22,500 in relocation assistance and $7,200 in matching
+    contributions made by the Company in accordance with the terms of the 401(k)
+    plan.
+
+(4) Includes the replacement of 500,000, 448,500 and 600,000 options that were
+    previously granted to Messrs. Anderson, Mandich and Rubinstein,
+    respectively, and canceled in fiscal 1998 pursuant to the December 1997
+    stock option exchange program.
+
+(5) Includes $55,000 in relocation assistance and $5,123 in matching
+    contributions made by the Company in accordance with the terms of the 401(k)
+    plan.
+
+(6) In connection with his employment, Mr. Johnson received a one-time hiring
+    bonus in the amount of $500,000.
+
+(7) Consists of $111,444 in relocation assistance.
+
+(8) Mr. Mandich resigned from his position of Senior Vice President, Worldwide
+    Sales on October 9, 2000.
+
+(9) Includes $3,465 from the disqualifying disposition of shares of Company
+    stock acquired through the Company's Employee Stock Purchase Plan and $2,423
+    in matching contributions made by the Company in accordance with the terms
+    of the 401(k) plan.
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+    The following table provides information about option grants to the Named
+Executive Officers during fiscal year 2000. All options have been adjusted to
+reflect the Company's two-for-one stock split in June 2000.
+
+                       OPTION GRANTS IN LAST FISCAL YEAR
+
+<TABLE>
+<CAPTION>
+                                              INDIVIDUAL GRANTS
+                           --------------------------------------------------------
+                           NUMBER OF                                                  POTENTIAL REALIZABLE VALUE AT
+                           SECURITIES                                                    ASSUMED ANNUAL RATES OF
+                           UNDERLYING   PERCENT OF TOTAL                              STOCK PRICE APPRECIATION FOR
+                            OPTIONS     OPTIONS GRANTED    EXERCISE OR                       OPTION TERM(3)
+                            GRANTED     TO EMPLOYEES IN    BASE PRICE    EXPIRATION   -----------------------------
+NAME                          (#)       FISCAL YEAR (1)     ($/SH)(2)       DATE         5% ($)         10% ($)
+----                       ----------   ----------------   -----------   ----------   ------------   --------------
+<S>                        <C>          <C>                <C>           <C>          <C>            <C>
+Steven P. Jobs...........  20,000,000         43.80%        $43.5938       1/12/10    $548,317,503   $1,389,544,207
+Fred D. Anderson.........      --           --                --            --             --              --
+Ronald B. Johnson........   1,200,000          2.63%        $47.4375      12/14/09    $ 35,799,827   $   90,723,790
+Mitchell Mandich(4)......      --           --                --            --             --              --
+Jonathan Rubinstein......      --           --                --            --             --              --
+</TABLE>
+
+------------------------
+
+(1) Based on an aggregate of 45,662,484 options granted to all employees during
+    fiscal year 2000. Options granted in fiscal year 2000, including those
+    granted to Mr. Johnson, typically vest in four equal annual installments
+    commencing on the first anniversary of the date of grant. Of the options
+    granted to Mr. Jobs, 10 million options were immediately vested and
+    exercisable on the date of grant; 5 million vested in July 2000; and the
+    remaining 5 million will vest in July 2001.
+
+(2) All options were granted at an exercise price equal to the fair market value
+    based on the closing market value of Common Stock on the Nasdaq National
+    Market on the date of grant.
+
+(3) Potential gains are net of exercise price, but before taxes associated with
+    exercise. These amounts represent certain assumed rates of appreciation
+    only, based on SEC rules, and do not represent the Company's estimate or
+    projection of the price of the Company's stock in the future. Actual gains,
+    if any, on stock option exercises depend upon the actual future price of
+    Common Stock and the continued employment of the option holders throughout
+    the vesting period. Accordingly, the potential realizable values set forth
+    in this table may not be achieved.
+
+(4) Mr. Mandich resigned from his position of Senior Vice President, Worldwide
+    Sales on October 9, 2000.
+
+                                       9
+<PAGE>
+OPTIONS EXERCISED AND YEAR-END OPTION HOLDINGS
+
+    The following table provides information about stock option exercises by the
+Named Executive Officers during fiscal year 2000 and stock options held by each
+of them at fiscal year-end.
+
+              AGGREGATED OPTION EXERCISES IN THE LAST FISCAL YEAR
+                       AND FISCAL YEAR-END OPTION VALUES
+
+<TABLE>
+<CAPTION>
+                                                            NUMBER OF SECURITIES
+                                                           UNDERLYING UNEXERCISED         VALUE OF UNEXERCISED
+                               SHARES                         OPTIONS AT FISCAL          IN-THE-MONEY OPTIONS AT
+                             ACQUIRED ON      VALUE             YEAR-END (#)             FISCAL YEAR-END ($)(2)
+                              EXERCISE      REALIZED     ---------------------------   ---------------------------
+NAME                             (#)         ($)(1)      EXERCISABLE   UNEXERCISABLE   EXERCISABLE   UNEXERCISABLE
+----                         -----------   -----------   -----------   -------------   -----------   -------------
+<S>                          <C>           <C>           <C>           <C>             <C>           <C>
+Steven P. Jobs.............     --             --        15,060,000(3)   5,000,000     $  855,000     $         0
+Fred D. Anderson...........    458,332     $16,821,525      333,332      1,200,000     $6,374,975     $12,742,188
+Ronald B. Johnson..........     --             --            --          1,200,000         --         $         0
+Mitchell Mandich(4)........    395,960     $20,987,967       63,432      1,200,000     $1,287,484     $14,622,596
+Jonathan Rubinstein........    233,334     $9,575,949       200,000      1,200,000     $3,803,125     $13,265,625
+</TABLE>
+
+------------------------
+
+(1) Market value of underlying securities (based on the fair market value of
+    Common Stock on the Nasdaq National Market) at the time of exercise, minus
+    the exercise price.
+
+(2) Market value of securities underlying in-the-money options at the end of
+    fiscal year 2000 (based on $25.75 per share, the closing price of Common
+    Stock on the Nasdaq National Market on September 29, 2000), minus the
+    exercise price.
+
+(3) Includes 60,000 options granted to Mr. Jobs in his capacity as a director
+    pursuant to the 1997 Director Stock Option Plan.
+
+(4) Mr. Mandich resigned from his position of Senior Vice President, Worldwide
+    Sales on October 9, 2000.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+    Until April 2000, the members of the Compensation Committee were
+Messrs. Edgar S. Woolard and Gareth C.C. Chang. Mr. Woolard retired from the
+Board of Directors in April 2000 and the Company ceased to have an active
+Compensation Committee. Since that time, the entire Board of Directors has acted
+with respect to matters previously considered by the Compensation Committee.
+Neither Messrs. Woolard or Chang were employees of the Company. No person who
+was an employee of the Company in fiscal year 2000 served on the Compensation
+Committee in fiscal year 2000. During fiscal year 2000, Mr. Jobs served as a
+director of Gap Inc. (though not on the compensation committee of that board of
+directors) and Mr. Drexler served as a director of the Company. Other than as
+described in the preceding sentence, no executive officer of the Company
+(i) served as a member of the compensation committee (or other board committee
+performing similar functions or, in the absence of any such committee, the board
+of directors) of another entity, one of whose executive officers served on the
+Company's Compensation Committee (or after April 2000, the Board), (ii) served
+as a director of another entity, one of whose executive officers served on the
+Company's Compensation Committee, (or after April 2000, the Board) or
+(iii) served as a member of the compensation committee (or other board committee
+performing similar functions or, in the absence of any such committee, the board
+of directors) of another entity, one of whose executive officers served as a
+director of the Company.
+
+                                       10
+<PAGE>
+COMPANY STOCK PERFORMANCE
+
+    The following graph shows a five-year comparison of cumulative total
+shareholder return, calculated on a dividend reinvested basis, for the Company,
+the S&P 500 Composite Index (the "S&P 500") and the S&P Computers (Hardware)
+Index (the "INDUSTRY INDEX"). The graph assumes $100 was invested in each of the
+Common Stock, the S&P 500 and the Industry Index on September 30, 1995. Data
+points on the graph are annual. Note that historic stock price performance is
+not necessarily indicative of future stock price performance.
+
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+
+CUMULATIVE TOTAL RETURN
+Based upon an initial investment of $100 on September 30, 1995
+with dividends reinvested
+
+<TABLE>
+<CAPTION>
+            APPLE               S&P COMPUTERS
+<S>     <C>            <C>      <C>
+        Computer Inc.  S&P 500     (Hardware)
+Sep-95           $100     $100           $100
+Sep-96            $60     $120           $120
+Sep-97            $57     $169           $225
+Sep-98           $104     $189           $273
+Sep-99           $175     $234           $441
+Sep-00           $139     $267           $525
+</TABLE>
+
+ARRANGEMENTS WITH NAMED EXECUTIVE OFFICERS
+
+EMPLOYMENT AGREEMENTS WITH NAMED EXECUTIVE OFFICERS
+
+    The Company entered into an employment agreement with Mr. Anderson effective
+April 1, 1996, pursuant to which he serves as Executive Vice President and Chief
+Financial Officer of the Company. Pursuant to his agreement, Mr. Anderson is
+entitled to an annual base salary of no less than $500,000. If Mr. Anderson's
+employment is terminated by the Company without "Cause" at any time during the
+five-year period following April 1, 1996, he will be entitled to receive a lump
+sum severance payment equal to the sum of his annual base salary and target
+bonus, if any. Mr. Anderson's agreement generally defines "Cause" to include a
+felony conviction, willful disclosure of confidential information or willful and
+continued failure to perform his employment duties.
+
+CHANGE IN CONTROL ARRANGEMENTS--STOCK OPTIONS
+
+    In the event of a "change in control" of the Company, all outstanding
+options under the Company's stock option plans, except the Director Plan, will,
+unless otherwise determined by the plan administrator,
+
+                                       11
+<PAGE>
+become exercisable in full, and will be cashed out at an amount equal to the
+difference between the applicable "change in control price" and the exercise
+price. The Director Plan provides that upon a "change in control" of the
+Company, all unvested options held by non-employee directors will automatically
+become fully vested and exercisable and will be cashed out at an amount equal to
+the difference between the applicable "change in control price" and the exercise
+price of the options. A "change in control" under these plans is generally
+defined as (i) the acquisition by any person of 50% or more of the combined
+voting power of the Company's outstanding securities or (ii) the occurrence of a
+transaction requiring shareholder approval and involving the sale of all or
+substantially all of the assets of the Company or the merger of the Company with
+or into another corporation.
+
+    In addition, options granted to Fred D. Anderson, Timothy D. Cook, Nancy R.
+Heinen, Mitchell Mandich, Sina Tamaddon, Jonathan Rubinstein and Avadis Tevanian
+provide that in the event there is a "change in control", as defined in the
+Company's stock option plans, and if in connection with or following such
+"change in control", their employment is terminated without "Cause" or if they
+should resign for "Good Reason", those options outstanding that are not yet
+vested and exercisable as of the date of such "change in control" shall become
+fully vested and exercisable. Generally, "Cause" is defined to include a felony
+conviction, willful disclosure of confidential information or willful and
+continued failure to perform his or her employment duties. "Good Reason"
+includes resignation of employment as a result of a substantial diminution in
+position or duties, or an adverse change in title or reduction in annual base
+salary.
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    In connection with the Company's use of aircraft to transport its executive
+officers, the Company paid approximately $179,278 during fiscal year 2000 to
+Wing & A Prayer, a company wholly-owned by Lawrence J. Ellison.
+
+    In connection with a relocation assistance package, the Company loaned
+Mr. Johnson (Senior Vice President, New Business Development) $1,500,000 for the
+purchase of his principal residence. The loan is secured by a deed of trust and
+is due and payable in May 2004. Under the terms of the loan, Mr. Johnson agreed
+that should he exercise any of his stock options prior to the due date of the
+loan, that he would pay the Company an amount equal to the lesser of (1) an
+amount equal to 50% of the total net gain realized from the exercise of the
+options; or (2) $375,000 multiplied by the number of years between the exercise
+date and the date of the loan. The largest amount of the indebtedness
+outstanding on this loan during fiscal year 2000 was $1,500,000.
+
+    Mr. Jerome York, a member of the Board of the Directors of the Company, is a
+member of an investment group that purchased MicroWarehouse, Inc.
+("MICROWAREHOUSE") in January 2000. He also serves as its Chairman, President
+and Chief Executive Officer. MicroWarehouse is a multi-billion dollar specialty
+catalog and online retailer and direct marketer of computer products, including
+products made by the Company, through its MacWarehouse catalogue. During fiscal
+year 2000, MicroWarehouse accounted for 3.26% of the Company's net sales.
+
+                                       12
+<PAGE>
+                    REPORT OF THE AUDIT & FINANCE COMMITTEE
+
+    The following is the report of the Audit & Finance Committee (the "Audit
+Committee") with respect to the Company's audited financial statements for the
+fiscal year ended September 30, 2000. The information contained in this report
+shall not be deemed to be "soliciting material" or to be "filed" with the
+Securities and Exchange Commission, nor shall such information be incorporated
+by reference into any future filing under the Securities Act of 1933, as
+amended, or the 1934 Securities Exchange Act, as amended, except to the extent
+that the Company specifically incorporates by reference in such filing.
+
+                          AUDITED FINANCIAL STATEMENTS
+
+    The Audit Committee has reviewed and discussed the audited financial
+statements for the fiscal year ended September 30, 2000 with the Company's
+management and KPMG LLP, the Company's independent auditors. The Audit Committee
+has also discussed with KPMG LLP the matters required to be discussed by
+Statement on Auditing Standards No. 61, "Communication with Audit Committees".
+
+    The Audit Committee has also received and reviewed the written disclosures
+and the letter from KPMG LLP required by Independence Standard No. 1
+"Independence Discussion with Audit Committees" and has discussed with the
+auditors the auditors' independence.
+
+    Based on the reviews and discussions referred to above, the Audit Committee
+recommended to the Board of Directors that the financial statements referred to
+above be included in the Company's annual report on Form 10-K for the fiscal
+year ended September 30, 2000.
+
+                    MEMBERS OF THE AUDIT & FINANCE COMMITTEE
+
+        William V. Campbell    Arthur D. Levinson    Jerome B. York (Chairman)
+
+                                       13
+<PAGE>
+                             OVERVIEW OF PROPOSALS
+
+    This Proxy Statement contains four proposals requiring shareholder action.
+Proposal No. 1 requests the election of seven directors to the Company's Board.
+Proposal No. 2 requests that the shareholders approve an amendment to the
+Company's 1998 Executive Officer Stock Plan to increase the number of shares
+reserved for issuance thereunder by 5,000,000 shares. Proposal No. 3 requests
+ratification of the Company's independent auditors. Proposal No. 4 is a
+shareholder proposal. Each of the proposals is discussed in more detail in the
+pages that follow.
+
+                                 PROPOSAL NO. 1
+
+                             ELECTION OF DIRECTORS
+
+    The Board has nominated the current directors to be re-elected to serve for
+a one-year term and until their successors are duly elected and qualified.
+Holders of proxies solicited by this Proxy Statement will vote the proxies
+received by them as directed on the proxy card or, if no direction is made, for
+the election of the Board's seven nominees below. If any nominee is unable or
+declines to serve as a director at the time of the Annual Meeting, the proxy
+holders will vote for a nominee designated by the present Board to fill the
+vacancy. It is not presently expected that any nominee will be unable or will
+decline to serve as a director.
+
+    The Board's nominees for re-election at this Annual Meeting are
+Messrs. Campbell, Chang, Drexler, Ellison, Jobs, Levinson and York.
+
+VOTE REQUIRED
+
+    The seven nominees for director receiving the highest number of affirmative
+votes of the shares entitled to be voted for them shall be elected as directors.
+Votes withheld from any director are counted for purposes of determining the
+presence or absence of the quorum, but have no other legal effect under
+California law.
+
+RECOMMENDATION
+
+    THE BOARD RECOMMENDS THAT SHAREHOLDERS VOTE FOR RE-ELECTION OF
+MESSRS. CAMPBELL, CHANG, DREXLER, ELLISON, JOBS, LEVINSON AND YORK.
+
+                                       14
+<PAGE>
+                                 PROPOSAL NO. 2
+
+       APPROVAL OF AN AMENDMENT TO THE 1998 EXECUTIVE OFFICER STOCK PLAN
+
+    The Shareholders are being asked to approve an amendment to the Company's
+1998 Executive Officer Stock Plan (the "1998 PLAN") to increase the number of
+shares reserved for issuance thereunder by 5,000,000, bringing the total number
+of shares of Common Stock reserved for issuance under the 1998 Plan to
+43,000,000.
+
+    The 1998 Plan is an integral part of the Company's compensation program.
+Under the 1998 Plan, the chairman of the Board of Directors and executive
+officers of the Company at the level of Senior Vice President and above and
+other key employees may be granted stock options, stock appreciation rights and
+stock purchase rights. The proposed amendment would provide the additional
+shares necessary to attract and retain the best available personnel for
+positions of substantial responsibility with the Company.
+
+    Since the 1998 Plan was approved by the shareholders, a total of 38,073,338
+stock options have been granted, including options that terminated before being
+exercised. As of January 31, 2001, there were 34,371,402 options to purchase
+shares outstanding and 748,742 shares of Common Stock had been issued upon the
+exercise of options.
+
+VOTE REQUIRED
+
+    The affirmative vote of (i) a majority of the shares "represented and
+voting" and (ii) a majority of the quorum will be required to approve this
+Proposal.
+
+RECOMMENDATION
+
+    THE BOARD HAS UNANIMOUSLY APPROVED THE AMENDMENT TO THE 1998 PLAN AND
+RECOMMENDS THAT THE SHAREHOLDERS VOTE FOR THE AMENDMENT.
+
+DESCRIPTION OF THE 1998 PLAN
+
+    ELIGIBILITY; LIMITATIONS. Options, stock appreciation rights and stock
+purchase rights may be granted under the 1998 Plan. Options granted under the
+1998 Plan may be either "incentive stock options," as defined in Section 422 of
+the Internal Revenue Code of 1986, as amended (the "Code"), or nonstatutory
+stock options. Nonstatutory stock options, stock appreciation rights and stock
+purchase rights may be granted under the 1998 Plan to the Chairman of the
+Company and to executive officers of the Company and any parent or subsidiary of
+the Company and other key employees. Incentive stock options may only be granted
+to executive officers of the Company. The Administrator, in its discretion,
+selects the person(s) to whom options, stock appreciation rights and stock
+purchase rights may be granted, the time or times at which such options, stock
+appreciation rights and stock purchase rights shall be granted, and the number
+of shares subject to each such grant. For this reason, it is not possible to
+determine the benefits or amounts that will be received by any particular
+individual or individuals in the future. The 1998 Plan provides that no
+person(s) may be granted, in any fiscal year of the Company, options, stock
+appreciation rights or stock purchase rights to purchase more than 17,000,000
+shares of Common Stock.
+
+    SHARES AVAILABLE FOR ISSUANCE. Upon approval of the proposed amendment by
+shareholders, a total of 43,000,000 shares of Common Stock will be available for
+issuance under the 1998 Plan. If an option, stock appreciation right or stock
+purchase right lapses, expires or is otherwise terminated without the issuance
+of shares, or if shares are tendered to pay the exercise price of an option,
+stock appreciation right or stock purchase right, the shares underlying the
+lapsed, expired or terminated option, stock appreciation right or stock purchase
+right or the tendered shares, shall revert to the 1998 Plan. The number of
+shares available for issuance will be adjusted if there is a change in the
+Company's capitalization, a merger, or a similar transaction.
+
+                                       15
+<PAGE>
+    ADMINISTRATION. The Plan may generally be administered by the Board or a
+Committee appointed by the Board (as applicable, the "Administrator").
+
+    TERMS AND CONDITIONS OF OPTIONS. Each option is evidenced by a stock option
+agreement between the Company and the optionee, and is subject to the following
+additional terms and conditions:
+
+    (a) EXERCISE PRICE. The Administrator determines the exercise price of
+options at the time the options are granted. The exercise price of an incentive
+stock option may not be less than 100% of the fair market value of the Common
+Stock on the date such option is granted; provided, however, the exercise price
+of an incentive stock option granted to a 10% shareholder may not be less than
+110% of the fair market value of the Common Stock on the date such option is
+granted. The fair market value of the Common Stock is generally determined with
+reference to the closing sale price for the Common Stock (or the closing bid if
+no sales were reported) on the date the option is granted. The exercise price of
+a non-statutory option which is intended to comply with Section 162(m) of the
+Code may not be less than 100% of the fair market value.
+
+    (b) EXERCISE OF OPTION; FORM OF CONSIDERATION. The Administrator determines
+when options become exercisable, and may in its discretion, accelerate the
+vesting of any outstanding option. Stock options granted under the 1998 Plan
+generally vest and become exercisable over a four or five year period. The 1998
+Plan permits payment to be made by cash, check, promissory note, other shares of
+Common Stock of the Company (with some restrictions), cashless exercises, a
+reduction in the amount of any Company liability to the optionee, any other form
+of consideration permitted by applicable law, or any combination thereof.
+
+    (c) TERM OF OPTION. All options granted under the 1998 Plan expire ten years
+from the date of grant, unless a shorter term is provided in the option
+agreement. The term of an incentive stock option may be no more than ten
+(10) years from the date of grant; provided that in the case of an incentive
+stock option granted to a 10% shareholder, the term of the option may be no more
+than five (5) years from the date of grant. No option may be exercised after the
+expiration of its term.
+
+    (d) TERMINATION OF EMPLOYMENT. If the optionee's employment or status as
+Chairman terminates for any reason other than death or unless the Administrator
+otherwise approves, then options may be exercised no later than 90 days after
+such termination and may be exercised only to the extent the option was
+exercisable on the termination date. Special provisions apply in the case of
+death of the optionee.
+
+    (e) DEATH. If an optionee ceases to be an employee or Chairman as a result
+of his or her death, then all options held by such optionee under the 1998 Plan
+may be exercised at any time within six months after death, or such other period
+up to twelve months as may be provided in the option agreement, but only to the
+extent the options would have been exercisable within six months after the date
+of death.
+
+    (f) NONTRANSFERABILITY OF OPTIONS, STOCK APPRECIATION RIGHTS OR STOCK
+PURCHASE RIGHTS. Unless determined otherwise by the Administrator, options,
+stock appreciation rights and stock purchase rights granted under the 1998 Plan
+are not transferable other than by will or the laws of descent and distribution
+or pursuant to a qualified domestic relations order, and may be exercised during
+the optionee's lifetime only by the optionee, or in the event of death, by the
+optionee's estate or by a person who acquires the right to exercise the option,
+stock appreciation right or stock purchase right.
+
+    (g) BUYOUT. The Administrator at any time may buyout for cash or shares, an
+option or stock appreciation right.
+
+    (h) OTHER PROVISIONS. The stock option agreement may contain other terms,
+provisions and conditions not inconsistent with the 1998 Plan as may be
+determined by the Administrator.
+
+    STOCK APPRECIATION RIGHTS. The Administrator is authorized to grant stock
+appreciation rights in connection with all or any part of an option granted
+under the 1998 Plan, either concurrently with
+
+                                       16
+<PAGE>
+the grant of the option or at any time thereafter, and to grant stock
+appreciation rights independently of options. A stock appreciation right granted
+in connection with an option is exercisable only when and to the extent that the
+underlying option is exercisable, and expires no later than the date on which
+the underlying option expires. Independent stock appreciation rights are
+exercisable in whole or in part at such times as the Administrator specifies in
+the grant or agreement.
+
+    The Company's obligations arising upon the exercise of a stock appreciation
+right may be paid in cash or Common Stock, or any combination of the same, as
+the Administrator may determine. Shares issued upon the exercise of a stock
+appreciation right are valued at their fair market value as of the date of
+exercise. When a stock appreciation right is exercised, the aggregate number of
+shares of Common Stock available for issuance under the 1998 Plan will be
+reduced by the number of underlying shares of Common Stock as to which the stock
+appreciation right is exercised.
+
+    STOCK PURCHASE RIGHTS. The Administrator is authorized to grant stock
+purchase rights under the 1998 Plan, either concurrently with a grant of options
+or stock appreciation rights and/or cash awards made outside of the 1998 Plan or
+at any time thereafter, and to grant stock purchase rights independently of
+other awards. In the case of stock purchase rights, unless the Administrator
+determines otherwise, the agreement shall grant the Company a repurchase option
+exercisable upon the voluntary or involuntary termination of the purchaser's
+employment with the Company for any reason (including death or disability). The
+purchase price for Shares repurchased pursuant to the agreement shall be the
+original price paid by the purchaser and may be paid by cancellation of any
+indebtedness of the purchaser to the Company. The repurchase option shall lapse
+at a rate determined by the Administrator.
+
+    ADJUSTMENTS UPON CHANGES IN CAPITALIZATION. In the event that the stock of
+the Company changes by reason of any stock split, reverse stock split, stock
+dividend, combination, reclassification or other similar change in the capital
+structure of the Company effected without the receipt of consideration,
+appropriate adjustments shall be made in the number and class of shares of stock
+subject to the 1998 Plan, the number and class of shares of stock subject to any
+option, stock appreciation right or stock purchase right outstanding under the
+1998 Plan, and the exercise price of any such outstanding option, stock
+appreciation right or stock purchase right.
+
+    In the event of a liquidation or dissolution, any unexercised options, stock
+appreciation rights or stock purchase rights will terminate immediately prior to
+the consummation of such proposed action, unless otherwise provided by the
+Administrator. The Administrator may, in its discretion, provide that each
+optionee shall have the right to exercise all of the optionee's options, stock
+appreciation rights and stock purchase rights as to all or any part of the
+optioned stock, stock appreciation right or stock purchase right, including
+those shares not otherwise exercisable.
+
+    CHANGE IN CONTROL. In the event of a "change in control" of the Company (as
+defined below), all options, stock appreciation rights and stock purchase rights
+outstanding under the 1998 Plan as of the date on which such change in control
+occurs will, unless otherwise determined by the Administrator, become fully
+exercisable and the value of all outstanding options, stock appreciation rights
+and stock purchase rights will be cashed out. The cash-out price will be the
+difference between the exercise price and the defined "change in control price."
+
+    A "change in control" is defined as (i) the acquisition by any person of 50%
+or more of the combined voting power of the Company's outstanding securities, or
+(ii) the occurrence of a transaction requiring shareholder approval and
+involving the sale of all or substantially all the assets of the Company or the
+merger of the Company with or into another corporation. The "change in control
+price" is determined by the Administrator and may be either (x) the highest
+closing price of Common Stock as reported in the public market during the
+60-calendar-day period immediately preceding the date of determination of the
+change in control price or (y) the highest price paid or offered (as determined
+by the Administrator) in any bona fide transaction or offer related to the
+change in control of the Company during the 60-calendar-day period preceding the
+date of determination of the change in control price.
+
+                                       17
+<PAGE>
+    In the event of a sale of all or substantially all the assets of the Company
+or the merger of the Company with or into another corporation, in a transaction
+in which options, stock appreciation rights or stock purchase rights outstanding
+under the 1998 Plan are not accelerated and cashed out as provided above, each
+outstanding option, stock appreciation right or stock purchase right will be
+assumed or an equivalent option, stock appreciation right or stock purchase
+right will be substituted by the successor corporation in the transaction or by
+a parent or subsidiary of such successor corporation, unless the Administrator
+determines, in the exercise of its sole discretion and in lieu of such
+assumption or substitution, that the optionee shall have the right to exercise
+the option, stock appreciation right or stock purchase right as to all of the
+shares subject thereto, including shares that would not otherwise be
+exercisable. If the Administrator makes an option, stock appreciation right or
+stock purchase right fully exercisable in lieu of assumption or substitution in
+the event of a merger or sale of assets, then the Company shall notify the
+optionee that the option, stock appreciation right or stock purchase right will
+be fully exercisable for a period of 30 days from the date of such notice, and
+the option, stock appreciation right or stock purchase right will terminate upon
+the expiration of such period.
+
+    AMENDMENT AND TERMINATION OF THE 1998 PLAN. The Board may amend, alter,
+suspend or terminate the 1998 Plan, or any part thereof, at any time and for any
+reason. However, the Company shall obtain shareholder approval for any amendment
+to the 1998 Plan to the extent necessary to comply with Section 162(m) and
+Section 422 of the Code, or any similar rule or statute. No such action by the
+Board or shareholders may alter or impair any option, stock appreciation right
+or stock purchase right previously granted under the 1998 Plan without the
+written consent of the optionee.
+
+    STOCK PRICE. On February 21, 2001, the closing price of the Common Stock as
+quoted on the Nasdaq National Market was $18.875.
+
+FEDERAL INCOME TAX CONSEQUENCES
+
+    INCENTIVE STOCK OPTIONS. An optionee who is granted an incentive stock
+option does not recognize taxable income at the time the option is granted or
+upon its exercise, although the exercise may subject the optionee to the
+alternative minimum tax. Upon an optionee's sale of the shares (assuming that
+the sale occurs at least two years after grant of the option and at least one
+year after exercise of the option), any gain will be taxed to the optionee as
+long-term capital gain. If the optionee disposes of the shares prior to the
+expiration of the above holding periods, then the optionee will recognize
+ordinary income in an amount generally measured as the difference between the
+exercise price and the lower of the fair market value of the shares at the
+exercise date or the sale price of the shares. Any gain or loss recognized on
+such premature sale of the shares in excess of the amount treated as ordinary
+income will be characterized as capital gain or loss.
+
+    NONSTATUTORY STOCK OPTIONS. An optionee does not recognize any taxable
+income at the time he or she is granted a nonstatutory stock option. Upon
+exercise, the optionee recognizes taxable income generally measured by the
+excess of the then fair market value of the shares over the exercise price. Upon
+a disposition of such shares by the optionee, any difference between the sale
+price and the optionee's exercise price, to the extent not recognized as taxable
+income as provided above, is treated as long-term or short-term capital gain or
+loss, depending on the holding period.
+
+    STOCK PURCHASE RIGHTS. Stock purchase rights will generally be taxed in the
+same manner as nonstatutory stock options. However, restricted stock is
+generally purchased upon the exercise of a stock purchase right. If at the time
+of purchase, restricted stock is subject to a "substantial risk of forfeiture"
+within the meaning of Section 83 of the Code, the purchaser will not recognize
+ordinary income at the time of purchase. Instead, the purchaser will recognize
+ordinary income on the dates when a stock ceases to be subject to a substantial
+risk of forfeiture. At such times, the purchaser will recognize ordinary income
+measured as the difference between the purchase price and the fair market value
+of the stock on the date the stock is no longer subject to a substantial risk of
+forfeiture.
+
+                                       18
+<PAGE>
+    The purchaser may accelerate to the date of purchase his or her recognition
+of ordinary income, if any, and the beginning of any capital gain holding period
+by timely filing an election pursuant to Section 83(b) of the Code. In such
+event, the ordinary income recognized, if any, is measured as the difference
+between the purchase price and the fair market value of the stock on the date of
+purchase, and the capital gain holding period commences on such date. The
+ordinary income recognized by a purchaser who is an employee will be subject to
+tax withholding by the Company.
+
+    STOCK APPRECIATION RIGHTS. No income will be recognized by a recipient in
+connection with the grant of a stock appreciation right. When the stock
+appreciation right is exercised, the recipient will generally be required to
+include as taxable ordinary income in the year of exercise an amount equal to
+the sum of the amount of cash received and the fair market value of any Common
+Stock received upon the exercise. In the case of a recipient who is also an
+employee, any taxable income recognized upon exercise of a stock appreciation
+right will constitute wages for which withholding will be required. The Company
+will generally be entitled to a tax deduction in the same amount. Any gain or
+loss on the resale of Common Stock acquired upon exercise of a stock
+appreciation right will be treated as a taxable gain or loss.
+
+    SECTION 162(m) OF THE CODE. Section 162(m) of the Code generally disallows a
+public company's tax deduction for compensation to executive officers in excess
+of $1,000,000 in any tax year. Compensation that qualifies as "performance-based
+compensation" is excluded from the $1,000,000 deductibility cap, and therefore
+remains fully deductible by the company that pays it. To qualify as
+"performance-based" within the meaning of Section 162(m) of the Code, options
+and stock appreciation rights must be granted with an exercise price of not less
+than 100% of the fair market value of the Common Stock on the date of the grant,
+among other things. To the extent these requirements are met, compensation
+attributable to options and stock appreciation rights granted to executive
+officers under the 1998 Plan will qualify as performance-based compensation for
+purposes of Section 162(m) of the Code, and the Company will generally be
+entitled to a tax deduction in the amount recognized by such officers upon
+exercise of the options. No tax authority or court has ruled on the
+applicability of Section 162(m) to the 1998 Plan and any final determination of
+the deductibility of amounts realized upon exercise of an option granted under
+the 1998 Plan could ultimately be made by the Internal Revenue Service or a
+court having final jurisdiction with respect to the matter. The Company retains
+the right to grant options under the 1998 Plan in accordance with the terms of
+the 1998 Plan regardless of any final determination as to the applicability of
+Section 162(m) of the Code to these grants.
+
+    Compensation attributable to stock purchase rights granted under the 1998
+Plan will not generally qualify as "performance-based" within the meaning of
+Section 162(m) of the Code. As a result, income recognized by executive officers
+in connection with stock purchase rights will be subject to the limitations on
+deductibility under such section.
+
+    THE FOREGOING IS ONLY A SUMMARY OF THE EFFECT OF FEDERAL INCOME TAXATION
+UPON OPTIONEES, HOLDERS OF STOCK APPRECIATION RIGHTS, HOLDERS OF STOCK PURCHASE
+RIGHTS AND THE COMPANY WITH RESPECT TO THE GRANT AND EXERCISE OF OPTIONS, STOCK
+APPRECIATION RIGHTS AND STOCK PURCHASE RIGHTS UNDER THE 1998 PLAN. IT DOES NOT
+PURPORT TO BE COMPLETE, AND DOES NOT DISCUSS THE TAX CONSEQUENCES OF THE
+EMPLOYEE'S DEATH OR THE PROVISIONS OF THE INCOME TAX LAWS OF ANY MUNICIPALITY,
+STATE OR FOREIGN COUNTRY IN WHICH THE EMPLOYEE MAY RESIDE.
+
+                                       19
+<PAGE>
+                              PARTICIPATION IN THE
+                       1998 EXECUTIVE OFFICER STOCK PLAN
+
+    The following table sets forth certain information as of January 31, 2001
+with respect to options granted under the 1998 Plan since inception to (i) each
+Named Executive Officer listed in the Summary Compensation Table; (ii) all
+executive officers as a group and (iii) all employees, excluding executive
+officers, as a group. Members of the Board are not eligible to receive grants
+under the 1998 Plan. As of the date of this proxy there has been no
+determination by the Board of Directors with respect to future awards under the
+1998 Plan. The options listed below have been adjusted to reflect the Company's
+two-for-one stock split in June 2000.
+
+<TABLE>
+<CAPTION>
+                                                     NUMBER OF SECURITIES      AVERAGE WEIGHTED EXERCISE
+                                                  UNDERLYING OPTIONS GRANTED         OR BASE PRICE
+NAME                                                         (#)                        ($/SH)
+----                                              --------------------------   -------------------------
+<S>                                               <C>                          <C>
+Steven P. Jobs..................................          20,000,000*                   $43.5938
+Fred D. Anderson................................           1,950,000                    $17.0561
+Ronald B. Johnson...............................           1,500,000                    $41.6500
+Mitchell Mandich................................             775,752                    $17.3125
+Jonathan Rubinstein.............................           1,916,668                    $17.0516
+All executive officers as a group...............          31,812,000                    $35.3810
+All other employees as a group..................           6,261,338                    $17.8682
+</TABLE>
+
+------------------------
+
+*   20,000,000 options were granted to Mr. Jobs in connection with his
+    acceptance of the position of Chief Executive Officer of the Company in
+    January 2000.
+
+                                       20
+<PAGE>
+                                 PROPOSAL NO. 3
+
+                    RATIFICATION OF APPOINTMENT OF AUDITORS
+
+    The Board of Directors has appointed KPMG LLP ("KPMG"), independent
+auditors, to audit Apple's consolidated financial statements for fiscal year
+2001. KPMG served as the Company's independent auditors for fiscal year 2000. At
+the Annual Meeting, the shareholders are being asked to ratify the appointment
+of KPMG as the Company's independent auditors for fiscal year 2001. In the event
+of a negative vote on such ratification, the Board of Directors will reconsider
+its selection. Representatives of KPMG are expected to be present at the Annual
+Meeting and will have the opportunity to respond to appropriate questions and to
+make a statement if they so desire.
+
+FEES PAID TO THE INDEPENDENT AUDITORS
+
+AUDIT FEES
+
+    KPMG billed the Company aggregate fees of $2,265,000 for professional
+services rendered for the audit of the Company's annual financial statements for
+fiscal year 2000 and for reviews of the financial statements included in the
+Company's quarterly reports on Form 10-Q for the first three quarters of fiscal
+2000.
+
+FINANCIAL INFORMATION SYSTEMS DESIGN AND IMPLEMENTATION
+
+    KPMG billed the Company aggregate fees of $21,493,000 for professional
+services rendered for various information system implementation projects in
+fiscal 2000.
+
+ALL OTHER FEES
+
+    KPMG billed the Company aggregate fees of $7,054,000 for other professional
+services rendered in fiscal 2000, including professional services in connection
+with tax preparation, tax consultation, statutory filings and other consulting
+services.
+
+    The Audit and Finance Committee of the Board of Directors has considered
+whether the provision by KPMG of the non-audit services listed above is
+compatible with maintaining KPMG's independence.
+
+VOTE REQUIRED
+
+    The affirmative vote of (i) a majority of the shares "represented and
+voting" and (ii) a majority of the quorum will be required to approve this
+Proposal.
+
+RECOMMENDATION
+
+    THE BOARD RECOMMENDS THAT SHAREHOLDERS VOTE FOR RATIFICATION OF THE
+APPOINTMENT OF KPMG LLP AS THE COMPANY'S INDEPENDENT AUDITORS.
+
+                                       21
+<PAGE>
+                                 PROPOSAL NO. 4
+
+                              SHAREHOLDER PROPOSAL
+
+    Richard A. Ash, 1612 Latimer Street, Philadelphia, PA 19103, owner of 4,000
+shares of Apple's common stock (as of the date of the submission) has submitted
+the following proposal:
+
+    Resolved that Apple Computer, Inc. (Apple), adopt the following policy:
+
+    That the annual meeting of Apple shall be held in auditoriums in the
+downtown areas of cities that are major transportation centers such as
+Manhattan, Philadelphia, Chicago, Los Angeles and San Francisco, and that the
+location of the meeting be rotated among these major transportation centers so
+that during each three year period an Eastern location, a Central location, and
+a Western location, are each chosen for the location of the meeting.
+
+REASONS IN SUPPORT
+
+    Apple has a history of having its annual meeting at the company headquarters
+in Cupertino, California or at the auditorium of a nearby college. Neither
+location is accessible by public transportation from downtown San Francisco or
+its Airport and attendance requires a drive of about one hour or more duration
+by automobile.
+
+    The annual shareholders meeting is of great importance to shareholders, the
+owners of the company. Attendance gives them the opportunity to ask questions of
+top management and vote on the matters on the meeting agenda such as election of
+directors after hearing debate on the issues.
+
+    Apple has more than 25,000 shareholders that reside throughout the United
+States and abroad. Apple annual meetings should be held in locations that are
+readily accessible, with minimum burden and inconvenience to shareholders
+wishing to attend. Steve Jobs, is chief executive of Pixar Corporation, which
+customarily holds its annual meetings in downtown San Francisco. Apple's
+technical presentations and its presentations to security analysts are held in
+conveniently accessible transportation centers. The proponent of this resolution
+has on a number of occasions asked Apple's management to conduct meetings in
+centrally accessible locations without success. It is necessary that
+shareholders vote for this resolution.
+
+VOTE REQUIRED
+
+    The unanimous vote of the shareholders will be required to approve this
+Proposal.
+
+BOARD OF DIRECTORS' STATEMENT OPPOSING SHAREHOLDER PROPOSAL
+
+    The Board of Directors recommends that you vote AGAINST the shareholder
+proposal. If adopted, the proposal would require the Company to move the
+location of its annual meeting to different locations around the United States.
+The Board of Directors believes this would be costly, difficult to implement and
+could potentially affect the conduct of the annual meeting.
+
+    Currently, the Company holds its annual meeting at its headquarters in
+Cupertino, California. By holding the meeting at its headquarters, shareholders
+have an opportunity to visit the Company's facilities and to interact directly
+with members of the management team in a question and answer session following
+the meeting. Management is able to attend and participate in the annual meeting
+and the question and answer session largely because the meeting is held at the
+Company's headquarters. Use of Company-owned facilities also minimizes the cost,
+preparation time and employee resources that would otherwise be incurred if the
+annual meeting were held elsewhere.
+
+    The Board currently has the power to schedule the annual meeting anywhere in
+the United States and has traditionally concluded that the best interests of the
+Company and its shareholders are served by having the annual meeting at the
+Company's headquarters. Therefore, the Board does not believe that
+
+                                       22
+<PAGE>
+adoption of the Proposal is in the best interests of the Company and its
+shareholders and recommends a vote AGAINST the proposal.
+
+RECOMMENDATION
+
+    THE BOARD OF DIRECTORS RECOMMENDS A VOTE "AGAINST" THE ABOVE SHAREHOLDER
+PROPOSAL.
+
+                                 OTHER MATTERS
+
+    The Company knows of no other matters to be submitted to the shareholders at
+the Annual Meeting. If any other matters properly come before the shareholders
+at the Annual Meeting, it is the intention of the persons named on the enclosed
+proxy card to vote the shares they represent as the Board may recommend.
+
+                             SHAREHOLDER PROPOSALS
+
+    Shareholders who intend to present proposals at the next annual meeting of
+shareholders must send such proposals to the Company for receipt no later than
+January 26, 2002. Shareholder proposals to be considered for inclusion in the
+proxy statement and form of proxy relating to such meeting must be received no
+later than November 13, 2001.
+
+                                                          THE BOARD OF DIRECTORS
+
+Dated: March 12, 2001
+
+                                       23
+<PAGE>
+                                                                      APPENDIX A
+
+                              APPLE COMPUTER, INC.
+                      AUDIT AND FINANCE COMMITTEE CHARTER
+
+    There shall be a Committee of the Board of Directors (the "Board") to be
+known as the Audit and Finance Committee ("Committee") with purpose,
+composition, duties and responsibilities, as follows:
+
+    PURPOSE OF THE COMMITTEE.  The primary purpose of the Committee is to assist
+the Board in fulfilling its oversight responsibility by reviewing the financial
+information that will be provided to the shareholders and others, the systems of
+internal controls that management and the Board have established and the
+auditing, accounting and financial reporting process generally.
+
+    COMPOSITION OF THE COMMITTEE.  The members of the Committee shall be
+appointed by the Board. The Committee will be composed of not less than three
+members and shall be composed solely of "independent" directors who are
+financially literate and at least one member must have accounting or related
+financial management expertise. One member may be "non-independent", provided
+that the Board determines it to be in the best interests of the Corporation and
+its shareholders, and the Board discloses the reasons for the determination in
+the Corporation's annual proxy statement. No member shall be an officer or
+employee of the Corporation or its subsidiaries. The Chairman of the Committee
+shall be designated by the Board.
+
+    COMMITTEE MEETINGS.  The Committee shall meet at least four times annually,
+or more frequently as circumstances dictate. The Committee should meet at least
+annually with management, the Director of Internal Audit, and the independent
+auditors in separate executive sessions to discuss any matters that the
+Committee or each of these groups believe should be discussed privately. The
+Committee should meet with the independent auditors and management quarterly to
+review the Corporation's financial information. The Chairman of the Board, any
+member of the Committee or the Secretary of the Corporation may call meetings of
+the Committee.
+
+    DUTIES AND RESPONSIBILITIES.  In meeting its responsibilities, the Committee
+is expected to:
+
+1.  Provide an open avenue of communication between the internal auditors, the
+    independent auditor, and the Board.
+
+2.  Review and update the committee's charter annually.
+
+3.  Recommend to the Board the independent auditor to be nominated, approve the
+    compensation of the independent auditor, and review and approve the
+    discharge of the independent auditor.
+
+4.  Review and concur in the appointment, replacement, reassignment, or
+    dismissal of the director of internal auditing.
+
+5.  Confirm and assure the independence of the internal auditor and the
+    independent auditor, including a review of management consulting services
+    and related fees provided by the independent auditor.
+
+6.  Inquire of management, the director of internal auditing, and the
+    independent auditor about significant risks or exposures and assess the
+    steps management has taken to minimize such risk to the company.
+
+7.  Consider, in consultation with the independent auditor and the director of
+    internal auditing, the audit scope and plan of the internal auditors and the
+    independent auditor.
+
+8.  Consider with management and the independent auditor the rationale for
+    employing audit firms other than the principal independent auditor.
+
+9.  Review with the director of internal auditing and the independent auditor
+    the coordination of audit effort to assure completeness of coverage,
+    reduction of redundant efforts, and the effective use of audit resources.
+
+10. Consider and review with the independent auditor and the director of
+    internal auditing:
+
+    - The adequacy of the company's internal controls including computerized
+      information system controls and security.
+
+                                       24
+<PAGE>
+    - Any related significant findings and recommendations of the independent
+      auditor and internal auditing together with management's responses
+      thereto.
+
+11. Review with management and the independent auditor at the completion of the
+    annual examination:
+
+    - The company's annual financial statements and related footnotes.
+
+    - The independent auditor's audit of the financial statements and his or her
+      report thereon.
+
+    - Any significant changes required in the independent auditor's audit plan.
+
+    - Any serious difficulties or disputes with management encountered during
+      the course of the audit.
+
+    - Other matters related to the conduct of the audit which are to be
+      communicated to the committee under generally accepted auditing standards.
+
+12. Consider and review with management and the director of internal auditing:
+
+    - Significant findings during the year and management's responses thereto.
+
+    - Any difficulties encountered in the course of their audits, including any
+      restrictions on the scope of their work or access to required information.
+
+    - Any changes required in the planned scope of their audit plan.
+
+    - The internal auditing department budget and staffing.
+
+13. Review filings with the SEC and other published documents containing the
+    company's financial statements and consider whether the information
+    contained in these documents is consistent with the information contained in
+    the financial statements.
+
+14. Review with management and/or the independent auditor the interim financial
+    report before it is filed with the SEC or other regulators.
+
+15. Review legal and regulatory matters that may have a material impact on the
+    financial statements, related company compliance policies, and programs and
+    reports received from regulators.
+
+16. Meet with the director of internal auditing, the independent auditor, and
+    management in separate executive sessions to discuss any matters that the
+    committee or these groups believe should be discussed privately with the
+    audit committee.
+
+17. Report committee actions to the Board with such recommendations as the
+    committee may deem appropriate.
+
+18. Prepare a letter for inclusion in the annual report that describes the
+    committee's composition and responsibilities, and how they were discharged.
+
+19. Review periodically the capital structure of the Corporation and to the
+    extent it deems necessary, recommend to the Board of Directors transactions
+    or alterations of the capital structure of the Corporation.
+
+20. Review for approval or disapproval special transactions or expenditures as
+    specifically delegated by the Board or such other special transactions or
+    expenditures not specifically delegated by the Board if determined by the
+    Committee that approval by the full Board is not necessary or convenient
+    such as transactions that require relatively rapid decisions (such as the
+    sale of securities or the terms of authorized debt).
+
+21. Review and recommend to the Board of Directors changes in the Corporation's
+    treasury resolutions and expenditure authorizations.
+
+22. Periodically meet with the Investment Review Committee on matters pertaining
+    to the Corporation's investment practices for foreign exchange, investments,
+    and derivatives.
+
+23. The audit committee shall have the power to conduct or authorize
+    investigations into any matters within the committee's scope of
+    responsibilities. The committee shall be empowered to retain independent
+    counsel, accountants, or others to assist it in the conduct of any
+    investigation.
+
+24. The committee will perform such other functions as assigned by law, the
+    company's charter or bylaws, or the Board.
+
+                                       25
+<PAGE>
+                             [APPLE COMPUTER LOGO]
+
+[LOGO]
+ PRINTED ON RECYCLED PAPER
+<PAGE>
+
+                                                                   APPENDIX B
+
+
+                              APPLE COMPUTER, INC.
+                       1998 EXECUTIVE OFFICER STOCK PLAN
+                               PROPOSED AMENDMENT
+
+    1.  PURPOSES OF THE PLAN.  The purposes of this Stock Plan are:
+
+       to attract and retain the best available personnel for positions of
+       substantial responsibility;
+
+       to provide additional incentive to the Chairman and/or Executive Officers
+       and other key employees; and
+
+       to promote the success of the Company's business.
+
+    Options granted under the Plan may be Incentive Stock Options (as defined
+under Section 422 of the Code) or Nonstatutory Stock Options, as determined by
+the Administrator at the time of grant. Stock appreciation rights ("SARs") may
+be granted under the Plan in connection with Options or independently of
+Options. Stock Purchase Rights may also be granted under the Plan.
+
+    2.  DEFINITIONS.  As used herein, the following definitions shall apply:
+
+        (a)  "ADMINISTRATOR" means the Board or any of its Committees as shall
+    be administering the Plan, in accordance with Section 4 of the Plan.
+
+        (b)  "AGREEMENT" means an agreement between the Company and an Optionee
+    evidencing the terms and conditions of an individual Option, SAR or Stock
+    Purchase Right grant. The Agreement is subject to the terms and conditions
+    of the Plan.
+
+        (c)  "APPLICABLE LAWS" means the requirements relating to the
+    administration of stock option plans under U.S. state corporate laws, U.S.
+    federal and state securities laws, the Code, any stock exchange or quotation
+    system on which the Common Stock is listed or quoted and the applicable laws
+    of any foreign country or jurisdiction where Options, SARs or Stock Purchase
+    Rights are, or will be, granted under the Plan.
+
+        (d)  "BOARD" means the Board of Directors of the Company.
+
+        (e)  "CHAIRMAN" means the Chairman of the Board.
+
+        (f)  "CODE" means the Internal Revenue Code of 1986, as amended.
+
+        (g)  "COMMITTEE" means a committee of Directors appointed by the Board
+    in accordance with Section 4 of the Plan.
+
+        (h)  "COMMON STOCK" means the common stock of the Company.
+
+        (i)  "COMPANY" means Apple Computer, Inc., a California corporation.
+
+        (j)  "CONTINUOUS STATUS AS CHAIRMAN" unless determined otherwise by the
+    Administrator, means the absence of any interruption or termination as
+    Chairman of the Board with the Company. Continuous Status as Chairman shall
+    not be considered interrupted in the case of medical leave, military leave,
+    family leave, or any other leave of absence approved by the Administrator,
+    provided, in each case, that such leave does not result in termination as
+    Chairman with the Company. Neither service as a Director nor payment of a
+    director's fee by the Company shall be sufficient to constitute status as
+    "Chairman" by the Company.
+
+        (k)  "CONTINUOUS STATUS AS AN EMPLOYEE" means the absence of any
+    interruption or termination of the employment relationship with the Company
+    or any Subsidiary. Continuous Status as an Employee shall not be
+
+<PAGE>
+
+    considered interrupted in the case of (i) medical leave, military leave,
+    family leave, or any other leave of absence approved by the Administrator,
+    provided, in each case, that such leave does not result in termination of
+    the employment relationship with the Company or any Subsidiary, as the
+    case may be, under the terms of the respective Company policy for such
+    leave; however, vesting may be tolled while an employee is on an approved
+    leave of absence under the terms of the respective Company policy for such
+    leave; or (ii) in the case of transfers between locations of the Company
+    or between the Company, its Subsidiaries, or its successor; For purposes
+    of Incentive Stock Options, no such leave may exceed ninety days, unless
+    reemployment upon expiration of such leave is guaranteed by statute or
+    contract. If reemployment upon expiration of a leave of absence approved
+    by the Company is not so guaranteed, on the 91st day of such leave any
+    Incentive Stock Option held by the Optionee shall cease to be treated as
+    an Incentive Stock Option and shall be treated for tax purposes as a
+    Nonstatutory Stock Option. Neither service as a Chairman nor as a Director
+    nor payment of a director's fee by the Company shall be sufficient to
+    constitute 'employment' by the Company.
+
+        (l) "Director" means a member of the Board.
+
+       (m) "Employee" means any person employed by the Company or any Parent or
+    Subsidiary of the Company subject to (k) above.
+
+        (n) "Exchange Act" means the Securities Exchange Act of 1934, as
+    amended.
+
+        (o) "Executive Officer" means any person who is an officer of the
+    Company within the meaning of Section 16 of the Exchange Act and the rules
+    and regulations promulgated thereunder.
+
+        (p) "Fair Market Value" means, as of any date, the value of Common Stock
+    determined as follows:
+
+           (i) If the Common Stock is listed on any established stock exchange
+       or a national market system, including without limitation the Nasdaq
+       National Market or The Nasdaq SmallCap Market of The Nasdaq Stock Market,
+       its Fair Market Value shall be the closing sales price for such stock (or
+       the closing bid, if no sales were reported) as quoted on such exchange or
+       system, on the date of determination or, if the date of determination is
+       not a trading day, the immediately preceding trading day, as reported in
+       THE WALL STREET JOURNAL or such other source as the Administrator deems
+       reliable;
+
+           (ii) If the Common Stock is regularly quoted by a recognized
+       securities dealer but selling prices are not reported, the Fair Market
+       Value of a Share of Common Stock shall be the mean between the high bid
+       and low asked prices for the Common Stock on the date of determination
+       or, if there are no quoted prices on the date of determination, on the
+       last day on which there are quoted prices prior to the date of
+       determination, as reported in THE WALL STREET JOURNAL or such other
+       source as the Administrator deems reliable; or
+
+          (iii) In the absence of an established market for the Common Stock,
+       the Fair Market Value shall be determined in good faith by the
+       Administrator.
+
+        (q) "Incentive Stock Option"means an Option intended to qualify as an
+    incentive stock option within the meaning of Section 422 of the Code and the
+    regulations promulgated thereunder and is expressly designated by the
+    Administrator at the time of grant as an incentive stock option.
+
+        (r) "Nonstatutory Stock Option" means an Option not intended to qualify
+    as an Incentive Stock Option.
+
+        (s) "Option" means a stock option granted pursuant to the Plan.
+
+        (t) "Optioned Stock" means the Common Stock subject to an Option, SAR or
+    Stock Purchase Right.
+
+<PAGE>
+
+        (u) "Optionee" means the holder of an outstanding Option, SAR or Stock
+    Purchase Right.
+
+        (v) "Parent" means a "parent corporation," whether now or hereafter
+    existing, as defined in Section 424(e) of the Code.
+
+        (w) "Plan" means this 1998 Executive Officer Stock Plan.
+
+        (x) "Restricted Stock" means shares of Common Stock acquired pursuant to
+    a grant of Stock Purchase Rights under Section 12 of the Plan.
+
+        (y) "Rule 16b-3" means Rule 16b-3 of the Exchange Act or any successor
+    to Rule 16b-3, as in effect when discretion is being exercised with respect
+    to the Plan.
+
+        (z) "SAR" means a stock appreciation right granted pursuant to Section
+    10 below.
+
+       (aa) "Section 16(b)" means Section 16(b) of the Exchange Act.
+
+       (bb) "Share" means a share of the Common Stock, as adjusted in accordance
+    with Section 15 of the Plan.
+
+       (cc) "Stock Purchase Right" means the right to purchase Common Stock
+    pursuant to Section 12 of the Plan, as evidenced by an Agreement.
+
+       (dd) "Subsidiary" means a 'subsidiary corporation', whether now or
+    hereafter existing, as defined in Section 424(f) of the Code.
+
+    3.  STOCK SUBJECT TO THE PLAN.  Subject to the provisions of Section 15 of
+the Plan, the maximum aggregate number of Shares which may be optioned and sold
+under the Plan or for which SARs or Stock Purchase Rights may be granted and
+exercised is 43,000,000 Shares. The Shares may be authorized, but unissued, or
+reacquired Common Stock.
+
+    In the discretion of the Administrator, any or all of the Shares authorized
+under the Plan may be subject to SARs issued pursuant to the Plan.
+
+    If an Option, SAR or Stock Purchase Right issued under the Plan should
+expire or become unexercisable for any reason without having been exercised in
+full, the unpurchased Shares which were subject thereto shall become available
+for other Options, SARs or Stock Purchase Rights under this Plan (unless the
+Plan has terminated); however, should the Company reacquire Shares which were
+issued pursuant to the exercise of an Option or SAR, such Shares shall not
+become available for future grant under the Plan. If Shares of Restricted Stock
+are repurchased by the Company at their original purchase price, such shares
+shall become available for future grant under the Plan.
+
+    4.  ADMINISTRATION OF THE PLAN.
+
+        (a)  PROCEDURE.
+
+           (i) MULTIPLE ADMINISTRATIVE BODIES. If permitted by Rule 16b-3
+       promulgated under the Exchange Act or any successor rule thereto, as in
+       effect at the time that discretion is being exercised with respect to the
+       Plan, and by the legal requirements of the Applicable Laws relating to
+       the administration of stock plans such as the Plan, if any, the Plan may
+       (but need not) be administered by different administrative bodies with
+       respect to (A) Directors who are not Employees, (B) Directors who are
+       Employees, (C) Officers who are not Directors and (D) Employees who are
+       neither Directors nor Officers.
+
+           (ii) SECTION 162(m). To the extent that the Administrator determines
+       it to be desirable to qualify Options or SARs granted hereunder as
+       "performance-based compensation" within the meaning of Section 162(m) of
+       the Code, the Plan shall be administered by a Committee of two or more
+       "outside directors" within the meaning of Section 162(m) of the Code.
+
+<PAGE>
+
+          (iii) RULE 16b-3. To the extent desirable to qualify transactions
+       hereunder as exempt under Rule 16b-3, the transactions contemplated
+       hereunder shall be structured to satisfy the requirements for exemption
+       under Rule 16b-3.
+
+           (iv) OTHER ADMINISTRATION. Other than as provided above, the Plan
+       shall be administered by (A) the Board or (B) a Committee, which
+       committee shall be constituted to satisfy Applicable Laws.
+
+        (b)  POWERS OF THE ADMINISTRATOR.  Subject to the provisions of the
+    Plan, and in the case of a Committee, subject to the specific duties
+    delegated by the Board to such Committee, the Administrator shall have the
+    authority, in its discretion:
+
+           (i) to determine the Fair Market Value;
+
+           (ii) to select the person(s) to whom Options, SARs and Stock Purchase
+       Rights may be granted hereunder;
+
+          (iii) to determine the number of shares of Common Stock to be covered
+       by each Option, SAR or Stock Purchase Right granted hereunder;
+
+           (iv) to approve forms of agreement for use under the Plan;
+
+           (v) to determine the terms and conditions, not inconsistent with the
+       terms of the Plan, of any Option, SAR or Stock Purchase Right granted
+       hereunder. Such terms and conditions include, but are not limited to, the
+       exercise price, the date of grant, the time or times when Options, SARs
+       or Stock Purchase Rights may be exercised (which may be based on
+       performance criteria), any vesting acceleration or waiver of forfeiture
+       restrictions, and any restriction or limitation regarding any Option, SAR
+       or Stock Purchase Right or the shares of Common Stock relating thereto,
+       based in each case on such factors as the Administrator, in its sole
+       discretion, shall determine;
+
+           (vi) to reduce the exercise price of any Option, SAR or Stock
+       Purchase Right to the then current Fair Market Value if the Fair Market
+       Value of the Common Stock covered by such Option, SAR or Stock Purchase
+       Right shall have declined since the date the Option, SAR or Stock
+       Purchase Right was granted;
+
+          (vii) to construe and interpret the terms of the Plan and awards
+       granted pursuant to the Plan;
+
+         (viii) to prescribe, amend and rescind rules and regulations relating
+       to the Plan, including rules and regulations relating to sub-plans
+       established for the purpose of qualifying for preferred tax treatment
+       under foreign tax laws;
+
+           (ix) to modify or amend each Option, SAR or Stock Purchase Right
+       (subject to Section 17(c) of the Plan), including the discretionary
+       authority to extend the post-termination exercisability period of Options
+       longer than is otherwise provided for in the Plan;
+
+           (x) to allow Optionees to satisfy withholding tax obligations by
+       electing to have the Company withhold from the Shares to be issued upon
+       exercise of an Option, SAR or Stock Purchase Right that number of Shares
+       having a Fair Market Value equal to the amount required to be withheld.
+       The Fair Market Value of the Shares to be withheld shall be determined on
+       the date that the amount of tax to be withheld is to be determined. All
+       elections by an Optionee to have Shares withheld for this purpose shall
+       be made in such form and under such conditions as the Administrator may
+       deem necessary or advisable;
+
+           (xi) to authorize any person to execute on behalf of the Company any
+       instrument required to effect the grant of an Option, SAR or Stock
+       Purchase Right previously granted by the Administrator; and
+
+<PAGE>
+
+          (xii) to make all other determinations deemed necessary or advisable
+       for administering the Plan.
+
+        (c)  EFFECT OF ADMINISTRATOR'S DECISION.  The Administrator's decisions,
+    determinations and interpretations shall be final and binding on all
+    Optionees and any other holders of Options, SARs or Stock Purchase Rights.
+
+    5.  ELIGIBILITY.  Nonstatutory Stock Options, SARs and Stock Purchase Rights
+may be granted to the Chairman, Executive Officers and other key employees or to
+such other individuals as determined by the Administrator whom the Company has
+offered a position of Chairman or Executive Officer. Incentive Stock Options may
+be granted only to Executive Officers and other key employees.
+
+    6.  LIMITATIONS.
+
+        (a) Each Option shall be designated in the Agreement as either an
+    Incentive Stock Option or a Nonstatutory Stock Option. However,
+    notwithstanding such designation, to the extent that the aggregate Fair
+    Market Value of the Shares with respect to which Incentive Stock Options are
+    exercisable for the first time by the Optionee during any calendar year
+    (under all plans of the Company and any Parent or Subsidiary) exceeds
+    $100,000, such Options shall be treated as Nonstatutory Stock Options. For
+    purposes of this Section 6(a), Incentive Stock Options shall be taken into
+    account in the order in which they were granted. The Fair Market Value of
+    the Shares shall be determined as of the time the Option with respect to
+    such Shares is granted.
+
+        (b) Neither the Plan nor any Option, SAR or Stock Purchase Right shall
+    confer upon an Optionee any right with respect to continuing the Optionee's
+    relationship as an Employee with or Chairman of the Company, nor shall they
+    interfere in any way with the Optionee's right or the Company's right to
+    terminate such relationship at any time, with or without cause.
+
+        (c) The following limitations shall apply to grants of Options and SARs:
+
+           (i) No participant shall be granted, in any fiscal year of the
+       Company, Options or SARs to purchase more than 17,000,000 Shares;
+
+           (ii) The foregoing limitations shall be adjusted proportionately in
+       connection with any change in the Company's capitalization as described
+       in Section 15;
+
+          (iii) If an Option or SAR is canceled in the same fiscal year of the
+       Company in which it was granted (other than in connection with a
+       transaction described in Section 15), the canceled Option will be counted
+       against the limits set forth in subsections (i) above. For this purpose,
+       if the exercise price of an Option or SAR is reduced, the transaction
+       will be treated as a cancellation of the Option or SAR and the grant of a
+       new Option or SAR.
+
+    7.  TERM OF PLAN.  Subject to Section 21 of the Plan, the Plan shall become
+effective upon its adoption by the Board. It shall continue in effect for a term
+of ten (10) years unless terminated earlier under Section 16 of the Plan.
+
+    8.  TERM OF OPTION.  The term of each Option shall be stated in the
+Agreement. In the case of an Incentive Stock Option, the term shall be ten (10)
+years from the date of grant or such shorter term as may be provided in the
+Agreement. Moreover, in the case of an Incentive Stock Option granted to an
+Optionee who, at the time the Incentive Stock Option is granted, owns stock
+representing more than ten percent (10%) of the total combined voting power of
+all classes of stock of the Company or any Parent or Subsidiary, the term of the
+Incentive Stock Option shall be five (5) years from the date of grant or such
+shorter term as may be provided in the Agreement.
+
+<PAGE>
+
+    9.  OPTION EXERCISE PRICE AND CONSIDERATION.
+
+        (a)  EXERCISE PRICE.  The per share exercise price for the Shares to be
+    issued pursuant to exercise of an Option shall be determined by the
+    Administrator, subject to the following:
+
+           (i) In the case of an Incentive Stock Option;
+
+              (A) granted to an Employee who, at the time the Incentive Stock
+           Option is granted, owns stock representing more than ten percent
+           (10%) of the voting power of all classes of stock of the Company or
+           any Parent or Subsidiary, the per Share exercise price shall be no
+           less than 110% of the Fair Market Value per Share on the date of
+           grant; or
+
+               (B) granted to any Employee other than an Employee described in
+           paragraph (A) immediately above, the per Share exercise price shall
+           be no less than 100% of the Fair Market Value per Share on the date
+           of grant;
+
+           (ii) In the case of a Nonstatutory Stock Option, the per Share
+       exercise price shall be determined by the Administrator. In the case of a
+       Nonstatutory Stock Option intended to qualify as 'performance-based
+       compensation' within the meaning of Section 162(m) of the Code, the per
+       Share exercise price shall be no less than 100% of the Fair Market Value
+       per Share on the date of grant;
+
+          (iii) Notwithstanding the foregoing, Options may be granted with a per
+       Share exercise price of less than 100% of the Fair Market Value per Share
+       on the date of grant as determined by the Administrator or pursuant to a
+       merger or other corporate transaction.
+
+        (b)  WAITING PERIOD AND EXERCISE DATES.  At the time an Option is
+    granted, the Administrator shall fix the period within which the Option may
+    be exercised and shall determine any conditions which must be satisfied
+    before the Option may be exercised.
+
+        (c)  FORM OF CONSIDERATION.  The Administrator shall determine the
+    acceptable form of consideration for exercising an Option, including the
+    method of payment. In the case of an Incentive Stock Option, the
+    Administrator shall determine the acceptable form of consideration at the
+    time of grant. Such consideration may consist entirely of:
+
+           (i) cash;
+
+           (ii) check;
+
+          (iii) promissory note;
+
+           (iv) other Shares which (A) in the case of Shares acquired upon
+       exercise of an option, have been owned by the Optionee for more than six
+       months on the date of surrender, and (B) have a Fair Market Value on the
+       date of surrender equal to the aggregate exercise price of the Shares as
+       to which said Option shall be exercised;
+
+           (v) consideration received by the Company under a cashless exercise
+       program implemented by the Company in connection with the Plan;
+
+           (vi) a reduction in the amount of any Company liability to the
+       Optionee, including any liability attributable to the Optionee's
+       participation in any Company-sponsored deferred compensation program or
+       arrangement;
+
+          (vii) any combination of the foregoing methods of payment; or
+
+         (viii) such other consideration and method of payment for the issuance
+       of Shares to the extent permitted by Applicable Laws.
+
+<PAGE>
+
+    10.  STOCK APPRECIATION RIGHTS.
+
+        (a)  GRANTED IN CONNECTION WITH OPTIONS.  At the sole discretion of the
+    Administrator, SARs may be granted in connection with all or any part of an
+    Option, either concurrently with the grant of the Option or at any time
+    thereafter during the term of the Option. The following provisions apply to
+    SARs that are granted in connection with Options:
+
+           (i) The SAR shall entitle the Optionee to exercise the SAR by
+       surrendering to the Company unexercised a portion of the related Option.
+       The Optionee shall receive in exchange from the Company an amount equal
+       to the excess of (x) the Fair Market Value on the date of exercise of the
+       SAR of the Common Stock covered by the surrendered portion of the related
+       Option over (y) the exercise price of the Common Stock covered by the
+       surrendered portion of the related Option. Notwithstanding the foregoing,
+       the Administrator may place limits on the amount that may be paid upon
+       exercise of a SAR; provided, however, that such limit shall not restrict
+       the exercisability of the related Option;
+
+           (ii) When a SAR is exercised, the related Option, to the extent
+       surrendered, shall no longer be exercisable;
+
+          (iii) A SAR shall be exercisable only when and to the extent that the
+       related Option is exercisable and shall expire no later than the date on
+       which the related Option expires; and
+
+           (iv) A SAR may only be exercised at a time when the Fair Market Value
+       of the Common Stock covered by the related Option exceeds the exercise
+       price of the Common Stock covered by the related Option.
+
+        (b)  INDEPENDENT SARS.  At the sole discretion of the Administrator,
+    SARs may be granted without related Options. The following provisions apply
+    to SARs that are not granted in connection with Options:
+
+           (i) The SAR shall entitle the Optionee, by exercising the SAR, to
+       receive from the Company an amount equal to the excess of (x) the Fair
+       Market Value of the Common Stock covered by exercised portion of the SAR,
+       as of the date of such exercise, over (y) the Fair Market Value of the
+       Common Stock covered by the exercised portion of the SAR, as of the date
+       on which the SAR was granted; provided, however, that the Administrator
+       may place limits on the amount that may be paid upon exercise of a SAR;
+       and
+
+           (ii) SARs shall be exercisable, in whole or in part, at such times as
+       the Administrator shall specify in the Optionee's Agreement.
+
+        (c)  FORM OF PAYMENT.  The Company's obligation arising upon the
+    exercise of a SAR may be paid in Common Stock or in cash, or in any
+    combination of Common Stock and cash, as the Administrator, in its sole
+    discretion, may determine. Shares issued upon the exercise of a SAR shall be
+    valued at their Fair Market Value as of the date of exercise.
+
+        (d)  RULE 16b-3.  SARs granted hereunder shall contain such additional
+    restrictions as may be required to be contained in the Plan or Agreement in
+    order for the SAR to qualify for the maximum exemption provided by Rule
+    16b-3.
+
+    11.  EXERCISE OF OPTION OR SAR.
+
+        (a)  PROCEDURE FOR EXERCISE; RIGHTS AS A SHAREHOLDER.  Any Option or SAR
+    granted hereunder shall be exercisable according to the terms of the Plan
+    and at such times and under such conditions as determined by the
+    Administrator and set forth in the Agreement. An Option may not be exercised
+    for a fraction of a Share.
+
+<PAGE>
+
+        An Option or SAR shall be deemed exercised when the Company receives:
+    (i) written or electronic notice of exercise (in accordance with the terms
+    of the Option or SAR) from the person entitled to exercise the Option or
+    SAR, and (ii) full payment for the Shares with respect to which the Option
+    is exercised. Full payment may consist of any consideration and method of
+    payment authorized by the Administrator and permitted by the Agreement and
+    the Plan. Shares issued upon exercise of an Option shall be issued in the
+    name of the Optionee or, if requested by the Optionee, in the name of the
+    Optionee and his or her spouse. Until the Shares are issued (as evidenced by
+    the appropriate entry on the books of the Company or of a duly authorized
+    transfer agent of the Company), no right to vote or receive dividends or any
+    other rights as a shareholder shall exist with respect to the Optioned
+    Stock, notwithstanding the exercise of the Option. The Company shall issue
+    (or cause to be issued) such Shares promptly after the Option is exercised.
+    No adjustment will be made for a dividend or other right for which the
+    record date is prior to the date the Shares are issued, except as provided
+    in Section 15 of the Plan.
+
+        Exercising an Option in any manner shall decrease the number of Shares
+    thereafter available, both for purposes of the Plan and for sale under the
+    Option, by the number of Shares as to which the Option is exercised.
+    Exercise of a SAR in any manner shall, to the extent the SAR is exercised,
+    result in a decrease in the number of Shares which thereafter shall be
+    available for purposes of the Plan, and the SAR shall cease to be
+    exercisable to the extent it has been exercised.
+
+        (b)  TERMINATION OF CONTINUOUS STATUS AS CHAIRMAN.  Upon termination of
+    an Optionee's Continuous Status as Chairman (other than termination by
+    reason of the Optionee's death), the Optionee may, but only within
+    ninety (90) days after the date of such termination, exercise his or her
+    Option or SAR to the extent that it was exercisable at the date of such
+    termination. Notwithstanding the foregoing, however, an Option or SAR may
+    not be exercised after the date the Option or SAR would otherwise expire by
+    its terms due to the passage of time from the date of grant.
+
+        (c)  TERMINATION OF CONTINUOUS EMPLOYMENT.  Upon termination of an
+    Optionee's Continuous Status as Employee (other than termination by reason
+    of the Optionee's death), the Optionee may, but only within ninety (90) days
+    after the date of such termination, exercise his or her Option or SAR to the
+    extent that it was exercisable at the date of such termination.
+    Notwithstanding the foregoing, however, an Option or SAR may not be
+    exercised after the date the Option or SAR would otherwise expire by its
+    terms due to the passage of time from the date of grant.
+
+        (d)  DEATH OF OPTIONEE.  If an Optionee dies (i) while an Employee or
+    Chairman, the Option or SAR may be exercised at any time within six (6)
+    months (or such other period of time not exceeding twelve (12) months as
+    determined by the Administrator) following the date of death by the
+    Optionee's estate or by a person who acquired the right to exercise the
+    Option by bequest or inheritance, but only to the extent of the right to
+    exercise that would have accrued had the Optionee continued living and
+    terminated his or her employment six (6) months (or such other period of
+    time not exceeding twelve (12) months as determined by the Administrator)
+    after the date of death; or (ii) within ninety (90) days after the
+    termination of Continuous Status as an Employee or Chairman, the Option or
+    SAR may be exercised, at any time within six (6) months (or such other
+    period of time not exceeding twelve (12) months as determined by the
+    Administrator) following the date of death by the Optionee's estate or by a
+    person who acquired the right to exercise the Option or SAR by bequest or
+    inheritance, but only to the extent of the right to exercise that had
+    accrued at the date of termination. If the Option or SAR is not so exercised
+    within the time specified herein, the Option or SAR shall terminate, and the
+    Shares covered by such Option or SAR shall revert to the Plan.
+
+        Notwithstanding the foregoing, however, an Option or SAR may not be
+    exercised after the date the Option or SAR would otherwise expire by its
+    terms due to the passage of time from the date of grant.
+
+<PAGE>
+
+        (e)  BUYOUT PROVISIONS.  The Administrator may at any time offer to buy
+    out for a payment in cash or Shares an Option or SAR previously granted
+    based on such terms and conditions as the Administrator shall establish and
+    communicate to the Optionee at the time that such offer is made.
+
+    12.  STOCK PURCHASE RIGHTS.
+
+        (a)  RIGHTS TO PURCHASE.  Stock Purchase Rights may be issued either
+    alone, in addition to, or in tandem with other awards granted under the Plan
+    and/or cash awards made outside of the Plan. After the Administrator
+    determines that it will offer Stock Purchase Rights under the Plan, it shall
+    advise the Optionee in writing or electronically, of the terms, conditions
+    and restrictions related to the offer, including the number of Shares that
+    the Optionee shall be entitled to purchase, the price to be paid, and the
+    time within which the Optionee must accept such offer. The offer shall be
+    accepted by execution of an Agreement in the form determined by the
+    Administrator.
+
+        (b)  REPURCHASE OPTION.  Unless the Administrator determines otherwise,
+    the Agreement shall grant the Company a repurchase option exercisable upon
+    the voluntary or involuntary termination of the purchaser's service with the
+    Company for any reason (including death or Disability). The purchase price
+    for Shares repurchased pursuant to the Agreement shall be the original price
+    paid by the purchaser and may be paid by cancellation of any indebtedness of
+    the purchaser to the Company. The repurchase option shall lapse at a rate
+    determined by the Administrator.
+
+        (c)  OTHER PROVISIONS.  The Agreement shall contain such other terms,
+    provisions and conditions not inconsistent with the Plan as may be
+    determined by the Administrator in its sole discretion.
+
+        (d)  RIGHTS AS A SHAREHOLDER.  Once the Stock Purchase Right is
+    exercised, the purchaser shall have the rights equivalent to those of a
+    shareholder, and shall be a shareholder when his or her purchase is entered
+    upon the records of the duly authorized transfer agent of the Company. No
+    adjustment will be made for a dividend or other right for which the record
+    date is prior to the date the Stock Purchase Right is exercised, except as
+    provided in Section 15 of the Plan.
+
+    13.  TRANSFERABILITY OF OPTIONS, SARS AND STOCK PURCHASE RIGHTS.  Unless
+determined otherwise by the Administrator, an Option, SAR or Stock Purchase
+Right may not be sold, pledged, assigned, hypothecated, transferred, or disposed
+of in any manner other than by will or by the laws of descent or distribution or
+pursuant to a qualified domestic relations order as defined by the Code or Title
+1 of the Employee Retirement Income Security Act, and may be exercised, during
+the lifetime of the Optionee, only by the Optionee. If the Administrator makes
+an Option, SAR or Stock Purchase Right transferable, such Option, SAR or Stock
+Purchase Right shall contain such additional terms and conditions as the
+Administrator deems appropriate.
+
+    14.  STOCK WITHHOLDING TO SATISFY WITHHOLDING TAX OBLIGATIONS.  When an
+Optionee incurs tax liability in connection with the exercise of an Option,
+SAR or Stock Purchase Right, which tax liability is subject to tax
+withholding under applicable tax laws, and the Optionee is obligated to pay
+the Company an amount required to be withheld under applicable tax laws, the
+Optionee may satisfy the withholding tax obligation by electing to have the
+Company withhold from the Shares to be issued upon exercise of the Option, or
+the Shares to be issued upon exercise of the SAR or Stock Purchase Right, if
+any, that number of Shares having a Fair Market Value equal to the amount
+required to be withheld. The Fair Market Value of the Shares to be withheld
+shall be determined on the date that the amount of tax to be withheld is to
+be determined (the "Tax Date").
+
+    All elections by an Optionee to have Shares withheld for this purpose shall
+be made in writing in a form acceptable to the Administrator and shall be
+subject to the following restrictions:
+
+        (i) the election must be made on or prior to the applicable Tax Date;
+    and
+
+<PAGE>
+
+        (ii) all elections shall be subject to the consent or disapproval of the
+    Administrator.
+
+    In the event the election to have Shares withheld is made by an Optionee and
+the Tax Date is deferred under Section 83 of the Code because no election is
+filed under Section 83(b) of the Code, the Optionee shall receive the full
+number of Shares with respect to which the Option, SAR or Stock Purchase Right
+is exercised but such Optionee shall be unconditionally obligated to tender back
+to the Company the proper number of Shares on the Tax Date.
+
+    15.  ADJUSTMENTS UPON CHANGES IN CAPITALIZATION, DISSOLUTION, MERGER OR
+ASSET SALE.
+
+        (a)  CHANGES IN CAPITALIZATION.  Subject to any required action by the
+    shareholders of the Company, the number of shares of Common Stock covered by
+    each outstanding Option, SAR or Stock Purchase Right, and the number of
+    shares of Common Stock which have been authorized for issuance under the
+    Plan but as to which no Options, SARs or Stock Purchase Rights have yet been
+    granted or which have been returned to the Plan upon cancellation or
+    expiration of an Option, SAR or Stock Purchase Right, as well as the price
+    per share of Common Stock covered by each such outstanding Option, SAR or
+    Stock Purchase Right, shall be proportionately adjusted for any increase or
+    decrease in the number of issued shares of Common Stock resulting from a
+    stock split, reverse stock split, stock dividend, combination or
+    reclassification of the Common Stock, or any other increase or decrease in
+    the number of issued shares of Common Stock effected without receipt of
+    consideration by the Company; provided, however, that conversion of any
+    convertible securities of the Company shall not be deemed to have been
+    "effected without receipt of consideration." Such adjustment shall be made
+    by the Board, whose determination in that respect shall be final, binding
+    and conclusive. Except as expressly provided herein, no issuance by the
+    Company of shares of stock of any class, or securities convertible into
+    shares of stock of any class, shall affect, and no adjustment by reason
+    thereof shall be made with respect to, the number or price of shares of
+    Common Stock subject to an Option, SAR or Stock Purchase Right.
+
+        (b)  DISSOLUTION OR LIQUIDATION.  In the event of the proposed
+    dissolution or liquidation of the Company, all outstanding Options, SARs and
+    Stock Purchase Rights will terminate immediately prior to the consummation
+    of such proposed action, unless otherwise provided by the Administrator. The
+    Administrator may, in the exercise of its sole discretion in such instances,
+    declare that any Option, SAR or Stock Purchase Right shall terminate as of a
+    date fixed by the Administrator and give each Optionee the right to exercise
+    his or her Option, SAR or Stock Purchase Right as to all or any part of the
+    Optioned Stock, including Shares as to which the Option, SAR or Stock
+    Purchase Right would not otherwise be exercisable.
+
+        (c)  MERGER OR ASSET SALE.  Unless otherwise determined by the
+    Administrator, in the event of a merger of the Company with or into another
+    corporation, or the sale of substantially all of the assets of the Company,
+    each outstanding Option, SAR and Stock Purchase Right shall be assumed or an
+    equivalent option or right substituted by the successor corporation or a
+    Parent or Subsidiary of the successor corporation. In the event that the
+    successor corporation refuses to assume or substitute for the Option, SAR or
+    Stock Purchase Right, the Optionee shall fully vest in and have the right to
+    exercise the Option, SAR or Stock Purchase Right as to all of the Optioned
+    Stock, including Shares as to which it would not otherwise be vested or
+    exercisable. If an Option, SAR or Stock Purchase Right becomes fully vested
+    and exercisable in lieu of assumption or substitution in the event of a
+    merger or sale of assets, the Administrator shall notify the Optionee in
+    writing or electronically that the Option, SAR or Stock Purchase Right shall
+    be fully vested and exercisable for a period of thirty (30) days from the
+    date of such notice, and the Option, SAR or Stock Purchase Right shall
+    terminate upon the expiration of such period. For the purposes of this
+    paragraph, the Option, SAR or Stock Purchase Right shall be considered
+    assumed if, following the merger or sale of assets, the option or right
+    confers the right to purchase or receive, for each Share of Optioned Stock
+    subject to the Option, SAR or Stock Purchase Right immediately prior to the
+    merger or sale of assets, the consideration (whether stock, cash, or other
+
+<PAGE>
+
+    securities or property) received in the merger or sale of assets by
+    holders of Common Stock for each Share held on the effective date of the
+    transaction (and if holders were offered a choice of consideration, the
+    type of consideration chosen by the holders of a majority of the
+    outstanding Shares); provided, however, that if such consideration
+    received in the merger or sale of assets is not solely common stock of the
+    succesor corporation or its Parent, the Administrator may, with the
+    consent of the successor corporation, provide for the consideration to be
+    received upon the exercise of the Option, SAR or Stock Purchase Right, for
+    each Share of Optioned Stock subject to the Option, SAR or Stock Purchase
+    Right, to be solely common stock of the successor corporation or its
+    Parent equal in fair market value to the per share consideration received
+    by holders of Common Stock in the merger or sale of assets.
+
+        (d)  CHANGE IN CONTROL.  In the event of a "Change in Control" of the
+    Company, as defined in paragraph (e) below, unless otherwise determined by
+    the Administrator prior to the occurrence of such Change in Control, the
+    following acceleration and valuation provisions shall apply:
+
+           (i) Any Options, SARs and Stock Purchase Rights outstanding as of the
+       date such Change in Control is determined to have occurred that are not
+       yet exercisable and vested on such date shall become fully exercisable
+       and vested; and
+
+          (ii) The value of all outstanding Options, SARs and Stock Purchase
+       Rights shall, unless otherwise determined by the Administrator at or
+       after grant, be cashed-out. The amount at which such Options, SARs and
+       Stock Purchase Rights shall be cashed out shall be equal to the excess of
+       (x) the Change in Control Price (as defined below) over (y) the exercise
+       price of the Common Stock covered by the Option, SAR or Stock Purchase
+       Right. The cash-out proceeds shall be paid to the Optionee or, in the
+       event of death of an Optionee prior to payment, to the estate of the
+       Optionee or to a person who acquired the right to exercise the Option,
+       SAR or Stock Purchase Right by bequest or inheritance.
+
+        (e)  DEFINITION OF "CHANGE IN CONTROL".  For purposes of this
+    Section 15, a "Change in Control" means the happening of any of the
+    following:
+
+           (i) When any "person", as such term is used in Sections 13(d) and
+       14(d) of the Exchange Act (other than the Company, a Subsidiary or a
+       Company employee benefit plan, including any trustee of such plan acting
+       as trustee) is or becomes the "beneficial owner" (as defined in
+       Rule 13d-3 under the Exchange Act), directly or indirectly, of securities
+       of the Company representing fifty percent (50%) or more of the combined
+       voting power of the Company's then outstanding securities; or
+
+           (ii) The occurrence of a transaction requiring shareholder approval,
+       and involving the sale of all or substantially all of the assets of the
+       Company or the merger of the Company with or into another corporation.
+
+        (f)  CHANGE IN CONTROL PRICE.  For purposes of this Section 15, "Change
+    in Control Price" shall be, as determined by the Administrator, (i) the
+    highest Fair Market Value at any time within the 60-day period immediately
+    preceding the date of determination of the Change in Control Price by the
+    Administrator (the "60-Day Period"), or (ii) the highest price paid or
+    offered, as determined by the Administrator, in any bona fide transaction or
+    bona fide offer related to the Change in Control of the Company, at any time
+    within the 60-Day Period.
+
+    16.  DATE OF GRANT.  The date of grant of an Option, SAR or Stock Purchase
+Right shall be, for all purposes, the date on which the Administrator makes the
+determination granting such Option, SAR or Stock Purchase Right, or such other
+later date as is determined by the Administrator. Notice of the determination
+shall be provided to each Optionee within a reasonable time after the date of
+such grant.
+
+<PAGE>
+
+    17.  AMENDMENT AND TERMINATION OF THE PLAN.
+
+        (a)  AMENDMENT AND TERMINATION.  The Board may at any time amend, alter,
+    suspend or terminate the Plan.
+
+        (b)  SHAREHOLDER APPROVAL.  The Company shall obtain shareholder
+    approval of any Plan amendment to the extent necessary and desirable to
+    comply with Applicable Laws.
+
+        (c)  EFFECT OF AMENDMENT OR TERMINATION.  No amendment, alteration,
+    suspension or termination of the Plan shall impair the rights of any
+    Optionee, unless mutually agreed otherwise between the Optionee and the
+    Administrator, which agreement must be in writing and signed by the Optionee
+    and the Company. Termination of the Plan shall not affect the
+    Administrator's ability to exercise the powers granted to it hereunder with
+    respect to Options, SARs or Stock Purchase Rights granted under the Plan
+    prior to the date of such termination.
+
+    18.  CONDITIONS UPON ISSUANCE OF SHARES.
+
+        (a)  LEGAL COMPLIANCE.  Shares shall not be issued pursuant to the
+    exercise of an Option, SAR or Stock Purchase Right unless the exercise of
+    such Option, SAR or Stock Purchase Right and the issuance and delivery of
+    such Shares shall comply with Applicable Laws and shall be further subject
+    to the approval of counsel for the Company with respect to such compliance.
+
+        (b)  INVESTMENT REPRESENTATIONS.  As a condition to the exercise of an
+    Option, SAR or Stock Purchase Right, the Company may require the person
+    exercising such Option, SAR or Stock Purchase Right to represent and warrant
+    at the time of any such exercise that the Shares are being purchased only
+    for investment and without any present intention to sell or distribute such
+    Shares if, in the opinion of counsel for the Company, such a representation
+    is required.
+
+    19.  INABILITY TO OBTAIN AUTHORITY.  The inability of the Company to obtain
+authority from any regulatory body having jurisdiction, which authority is
+deemed by the Company's counsel to be necessary to the lawful issuance and sale
+of any Shares hereunder, shall relieve the Company of any liability in respect
+of the failure to issue or sell such Shares as to which such requisite authority
+shall not have been obtained.
+
+    20.  RESERVATION OF SHARES.  The Company, during the term of this Plan, will
+at all times reserve and keep available such number of Shares as shall be
+sufficient to satisfy the requirements of the Plan.
+
+    21.  SHAREHOLDER APPROVAL.  The Plan shall be subject to approval by the
+shareholders of the Company within twelve (12) months after the date the Plan is
+adopted. Such shareholder approval shall be obtained in the manner and to the
+degree required under Applicable Laws.
+
+    22.  NON-U.S. EMPLOYEES.  Notwithstanding anything in the Plan to the
+contrary, with respect to any employee who is resident outside of the United
+States, the Committee may, in its sole discretion, amend the terms of the
+Plan in order to conform such terms with the requirements of local law or to
+meet the objectives of the Plan. The Committee may, where appropriate,
+establish one or more sub-plans for this purpose.
+
+<PAGE>
+
+                                    [LOGO]
+
+                             APPLE COMPUTER, INC.
+                  PROXY FOR ANNUAL MEETING OF SHAREHOLDERS
+
+        THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+    FOR THE ANNUAL MEETING OF SHAREHOLDERS TO BE HELD ON APRIL 19, 2001
+
+     The undersigned shareholder of Apple Computer, Inc., a California
+corporation, hereby acknowledges receipt of the Notice of Annual Meeting of
+Shareholders and Proxy Statement with respect to the annual Meeting of
+Shareholders of Apple Computer, Inc. to be held at 1 Infinite Loop,
+Cupertino, California 95014 on Thursday, April 19, 2001 at 10:00 a.m., and
+hereby appoints Fred D. Anderson and Nancy R. Heinen, and each of them,
+proxies and attorneys-in-fact, each with power of substitution and
+revocation, and each with all powers that the undersigned would possess if
+personally present, to vote the Apple Computer, Inc. Common Stock of the
+undersigned at such meeting and any postponements or adjournments of such
+meeting, as set forth below, and in their discretion upon any other business
+that may properly come before the meeting (and any such postponements or
+adjournments).
+
+THIS PROXY WILL BE VOTED AS SPECIFIED OR, IF NO CHOICE IS SPECIFIED, FOR THE
+ELECTION OF THE NOMINEES, FOR PROPOSALS 2 AND 3 AGAINST PROPOSAL 14 AND AS SAID
+PROXIES DEEM ADVISABLE ON SUCH OTHER MATTERS AS MAY PROPERLY COME BEFORE THE
+MEETING AND ANY POSTPONEMENTS OR ADJOURNMENTS THEREOF.
+
+              IMPORTANT - TO BE SIGNED AND DATED ON REVERSE SIDE
+
+                      ^     FOLD AND DETACH HERE     ^
+
+DIRECTIONS:
+
+FROM SAN JOSE:
+Take 280 northbound
+Take the Cupertino exit
+Make a left onto De Anza Blvd.
+(at signal)
+Make a left onto Mariani Avenue
+Enter Infinite Loop Parking Lot
+at the end of Mariani Avenue
+Proceed to Building 4
+                                                        [MAP]
+FROM SAN FRANCISCO:
+Take 280 southbound
+Take De Anza Blvd. exit
+Make a right onto De Anza Blvd.
+(at signal)
+Make a left onto Mariani Avenue
+Enter Infinite Loop Parking Lot
+at the end of Mariani Avenue
+Proceed to Building 4
+
+Attendance at the Annual Meeting is limited to shareholders.  Admission to
+the meeting will be on a first-come, first-served basis.  In the interest of
+saving time and money, Apple has opted to provide you with the enclosed Form
+10-K for 2000 in lieu of producing a glossy annual report.
+
+<PAGE>
+
+                           APPLE COMPUTER, INC.
+  PLEASE MARK VOTE IN OVAL IN THE FOLLOWING MANNER USING DARK INK ONLY / /
+
+                                                                       For All
+                                                     For    Withheld   Except
+1.  To elect the Company's Board of Directors.       / /      / /        / /
+
+    NOMINEES: (01) Gareth C.C. Chang, (02) William V. Campbell, (03) Millard S.
+    Drexler, (04) Lawrence J. Ellison, (05) Steven P. Jobs, (06) Arthur D.
+    Levinson and (07) Jerome B. York
+
+                   ---------------------------------------------
+                          (Except nominee(s) noted above)
+
+                                                     For    Against    Abstain
+2.  To approve an amendment to the 1998              / /      / /        / /
+    Executive Officer Stock Plan to increase
+    the number of shares of Common Stock
+    reserved for issuance thereunder by
+    5,000,000 shares.
+
+                                                     For    Against    Abstain
+3.  To ratify the appointment of KPMG                / /      / /        / /
+    LLP as independent auditors of the
+    Company for fiscal year 2000.
+
+                                                     For    Against    Abstain
+4.  To consider a shareholder proposal.              / /      / /        / /
+
+5.  To transact such other business as
+    may properly come before the meeting
+    and any postponements or adjournment(s)
+    thereof.
+
+This proxy card should be signed by the shareholder(s) exactly as his or her
+name(s) appear(s) hereon, dated and returned promptly in the enclosed
+envelope. Persons signing in a fiduciary capacity should so indicate if
+shares are held by joint tenants or as community property, both persons
+should sign.
+
+Signature ______________________________ Date___________ 2001
+
+Signature ______________________________ Date___________ 2001
+
+                       ^     FOLD AND DETACH HERE     ^
+
+Control Number
+
+    PLEASE VOTE, SIGN, DATE AND RETURN THIS PROXY CARD PROMPTLY USING THE
+                ENCLOSED ENVELOPE OR VOTE THROUGH THE INTERNET.
+
+                               VOTE BY INTERNET
+
+Dear Shareholder:
+
+We are pleased to announce that you can now vote your shares over the
+Internet. We encourage you to take advantage of this new feature which
+eliminates the need to return the proxy card. Your Internet vote is quick,
+convenient and your vote is immediately submitted. Just follow these easy
+steps:
+
+1.  Read the accompanying Proxy Statement
+
+2.  Go to the website www.computershare.com/us/proxy
+
+3.  Enter the 6-digit Control Number located above
+
+4.  Follow the simple instructions on the screen
+
+Your Internet vote authorizes the named proxies to vote your shares to the
+same extent as if you marked, signed, dated and returned the proxy card.
+Please note that all votes cast by Internet must be submitted prior to 10:00
+a.m. Central Time, April 17, 2001.
+
+If you vote by Internet, please do not return your proxy by mail.
+
+                               THANK YOU FOR YOUR VOTE.
+</TEXT>
+</DOCUMENT>

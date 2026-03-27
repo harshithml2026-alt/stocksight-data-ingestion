@@ -1,0 +1,1545 @@
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>ddef14a.txt
+<DESCRIPTION>DEFINITIVE PROXY STATEMENT
+<TEXT>
+
+<PAGE>
+
+                           SCHEDULE 14A INFORMATION
+
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+                               (Amendment No.  )
+
+Filed by the Registrant [X]
+
+Filed by a Party other than the Registrant [_]
+
+Check the appropriate box:
+
+[_]  Preliminary Proxy Statement         [_]  Confidential, for Use of the
+                                              Commission Only (as Permitted by
+[X]  Definitive Proxy Statement               Rule 14a-6(e)(2))
+
+[_]  Definitive Additional Materials
+
+[_]  Soliciting Material Pursuant to (S) 240.14a-11(c) or (S) 240.14a-12
+
+                               Amazon.com, Inc.
+--------------------------------------------------------------------------------
+               (Name of Registrant as Specified In Its Charter)
+
+
+--------------------------------------------------------------------------------
+   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+
+Payment of Filing Fee (Check the appropriate box):
+
+[X]  No fee required.
+
+[_]  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+
+     (1) Title of each class of securities to which transaction applies:
+
+     (2) Aggregate number of securities to which transaction applies:
+
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (set forth the amount on which
+         the filing fee is calculated and state how it was determined):
+
+     (4) Proposed maximum aggregate value of transaction:
+
+     (5) Total fee paid:
+
+[_]  Fee paid previously with preliminary materials.
+
+[_]  Check box if any part of the fee is offset as provided by Exchange
+     Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+     was paid previously. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+     (1) Amount Previously Paid:
+
+     (2) Form, Schedule or Registration Statement No.:
+
+     (3) Filing Party:
+
+     (4) Date Filed:
+
+Notes:
+<PAGE>
+
+                              [LOGO OF AMAZON.COM]
+
+April 16, 2001
+
+Dear Stockholder:
+
+  You are cordially invited to attend the 2001 Annual Meeting of Stockholders
+of Amazon.com, Inc. to be held at 9:00 a.m., Pacific Daylight Time, on
+Wednesday, May 23, 2001, in the Metropolitan Ballroom of The Sheraton Seattle
+Hotel & Towers, 1400 6th Avenue, Seattle, Washington 98101.
+
+  At the Annual Meeting, the stockholders will be asked to elect five Directors
+to serve until the next Annual Meeting of Stockholders and until their
+respective successors are elected and qualified. The nominees for Director and
+other matters are described in the accompanying Notice of 2001 Annual Meeting
+of Stockholders and Proxy Statement. The Board of Directors recommends that
+stockholders vote in favor of the election of the nominated Directors.
+
+  Your vote is important. Whether or not you plan to attend the Annual Meeting,
+please either mark, sign, date and return your proxy card in the enclosed
+envelope, or vote via the Internet or telephone by following the instructions
+on your proxy card. Your shares will be voted in accordance with the
+instructions you have given. You may attend the Annual Meeting and vote in
+person even if you have previously submitted your vote.
+
+                                          Sincerely,
+
+                                          /s/ Jeffrey P. Bezos
+
+                                          Jeffrey P. Bezos
+                                          Founder and Chief Executive Officer
+<PAGE>
+
+                              [LOGO OF AMAZON.COM]
+
+                               ----------------
+
+                 NOTICE OF 2001 ANNUAL MEETING OF STOCKHOLDERS
+                            To Be Held May 23, 2001
+
+                               ----------------
+
+  The 2001 Annual Meeting of Stockholders of Amazon.com, Inc. will be held at
+9:00 a.m., Pacific Daylight Time, on Wednesday, May 23, 2001, in the
+Metropolitan Ballroom of The Sheraton Seattle Hotel & Towers, 1400 6th Avenue,
+Seattle, Washington 98101, for the following purposes:
+
+    1. To elect five Directors to serve until the next Annual Meeting of
+  Stockholders and until their respective successors are elected and
+  qualified; and
+
+    2. To transact such other business as may properly come before the
+  meeting or any adjournment or postponement thereof.
+
+  The Board of Directors has fixed March 26, 2001, as the record date for
+determining stockholders entitled to receive notice of, and to vote at, the
+Annual Meeting or any adjournment or postponement thereof. Only stockholders of
+record at the close of business on that date will be entitled to notice of, and
+to vote at, the Annual Meeting.
+
+  All stockholders are invited to attend the Annual Meeting in person, but even
+if you expect to be present at the Annual Meeting, we ask that as promptly as
+possible you either mark, sign, date and return the enclosed proxy card in the
+postage-paid envelope provided, or vote via the Internet or telephone by
+following the instructions on your proxy card. Stockholders attending the
+Annual Meeting may vote in person even if they have previously voted.
+
+                                          By Order of the Board of Directors
+
+                                          /s/ L. Michelle Wilson
+
+                                          L. Michelle Wilson
+                                          Secretary
+
+Seattle, Washington
+April 16, 2001
+<PAGE>
+
+                                AMAZON.COM, INC.
+
+                               ----------------
+
+                                PROXY STATEMENT
+
+                               ----------------
+
+                         ANNUAL MEETING OF STOCKHOLDERS
+                     To Be Held on Wednesday, May 23, 2001
+
+                               ----------------
+
+General
+
+  The enclosed proxy is solicited by the Board of Directors of Amazon.com,
+Inc., a Delaware corporation (the "Company" or "Amazon.com"), for use at the
+Annual Meeting of Stockholders of the Company to be held at 9:00 a.m., Pacific
+Daylight Time, on Wednesday, May 23, 2001, in the Metropolitan Ballroom of The
+Sheraton Seattle Hotel & Towers, 1400 6th Avenue, Seattle, Washington 98101,
+and at any adjournment or postponement thereof.
+
+  The Company's principal offices are located at 1200 12th Avenue South, Suite
+1200, Seattle, Washington 98144. This Proxy Statement and the accompanying
+proxy card are first being mailed to the stockholders of the Company on or
+about April 16, 2001.
+
+Outstanding Securities and Voting Rights
+
+  Only holders of record of the Company's common stock, par value $0.01 per
+share (the "Common Stock"), at the close of business on March 26, 2001, will be
+entitled to notice of, and to vote at, the Annual Meeting. On that date the
+Company had 358,838,858 shares of Common Stock outstanding. Each share of
+Common Stock is entitled to one vote at the Annual Meeting.
+
+  The nominees for election to the Board who receive the greatest number of
+votes cast for the election of Directors by the shares present, in person or by
+proxy, shall be elected Directors. Holders of Common Stock are not allowed to
+cumulate their votes in the election of Directors.
+
+  A majority of the outstanding shares of Common Stock present in person or
+represented by proxy constitutes a quorum for the transaction of business at
+the Annual Meeting. Abstentions and broker nonvotes will be included in
+determining the presence of a quorum at the Annual Meeting. In the election of
+Directors, abstentions and broker nonvotes have no effect on the outcome.
+Broker nonvotes occur when a person holding shares through a bank or brokerage
+account does not provide instructions as to how his or her shares should be
+voted and the broker does not exercise discretion to vote those shares.
+
+Proxy Voting
+
+  Shares for which proxy cards are properly executed and returned or that are
+properly voted via the Internet or by phone will be voted at the Annual Meeting
+in accordance with the directions given or, in the absence of directions to the
+contrary, will be voted "FOR" the election of each of the nominees to the Board
+named herein. It is not expected that any matters other than the election of
+directors will be brought before the Annual Meeting. If, however, other matters
+are properly presented, the persons named as proxies will vote in accordance
+with their discretion with respect to such matters.
+
+  The manner in which your shares may be voted depends on how your shares are
+held. If you own shares of record, meaning that your shares of Common Stock are
+represented by certificates or book entries in your name so that you appear as
+a stockholder on the records of our stock transfer agent, Mellon Investor
+Services LLC, a proxy card for voting those shares will be included with this
+Proxy Statement. You may vote those shares by completing, signing and returning
+the proxy card in the enclosed envelope. Alternatively, by following the
+instructions on your proxy card, you may vote those shares either via the
+Internet at http://www.proxyvoting.com/amzn or by telephone by calling 1-800-
+840-1208.
+<PAGE>
+
+  If you own shares through a bank or brokerage firm, you may instead receive
+from your bank or brokerage firm a voting instruction form with this Proxy
+Statement that you may use to instruct how your shares are to be voted. As with
+a proxy card, you may vote your shares by completing, signing and returning the
+voting instruction form in the envelope provided. Many banks and brokerage
+firms have arranged for Internet or telephonic voting of shares and provide
+instructions for using those services on the voting instruction form. If your
+bank or brokerage firm uses ADP Investor Communication Services, you may vote
+your shares via the Internet at www.proxyvote.com or by calling the telephone
+number on your voting instruction form.
+
+Attendance and Voting at the Annual Meeting
+
+  If you own Common Stock of record, you may attend the Annual Meeting and vote
+in person, regardless of whether you have previously voted by proxy card, via
+the Internet or by telephone. If you own Common Stock through a bank or
+brokerage account, you may attend the Annual Meeting but in order to vote your
+shares at the meeting you must obtain a "legal proxy" from the bank or
+brokerage firm that holds your shares. You should contact your bank or
+brokerage account representative to learn how to obtain a legal proxy. We
+encourage you to vote your shares in advance of the Annual Meeting by one of
+the methods described above, even if you plan on attending the Annual Meeting.
+You may change or revoke your proxy at the Annual Meeting in the manner
+described below even if you have already voted.
+
+Revocation
+
+  Any stockholder holding Common Stock of record may revoke a previously
+granted proxy at any time before it is voted by delivering to the Secretary of
+the Company a written notice of revocation or a duly executed proxy card
+bearing a later date or by attending the Annual Meeting and voting in person.
+Any stockholder holding Common Stock through a bank or brokerage firm may
+change or revoke previously given voting instructions by contacting the bank or
+brokerage firm or by obtaining a legal proxy from the bank or brokerage firm
+and voting in person at the Annual Meeting.
+
+                             ELECTION OF DIRECTORS
+
+  In accordance with the Company's Bylaws, the Board has fixed the number of
+Directors constituting the Board at five. The Nominating Committee of the Board
+has recommended and the Board has proposed that the following five nominees be
+elected at the Annual Meeting, each of whom will hold office until his or her
+successor shall have been elected and qualified: Jeffrey P. Bezos, Tom A.
+Alberg, Scott D. Cook, L. John Doerr and Patricia Q. Stonesifer. It is intended
+that each properly executed proxy will be voted "FOR" the election of these
+nominees, unless the stockholder indicates on the proxy that votes are to be
+withheld. Although the Board anticipates that the five nominees will be
+available to serve as Directors of the Company, if any of them should be
+unwilling or unable to serve, it is intended that the proxies will be voted for
+the election of such substitute nominee or nominees as may be designated by the
+Board.
+
+  The Board of Directors recommends a vote "FOR" each nominee.
+
+Nominees for the Board of Directors
+
+Biographical information regarding each of the nominees for the Board of
+Directors is set forth below:
+
+  Jeffrey P. Bezos, age 37, has been Chairman of the Board of Amazon.com since
+founding it in 1994, and Chief Executive Officer since May 1996. Mr. Bezos
+served as President from founding until June 1999 and again from October 2000
+to the present. He served as Treasurer and Secretary from May 1996 to March
+1997. From December 1990 to June 1994, Mr. Bezos was employed by D.E. Shaw &
+Co., a Wall Street investment firm, becoming Senior Vice President in 1992.
+From April 1988 to December 1990, Mr. Bezos was employed by Bankers Trust
+Company, becoming Vice President in February 1990. Mr. Bezos is also a director
+of drugstore.com, inc.
+
+                                       2
+<PAGE>
+
+  Tom A. Alberg, age 61, has been a Director of Amazon.com since June 1996. Mr.
+Alberg has been a managing director of Madrona Venture Group, L.L.C., a venture
+capital firm, since September 1999 and a principal in Madrona Investment Group,
+L.L.C., a private investment firm, since January 1996. From April 1991 to
+October 1995, he was President and a director of LIN Broadcasting Corporation,
+and from July 1990 to October 1995, he was Executive Vice President of McCaw
+Cellular Communication, Inc. Both of those companies were providers of cellular
+telephone services and are now part of AT&T Corp. Prior to 1990, Mr. Alberg was
+a partner of the law firm Perkins Coie LLP, where he also served as Chairman of
+the firm's Executive Committee. Mr. Alberg is also a director of Advanced
+Digital Information Corporation and Teledesic Corporation and several other
+private companies.
+
+  Scott D. Cook, age 48, has been a Director of Amazon.com since January 1997.
+Mr. Cook co-founded Intuit, Inc., a leading personal finance, tax and
+accounting Internet and software company, in 1983, and served as President from
+April 1984 to April 1994 and as Chairman of the Board from April 1984 to
+September 1998. He has served as Chairman of the Executive Committee of Intuit
+since September 1998. Prior to co-founding Intuit, Mr. Cook was a consultant
+for Bain & Company, a strategy consulting firm, and a brand manager for The
+Procter & Gamble Company. Mr. Cook is also a director of eBay, Inc., Intuit,
+Inc., and The Procter & Gamble Company.
+
+  L. John Doerr, age 49, has been a Director of Amazon.com since June 1996. Mr.
+Doerr has been a general partner of Kleiner Perkins Caufield & Byers, a venture
+capital firm, since September 1980. Prior to joining Kleiner Perkins Caufield &
+Byers, Mr. Doerr was employed by Intel Corporation for five years. Mr. Doerr is
+also a director of drugstore.com, inc., Freemarkets, Inc., Handspring, Inc.,
+Homestore.com, Inc., Intuit, Inc., Martha Stewart Living Omnimedia, Inc., Sun
+Microsystems, Inc., and WebMD Corporation, as well as several private
+companies.
+
+  Patricia Q. Stonesifer, age 44, has been a Director of Amazon.com since
+February 1997. Since June 1997, Ms. Stonesifer has served as Co-Chair of the
+Bill and Melinda Gates Foundation. Prior to joining the Bill and Melinda Gates
+Foundation, Ms. Stonesifer ran her own management consulting firm. From 1988 to
+1997, Ms. Stonesifer worked in many roles at Microsoft Corporation, most
+recently as Senior Vice President of the Interactive Media Division. Ms.
+Stonesifer is also a director of Viacom, Inc.
+
+Compensation of Directors
+
+  Directors of the Company do not receive cash compensation for their services
+as Directors or members of committees of the Board, but are reimbursed for
+their reasonable expenses incurred in attending meetings of the Board.
+
+Board of Directors Meetings and Committees
+
+  The Board meets regularly during the year to review matters affecting the
+Company and to act on matters requiring Board approval. It also holds special
+meetings whenever circumstances require and may act by unanimous written
+consent. During 2000, there were 11 meetings of the Board. All incumbent
+Directors attended at least 75% of the meetings of the Board and the committees
+of which they were members.
+
+  The Board has established an Audit Committee, a Compensation Committee and a
+Nominating Committee. The Audit, Compensation and Nominating Committees are
+responsible to the full Board. The functions performed by these committees are
+summarized below:
+
+  Audit Committee. The Audit Committee provides assistance to the Board in
+fulfilling its oversight responsibilities relating to the Company's financial
+statements and the financial reporting process, the systems of internal
+accounting and financial controls, the annual independent audit of the
+Company's financial statements, and the legal compliance and ethics programs as
+established by management and the Board. As part of its role, the Audit
+Committee annually reviews and recommends to the Board the selection of
+independent
+
+                                       3
+<PAGE>
+
+auditors, reviews the scope and results of their audit procedures and reports
+the results to the Board. The Audit Committee operates in accordance with a
+written charter adopted by the Board. A copy of the Audit Committee charter is
+attached as Appendix A to this Proxy Statement. The members of the Audit
+Committee are Mr. Alberg, Ms. Stonesifer and Mr. Cook, each of whom is
+"independent" as defined in Rule 4200(a)(14) of the National Association of
+Securities Dealers' listing standards. The Audit Committee met four times in
+2000.
+
+  Compensation Committee. The Compensation Committee reviews and approves the
+compensation of the Company's officers, reviews and administers the Company's
+stock option plans for employees and makes recommendations to the Board
+regarding such matters. The members of the Compensation Committee are Mr. Doerr
+and Ms. Stonesifer, with Mr. Cook serving from May 10, 2000 to October 3, 2000.
+The Compensation Committee met five times in 2000.
+
+  Nominating Committee. The Nominating Committee reviews and assesses the
+composition of the Board, assists in identifying potential new candidates for
+Director, including nominees recommended to the Secretary of the Company in
+writing by stockholders, and recommends candidates for election as Directors.
+The members of the Nominating Committee are Mr. Doerr and Mr. Cook. The
+Nominating Committee was formed in 2001.
+
+                                       4
+<PAGE>
+
+                         BENEFICIAL OWNERSHIP OF SHARES
+
+  The following table sets forth certain information regarding the beneficial
+ownership of the Common Stock as of March 1, 2001 (except as otherwise
+indicated) by (i) each person or entity known by the Company to beneficially
+own more than 5% of the Common Stock, (ii) each Director of the Company, (iii)
+each officer of the Company for whom compensation information is given in the
+Summary Compensation Table in this Proxy Statement, and (iv) all Directors and
+executive officers as a group. Except as otherwise indicated, and subject to
+applicable community property laws, the Company believes that the beneficial
+owners of the Common Stock listed below, based on information furnished by such
+owners, have sole voting and investment power with respect to such shares.
+
+<TABLE>
+<CAPTION>
+                                                 Amount and Nature
+                                                   of Beneficial    Percent of
+Name and Address of Beneficial Owner                 Ownership        Class
+------------------------------------             -----------------  ----------
+<S>                                              <C>                <C>
+Jeffrey P. Bezos................................    116,190,675(1)    32.39%
+ 1200 12th Avenue South, Suite 1200
+ Seattle, WA 98144
+
+Legg Mason, Inc. on behalf of its investment
+ advisory subsidiaries..........................     52,599,180(2)    14.67%
+ 100 Light Street
+ Baltimore, MD 21202
+
+Lincoln Capital Management Company..............     25,806,000(3)     7.19%
+ 200 South Wacker Drive, Suite 2100
+ Chicago, IL 60606
+
+Janus Capital Corporation.......................     19,038,602(4)     5.30%
+Thomas H. Bailey
+ 100 Fillmore Street
+ Denver, CO 80206-4923
+
+Tom A. Alberg...................................      1,239,684(5)      *
+
+Scott D. Cook...................................        789,504(6)      *
+
+L. John Doerr...................................      2,993,550(7)      *
+
+Patricia Q. Stonesifer..........................        535,640(8)      *
+
+Mark J. Britto..................................         67,536(9)      *
+
+Warren C. Jenson................................            -0-         *
+
+Diego Piacentini................................         16,800         *
+
+Jeffrey A. Wilke................................            -0-         *
+
+All Directors and Executive Officers as a group
+ (11 persons)...................................    125,028,941(10)   34.47%
+</TABLE>
+--------
+  *   Less than 1%
+
+ (1)  Includes 6,822 shares held in a joint account with his wife.
+
+ (2)  Based on information provided by Legg Mason, Inc. in an amendment to
+      Schedule 13G filed April 4, 2001, Legg Mason, through certain of its
+      investment advisory subsidiaries, has shared voting power with respect to
+      13,740,088 of these shares and shared investment power with respect to
+      all of these shares.
+
+ (3)  Based on information provided by Lincoln Capital Management Company in a
+      Schedule 13G filed January 16, 2001, Lincoln Capital Management has sole
+      voting power with respect to 8,667,200 of these shares and the remaining
+      shares are voted by their clients or their custodians. Further, in such
+      Schedule 13G Lincoln Capital Management Corporation has disclaimed
+      beneficial ownership of these shares insofar as it is merely an agent for
+      its clients.
+
+ (4)  Based on information provided by Janus Capital Corporation in an
+      amendment to Schedule 13G filed February 9, 2001, for holdings as of
+      January 31, 2001, Janus Capital Corporation is a registered
+
+                                       5
+<PAGE>
+
+      investment adviser which furnishes investment advice to investment
+      companies and individual and institutional clients. As a result of its
+      role as investment adviser, Janus Capital Corporation may be deemed to be
+      the beneficial owner of shares of the Company's Common Stock held by its
+      clients. Janus Capital Corporation does not have the right to receive any
+      dividends from, or the proceeds from the sale of, the securities held in
+      the portfolios of clients for which Janus Capital Corporation serves as an
+      adviser. Includes 18,374,080 shares held directly by Janus Capital
+      Corporation clients and 664,522 shares issuable upon conversion of the
+      Company's 4-3/4% Convertible Subordinated Notes due 2009 held by Janus
+      Capital Corporation clients.
+
+ (5)  Includes 67,994 shares held as trustee of a charitable trust. Mr. Alberg
+      disclaims beneficial ownership of shares of Common Stock held by the
+      charitable trust.
+
+ (6)  Includes 720,000 shares issuable upon the exercise of stock options
+      granted January 18, 1997, that are exercisable within 60 days of March 1,
+      2001, 144,000 of which are subject to repurchase as of March 1, 2001 at
+      the original exercise price by the Company in the event of the
+      termination of Mr. Cook's services, which right lapses over time in
+      accordance with a vesting schedule.
+
+ (7)  Includes 458,202 shares as to which Mr. Doerr shares voting and
+      investment power, consisting of 422,280 shares owned by Kleiner Perkins
+      Caufield & Byers VIII, L.P., a California limited partnership ("KPCB
+      VIII"), 24,468 shares owned by Kleiner Perkins Caufield & Byers VIII
+      Founders Fund, L.P. a California limited partnership ("KPCB VIII FF"),
+      and 11,454 shares owned by KPCB Information Sciences Zaibatsu Fund II, a
+      California limited partnership ("KPCB Info"). Mr. Doerr is a general
+      partner of KPCB Associates VIII, L.P., a California limited partnership
+      which is the general partner of KPCB VIII and KPCB VIII FF. Mr. Doerr is
+      also a general partner of KPCB VII Associates, L.P., a California limited
+      partnership, which is the general partner of KPCB Info. Also includes
+      115,776 shares held as trustee of a trust for the benefit of persons
+      unrelated to Mr. Doerr (the "Trust"). Mr. Doerr disclaims beneficial
+      ownership of shares of Common Stock held by the Trust and by KPCB VIII,
+      KPCB VIII FF and KPCB Info, except to the extent of any indirect
+      pecuniary interest in his distributive shares therein.
+
+ (8)  Includes 450,000 shares issuable upon the exercise of stock options
+      granted February 7, 1997, that are exercisable within 60 days of March 1,
+      2001, 144,000 of which are subject to repurchase as of March 1, 2001 at
+      the original exercise price by the Company in the event of the
+      termination of Ms. Stonesifer's services, which right lapses over time in
+      accordance with a vesting schedule.
+
+ (9)  Includes 39,390 shares subject to repurchase by the Company at the
+      original price paid for such shares in the event of the termination of
+      Mr. Britto's services, which right lapses over time in accordance with a
+      vesting schedule.
+
+(10)  Includes, in addition to the shares set forth in the table above, 408,000
+      shares held by an executive officer of the Company, and 2,787,552 shares
+      issuable upon the exercise of stock options granted to certain executive
+      officers of the Company that are exercisable within 60 days of March 1,
+      2001, of which 1,839,552 shares are subject to repurchase as of March 1,
+      2001 by the Company at the original purchase price paid for such shares
+      in the event of termination of the services of the such officers, which
+      right lapses over time in accordance with the applicable vesting
+      schedule.
+
+                                       6
+<PAGE>
+
+                             EXECUTIVE COMPENSATION
+
+Compensation Summary
+
+  The following table sets forth for the year ended December 31, 2000 the
+compensation received by (i) the Company's Chief Executive Officer, and (ii)
+the Company's other four most highly compensated executive officers based on
+salary and bonus for the year ended December 31, 2000 (the "named executive
+officers").
+
+                           Summary Compensation Table
+
+<TABLE>
+<CAPTION>
+                                                                      Long-Term
+                                                                     Compensation
+                                    Annual Compensation                 Awards
+                              ------------------------------------   ------------
+                                                      Other Annual    Securities     All Other
+   Name and Principal          Salary                 Compensation    Underlying    Compensation
+        Position         Year  ($)(1)  Bonus ($)          ($)        Options (#)        ($)
+   ------------------    ---- -------- ----------     ------------   ------------   ------------
+<S>                      <C>  <C>      <C>            <C>            <C>            <C>
+Jeffrey P. Bezos........ 2000 $ 81,840        --            --              --             --
+ Chief Executive Officer 1999   81,840        --            --              --        $    957(2)
+                         1998   81,840        --            --              --             --
+
+Mark J. Britto.......... 2000  116,166 $1,000,000(3)        --          720,000(6)         --
+ Senior Vice President,  1999   50,453     70,500(4)    $ 5,174(5)      200,000(6)       8,672(7)
+ Cross-Site              1998      --         --            --              --             --
+ Merchandising
+
+Warren C. Jenson........ 2000  177,450  1,916,667(8)        385(5)      283,334(6)         923(7)
+ Senior Vice President   1999   55,679  2,150,000(9)      3,185(5)    2,000,000(6)     105,525(10)
+ and Chief Financial     1998      --         --            --              --             --
+ Officer
+
+Diego Piacentini........ 2000  150,694  1,666,667(11)   199,037(12)     830,000(6)     468,971(13)
+ Senior Vice President   1999      --         --            --              --             --
+ and General Manager,    1998      --         --            --              --             --
+ International
+
+Jeffrey A. Wilke........ 2000  121,680  1,066,667(14)    25,822(5)      230,000(6)      86,610(7)
+ Senior Vice President,  1999   38,180    803,000(9)      2,163(5)    1,000,000(6)       7,225(7)
+ Operations              1998      --         --            --              --             --
+</TABLE>
+--------
+ (1)  Amount shown for Mr. Piacentini for 2000 represents base salary paid
+      after he commenced employment with the Company on February 21, 2000.
+      Amounts shown for 1999 for Messrs. Britto, Jenson, and Wilke represent
+      base salaries paid after they commenced employment with the Company on
+      June 9, 1999, September 7, 1999, and September 7, 1999, respectively.
+
+ (2)  Represents royalties from a television commercial in which Mr. Bezos
+      appeared in 1996 to promote the Company.
+
+ (3)  Of this amount, $500,000 represents a special bonus earned in 2000 and
+      paid in January 2001, and $500,000 represents the portion of a promotion
+      bonus paid in 2000. See "Employment Contracts, Termination of Employment
+      and Change-of-Control Arrangements--Employment Arrangements."
+
+ (4)  Represents a signing bonus.
+
+ (5)  Represents tax reimbursement in connection with relocation expenses.
+
+ (6)  Subsequent to December 31, 2000, Messrs. Britto, Jenson, Piacentini and
+      Wilke accepted the Company's offer to exchange their outstanding stock
+      options for options to purchase a lesser number of shares at a lower
+      exercise price, resulting in the cancellation of these options (and
+      options granted in 1999 in the case of Messrs. Britto, Jenson and Wilke)
+      and the grant, on February 14, 2001, of an option to purchase an
+      aggregate of 239,998 shares to Mr. Britto, an option to purchase an
+      aggregate of 346,667 shares to Mr. Jenson, an option to purchase an
+      aggregate of 240,000 shares to Mr. Piacentini and an option to purchase
+      an aggregate of 240,000 shares to Mr. Wilke. These new options have an
+      exercise price of $13.375 per share and a term ending September 30, 2003,
+      and they vest and become exercisable at the rate of 25% on August 14,
+      2001 and 4.167% on the 14th day of each month thereafter until fully
+      vested on February 14, 2003.
+
+                                       7
+<PAGE>
+
+ (7)  Represents payment by the Company of relocation expenses.
+
+ (8)  Of this amount, $1,250,000 represents a signing bonus which is subject to
+      certain repayment obligations, and $666,667 represents the portion of a
+      special bonus paid in 2000. See "Employment Contracts, Termination of
+      Employment and Change-of-Control Arrangements--Employment Arrangements."
+
+ (9)  Represents a signing bonus. See "Employment Contracts, Termination of
+      Employment and Change-of-Control Arrangements--Employment Arrangements."
+
+(10)  Represents consideration in the amount of $100,000 for entering into a
+      confidentiality, noncompetition and invention assignment agreement with
+      the Company and payment by the Company of relocation expenses in the
+      amount of $5,525.
+
+(11)  Of this amount, $1,000,000 represents a signing bonus, and $666,667
+      represents the portion of a special bonus paid in 2000. See "Employment
+      Contracts, Termination of Employment and Change-of-Control Arrangements--
+      Employment Arrangements."
+
+(12)  Represents tax reimbursement primarily in connection with certain bonus
+      and relocation payments.
+
+(13)  Represents consideration in the amount of $400,000 for entering into a
+      confidentiality, noncompetition and invention assignment agreement with
+      the Company and payment by the Company of relocation expenses in the
+      amount of $68,971.
+
+(14)  Of this amount, $400,000 represents a signing bonus which is subject to
+      certain repayment obligations, and $666,667 represents the portion of a
+      special bonus paid in 2000. See "Employment Contracts, Termination of
+      Employment and Change-of-Control Arrangements--Employment Arrangements."
+
+                                       8
+<PAGE>
+
+ Option Grants in 2000
+
+  The following table sets forth information concerning the grant of stock
+options during 2000 to the named executive officers. Pursuant to an option
+exchange offer made by the Company on January 31, 2001, Messrs. Britto, Jenson,
+Piacentini and Wilke accepted the Company's offer to exchange their outstanding
+stock options, including the options described in the table below, resulting in
+the cancellation of these options and the grant, on February 14, 2001, of
+options to purchase a lesser number of shares at a lower exercise price. See
+footnote 3 to "Aggregated Option Exercises in 2000 and Fiscal Year-End Option
+Values" below.
+
+                       Option Grants in Last Fiscal Year
+
+<TABLE>
+<CAPTION>
+
+                                       Individual Grants                  Potential Realizable
+                         ------------------------------------------------   Value at Assumed
+                         Number of      Percent of                        Annual Rates of Stock
+                         Securities   Total Options  Exercise              Price Appreciation
+                         Underlying     Granted to     Price               for Option Term(2)
+                          Options       Employees    ($/Share) Expiration ---------------------
+  Name                   Granted(#)   in Fiscal Year    (1)       Date      5%($)      10%($)
+  ----                   ----------   -------------- --------- ---------- ---------- ----------
+<S>                      <C>          <C>            <C>       <C>        <C>        <C>
+Jeffrey P. Bezos........      --            --           --          --          --         --
+Mark J. Britto..........  150,000(3)                 $30.875     7/27/10   2,912,568  7,381,120
+                           80,000(4)        3.5%      30.875     7/27/10   1,553,370  3,936,544
+                          490,000(5)                  30.875    10/27/10   9,819,317 25,065,425
+Warren C. Jenson........  150,000(3)                  30.875     7/27/10   2,912,568  7,381,120
+                          133,334(4)       1.36%      30.875     7/27/10   2,588,962  6,560,939
+Diego Piacentini........  600,000(6)                  66.4375    5/21/10  25,846,405 65,961,554
+                          150,000(3)        4.0%      30.875     7/27/10   2,912,568  7,381,020
+                           80,000(4)                  30.875     7/27/10   1,553,370  3,936,544
+Jeffrey A. Wilke........  150,000(3)                  30.875     7/27/10   2,912,568  7,381,120
+                           80,000(4)        1.1%      30.875     7/27/10   1,553,370  3,936,544
+</TABLE>
+--------
+(1)  All options were granted at not less than fair market value on the date of
+     grant, based on the average of the high and low per share sales prices for
+     the Common Stock as reported on the Nasdaq National Market on the date of
+     grant.
+
+(2)  The dollar amounts under these columns are the result of calculations
+     based on the market price on the date of grant at the 5% and 10% rates
+     required by applicable regulations of the Securities and Exchange
+     Commission and, therefore, are not intended to forecast possible future
+     appreciation, if any, of the Common Stock price. Assumes all options are
+     exercised at the end of their respective terms. Actual gains, if any, on
+     stock option exercises depend on the future performance of the Common
+     Stock and overall market conditions, as well as the optionee's continued
+     service to the Company through the vesting period.
+
+(3)  This option had a term of 10 years and would have vested and become
+     exercisable at the rate of 20% upon each of the first two anniversaries of
+     the grant date and at the rate of 5% per completed quarter thereafter
+     until fully vested on July 27, 2005, subject the holder's continued
+     service to the Company.
+
+(4)  This option had a term of 10 years and would have vested and become
+     exercisable at the rate of 50% on July 27, 2001 and 50% on July 27, 2002,
+     subject the holder's continued service to the Company.
+
+(5)  This option had a term of 10 years and 3 months and would have vested and
+     become exercisable at the rate of 8.163% upon each of the first seven
+     anniversaries of the grant date and at the rate of 14.286% upon each
+     succeeding anniversary of the grant date until fully vested on July 27,
+     2010, subject to the holder's continued service to the Company.
+
+(6)  This option had a term of 10 years and 3 months and would have vested and
+     become exercisable at the rate of 10% upon each anniversary of the grant
+     date until fully vested on February 21, 2010, subject to the holder's
+     continued service to the Company.
+
+
+                                       9
+<PAGE>
+
+ Aggregated Option Exercises in 2000 and Fiscal Year-End Option Values
+
+  The following table sets forth information concerning the exercise of stock
+options during 2000 by the named executive officers, and their options
+outstanding at fiscal year-end.
+
+     Aggregated Option Exercises in 2000 and Fiscal Year-End Option Values
+
+<TABLE>
+<CAPTION>
+                                                Number of Securities
+                                               Underlying Unexercised       Value of Unexercised
+                                               Options at Fiscal Year-      In-the-Money Options
+                           Shares     Value            End(#)             at Fiscal Year-End($)(2)
+                         Acquired on Realized --------------------------  -------------------------
+          Name           Exercise(#)  ($)(1)  Exercisable  Unexercisable  Exercisable Unexercisable
+          ----           ----------- -------- -----------  -------------  ----------- -------------
+<S>                      <C>         <C>      <C>          <C>            <C>         <C>
+Jeffrey P. Bezos........     --        --           --             --         --           --
+Mark J. Britto..........     --        --           --         920,000(3)     --           -0-
+Warren C. Jenson........     --        --       100,000(3)   2,183,334(3)     -0-          -0-
+Diego Piacentini........     --        --           --         830,000(3)     --           -0-
+Jeffrey A. Wilke........     --        --        60,000(3)   1,170,000(3)     -0-          -0-
+</TABLE>
+--------
+(1)  "Value Realized" represents the fair value of the underlying securities on
+     the exercise date minus the exercise price of such options.
+
+(2)  Amounts equal the closing price of $15.563 per share of the Common Stock
+     on December 29, 2000 (the last trading day prior to the Company's fiscal
+     year end on December 31, 2000), less the option exercise price, multiplied
+     by the number of shares exercisable or unexercisable.
+
+(3)  Subsequent to December 31, 2000, Messrs. Britto, Jenson, Piacentini and
+     Wilke accepted the Company's offer to exchange their outstanding stock
+     options for options to purchase a lesser number of shares at a lower
+     exercise price, resulting in the cancellation of these options and the
+     grant, on February 14, 2001, of an option to purchase an aggregate of
+     239,998 shares to Mr. Britto, an option to purchase an aggregate of
+     346,667 shares to Mr. Jenson, an option to purchase an aggregate of
+     240,000 shares to Mr. Piacentini and an option to purchase an aggregate of
+     240,000 shares to Mr. Wilke. These new options have an exercise price of
+     $13.375 per share and a term ending September 30, 2003, and they vest and
+     become exercisable at the rate of 25% on August 14, 2001 and 4.167% on the
+     14th day of each month thereafter until fully vested on February 14, 2003.
+
+Compensation Committee Report on Executive Compensation
+
+  The Company offers compensation packages designed to attract and retain
+outstanding employees and to encourage and reward the achievement of corporate
+goals. Through broad-based employee ownership of the Company's common stock,
+the Company seeks to align employee financial interests with long-term
+stockholder value.
+
+  Executive officers receive total compensation packages in line with their
+responsibilities and expertise. The Company believes that the majority of an
+executive's compensation should be closely tied to overall Company performance.
+Accordingly, base salaries for executive officers in most cases are relatively
+low, but are accompanied by significant stock option grants and, in certain
+cases, cash bonuses.
+
+  Base Salaries. Salaries for the Company's executive officers are based on the
+executive's contribution to Company performance, level of responsibility,
+experience and breadth of knowledge. Base salaries for executive officers
+generally are designed to be significantly less than those paid by competitors
+in the electronic commerce and Internet industries. These lower base salaries
+are combined with large stock option grants, so that the major portion of the
+executive's pay is tied to Company performance, and with cash bonuses. In 2000,
+most executive officers received an annualized salary increase from 1999 of
+2.1%.
+
+  Stock-Based Compensation. The Company seeks to align the long-term interests
+of its executive officers with those of its stockholders. As a result, each
+executive officer receives a significant stock option grant when he or she
+joins the Company or is promoted to executive officer. Grant sizes are
+determined based on various subjective factors, primarily related to the
+individual's anticipated contributions to the Company's success. The Company
+also has granted additional stock options to executive officers annually, based
+on various subjective factors primarily related to the Committee's assessment
+of each officer's anticipated contributions to the Company's success. For 2000,
+these annual grants were awarded in July.
+
+                                       10
+<PAGE>
+
+  In July 2000, the Company also awarded a special, non-routine stock option
+grant with a two-year vesting schedule (the "special options") to each
+employee, including executive officers, hired on or before July 24, 2000 who
+held options with an exercise price (adjusted for stock splits) greater than
+$29.75. The special options were granted to most employees, including the
+executive officers, at an exercise price of $30.875 per share. Each of these
+special options granted to executives was cancelled in connection with the
+option exchange program described below.
+
+  In the first quarter of 2001, the Company offered an exchange of employee
+stock options to certain holders of outstanding options, including executive
+officers, that had an exercise price of more than $23.00 per share. All
+eligible executive officers accepted the offer to exchange options. Under the
+offer to exchange options, employees could exchange eligible options on an all-
+or-nothing basis for a new option based on a formula and also had to surrender
+for cancellation all special options. The new options have an exercise price of
+$13.375 and vest over a two year period commencing on February 14, 2001, with
+an initial 25% vesting on August 14, 2001, followed by monthly vesting of
+4.167% thereafter. The new options terminate on September 30, 2003. The offer
+to exchange options was not offered to two executive officers who had been
+employees of the Company for at least two years.
+
+  The Committee approved the exchange offer because it is philosophically
+committed to the concept of employees as owners, including for its executive
+officers. In light of the recent stock market volatility, especially for
+Internet stocks, the Committee felt it appropriate to offer the option exchange
+program. The Company intends to provide long-term incentives through its
+regular annual option grant program in September 2001 and, together with this
+annual grant program, the option exchange program helps advance the Committee's
+ownership philosophy.
+
+  Bonus Compensation. In 2000, the Company hired one new executive officer, Mr.
+Piacentini. The Company agreed to pay him a bonus to encourage him to join the
+Company. Similarly, in 2000, the Company agreed to pay one executive officer,
+Mr. Britto, a bonus payable monthly over a 30-month period to compensate him
+for assuming additional responsibilities in connection with his promotion to
+Senior Vice President. In 2000, the Company also agreed to pay four executive
+officers, Mr. Britto, Mr. Jenson, Mr. Piacentini and Mr. Wilke, special cash
+bonuses to help align their compensation for 2000 and 2001 more closely with
+their peer group in similar industries. The Company intends to make additional
+cash bonuses to executive officers from time-to-time based on performance and
+potential.
+
+  Chief Executive Officer Compensation. Mr. Bezos received $81,840 in cash
+compensation from the Company during 2000. Mr. Bezos' compensation was
+considerably less than may have been paid to an individual with similar
+responsibilities in a similar industry. Due to Mr. Bezos' substantial ownership
+in the Company (approximately 32.4%), Mr. Bezos requested not to receive
+additional compensation in 2000.
+
+  Ongoing Review. The Compensation Committee will evaluate the Company's
+compensation policies on an ongoing basis to determine whether they enable the
+Company to attract, retain and motivate key personnel. To meet these
+objectives, the Company may from time to time increase salaries, award
+additional stock options or provide other short- and long-term incentive
+compensation to executive officers, including Mr. Bezos.
+
+  Section 162(m). Compensation payments in excess of $1 million to the Chief
+Executive Officer or the other four most highly compensated executive officers
+are subject to a limitation on deductibility for the Company under Section
+162(m) of the Internal Revenue Code of 1986, as amended. Certain performance-
+based compensation is not subject to the limitation on deductibility. The
+Compensation Committee does not expect cash compensation in 2001 to its Chief
+Executive Officer to be in excess of $1 million. The Compensation Committee
+expects cash compensation in 2001 to Mr. Britto, Mr. Jenson and Mr. Piacentini
+to be in excess of $1 million. The Company intends to maintain qualification of
+its Amended and Restated 1994 Stock Option Plan and 1997 Stock Incentive Plan
+for the performance-based exception to the $1 million limitation on
+deductibility of compensation payments.
+
+                                          The Compensation Committee
+
+                                          L. John Doerr
+                                          Patricia Q. Stonesifer
+
+                                       11
+<PAGE>
+
+                         STOCK PRICE PERFORMANCE GRAPH
+
+  The graph set forth below compares cumulative total return on the Common
+Stock with the cumulative total return of the Nasdaq Total U.S. Index and the
+Morgan Stanley High-Technology Index, resulting from an initial assumed
+investment of $100 in each and assuming the reinvestment of any dividends,
+based on closing prices, for the period beginning on the date of the Company's
+initial public offering of the Common Stock on May 15, 1997 and ending on
+December 31, 2000.
+
+                              [PERFORMANCE GRAPH]
+
+<TABLE>
+<CAPTION>
+                                5/15/97 12/31/97 12/31/98 12/31/99 12/31/00
+     ----------------------------------------------------------------------
+       <S>                      <C>     <C>      <C>      <C>      <C>
+       Amazon.com                $100     $256    $2,734   $3,887    $795
+     ----------------------------------------------------------------------
+       Morgan Stanley High-
+        Technology Index          100      107       208      438     318
+     ----------------------------------------------------------------------
+       Nasdaq Total U.S. Index    100      117       165      306     184
+</TABLE>
+
+
+  Note: Stock price performance shown in the Stock Price Performance Graph for
+the Common Stock is historical and not necessarily indicative of future price
+performance.
+
+                                       12
+<PAGE>
+
+     EMPLOYMENT CONTRACTS, TERMINATION OF EMPLOYMENT AND CHANGE-OF-CONTROL
+                                  ARRANGEMENTS
+
+Option Plans
+
+  1997 Stock Incentive Plan and 1999 Nonofficer Employee Stock Option Plan. In
+the event of (i) the merger or consolidation of the Company in which it is not
+the surviving corporation pursuant to which shares of Common Stock are
+converted into cash, securities or other property (other than a merger in which
+holders of Common Stock immediately before the merger have the same
+proportionate ownership of the capital stock of the surviving corporation
+immediately after the merger), (ii) the sale, lease, exchange or other transfer
+of all or substantially all of the Company's assets (other than a transfer to a
+majority-owned subsidiary), or (iii) the approval by the holders of Common
+Stock of any plan or proposal for the Company's liquidation or dissolution
+(each a "Corporate Transaction"), the Compensation Committee will determine
+whether provisions will be made in connection with the Corporate Transaction
+for the assumption of the options under the Company's 1997 Stock Incentive Plan
+and the 1999 Nonofficer Employee Stock Option Plan or substitution of
+appropriate new options covering the stock of the successor corporation or an
+affiliate of the successor corporation. If the Compensation Committee
+determines that no such assumption or substitution will be made, each
+outstanding option under the 1997 Stock Incentive Plan and the 1999 Nonofficer
+Employee Stock Option Plan will automatically accelerate so that it will become
+100% vested and exercisable immediately before the Corporate Transaction,
+except that acceleration will not occur if, in the opinion of the Company's
+accountants, it would render unavailable "pooling of interests" accounting for
+a Corporate Transaction that otherwise would qualify for that accounting
+treatment.
+
+Employment Arrangements
+
+  Mark J. Britto. In conjunction with Mr. Britto's promotion in July 2000 to
+Senior Vice President, Mr. Britto's promotion letter provides for an initial
+annual salary of $150,000. Mr. Britto's employment is for no specified length
+of time. Mr. Britto was also granted a cash promotion bonus in the amount of
+$2,500,000, payable in equal monthly installments over the 30-month period
+beginning with his paycheck for July 2000. In the event Mr. Britto's employment
+is terminated for any reason prior to payment of the entire bonus, he will
+forfeit all subsequent installments of this bonus. Mr. Britto was also granted
+a special bonus in the amount of $500,000 in January 2000, which was paid in
+full in January 2001. Payment of this bonus was subject to Mr. Britto
+maintaining continuous full-time employment with the Company from January 3,
+2000, through December 31, 2000. Mr. Britto received shares of Common Stock
+subject to a restricted stock purchase agreement as part of the Company's
+acquisition of Accept.com Financial Services Corporation in 1999. These shares
+are subject to repurchase by the Company at the original price paid for such
+shares, which lapses in accordance with a vesting schedule over a four-year
+period ending October 13, 2002. In the event of a consolidation or merger of
+the Company with another company which results in the stockholders of the
+Company immediately prior to such transaction holding 50% or less of the voting
+equity securities of the surviving company immediately following such
+transaction, vesting of the remaining unvested shares subject to the restricted
+stock purchase agreement will accelerate by 25%. If Mr. Britto's employment
+with the Company terminates, vesting ceases and the Company has the option to
+repurchase the remaining unvested shares.
+
+  Warren C. Jenson. Mr. Jenson's employment offer letter provides for an
+initial annual salary of $175,000. Mr. Jenson's employment is for no specified
+length of time. In addition to Mr. Jenson's base salary, and subject to certain
+conditions noted below, he is entitled to receive a $7,400,000 signing bonus
+payable in five annual installments. The first installment of $2,150,000 was
+paid in 1999 with Mr. Jenson's first regular paycheck; the second installment
+of $1,250,000 was paid with his first paycheck following September 7, 2000; the
+third installment of $1,250,000 is payable with his paycheck following
+September 7, 2001; the fourth installment of $1,250,000 is payable with his
+paycheck following September 7, 2002; and the fifth installment of $1,500,000
+is payable with his paycheck following September 7, 2003. In the event Mr.
+Jenson's employment is terminated for any reason during the first five years,
+he must reimburse the Company for that year's installment of the signing bonus
+on a pro-rated monthly basis, and will forfeit all subsequent
+
+                                       13
+<PAGE>
+
+installments. As additional consideration for entering into a confidentiality,
+noncompetition and invention assignment agreement with the Company, the Company
+paid Mr. Jenson $100,000 at the time of his first regular paycheck, in
+accordance with his employment offer letter. The Company also granted Mr.
+Jenson an option to purchase 2,000,000 shares of the Company's Common Stock
+pursuant to his employment offer letter. This option, which was granted on
+September 7, 1999, at an exercise price of $63.25 per share (which was the fair
+market value of the Common Stock on the grant date), vested in equal annual
+installments over a twenty-year period from the grant date and had a term
+expiring December 7, 2019. Pursuant to an option exchange offer made by the
+Company on January 31, 2001, Mr. Jenson exchanged this option and all other
+options previously granted to him for a new option to purchase 346,667 shares
+of Common Stock at an exercise price of $13.375 per share with a term ending
+September 30, 2003. This new option vests and becomes exercisable at the rate
+of 25% on August 14, 2001, and 4.167% on the 14th day of each month thereafter
+until fully vested on February 14, 2003. In May 2000, Mr. Jenson was granted a
+special cash bonus in the amount of $1,000,000, payable in equal monthly
+installments over a one-year period beginning with his paycheck for May 2000.
+In the event Mr. Jenson's employment is terminated for any reason prior to
+payment of the entire amount of this bonus, he will forfeit all subsequent
+installments of this bonus.
+
+  Diego Piacentini. Mr. Piacentini's employment offer letter provides for an
+initial annual salary of $175,000. Mr. Piacentini's employment is for no
+specified length of time. In addition to Mr. Piacentini's base salary, and
+subject to certain conditions noted below, he is entitled to receive a
+$1,900,000 signing bonus payable in two installments. The first installment of
+$1,000,000 was paid in February 2000 and the second installment of $900,000 was
+paid with his first paycheck following February 21, 2001. In the event Mr.
+Piacentini's employment is terminated voluntarily or for cause prior to the
+second anniversary of his employment, he must reimburse the Company for the
+second installment of the signing bonus on a pro-rated monthly basis. As
+additional consideration for entering into a confidentiality, noncompetition
+and invention assignment agreement with the Company, the Company paid Mr.
+Piacentini $400,000 in February 2000, in accordance with his employment offer
+letter. The Company also granted Mr. Piacentini an option to purchase 600,000
+shares of the Company's Common Stock pursuant to his employment offer letter.
+This option, which was granted as of February 21, 2000, at an exercise price of
+$66.4375 per share (which was the fair market value of the Common Stock on the
+grant date), vested in equal annual installments over a ten-year period from
+the grant date and had a term expiring May 21, 2010. Pursuant to an option
+exchange offer made by the Company on January 31, 2001, Mr. Piacentini
+exchanged this option and all other options previously granted to him for a new
+option to purchase 240,000 shares at an exercise price of $13.375 per share
+with a term ending September 30, 2003. This new option vests and becomes
+exercisable at the rate of 25% on August 14, 2001, and 4.167% on the 14th day
+of each month thereafter until fully vested on February 14, 2003. Mr.
+Piacentini's employment offer letter also entitles him to certain benefits
+related to his relocation from Italy, including a cost of living and housing
+allowance. In May 2000, Mr. Piacentini was granted a special cash bonus in the
+amount of $1,000,000, payable in equal monthly installments over a one-year
+period beginning with his paycheck for May 2000. In the event Mr. Piacentini's
+employment is terminated for any reason prior to payment of the entire amount
+of this bonus, he will forfeit all subsequent installments of this bonus.
+
+  Jeffrey A. Wilke. Mr. Wilke's employment offer letter provides for an initial
+annual salary of $120,000. Mr. Wilke's employment is for no specified length of
+time. In addition to Mr. Wilke's base salary, and subject to certain conditions
+noted below, he is entitled to receive a $2,000,000 signing bonus payable in
+four annual installments. The first installment of $800,000 was paid in 1999
+with Mr. Wilke's first regular paycheck; the second installment of $400,000 was
+paid with his first paycheck following September 7, 2000; the third installment
+of $200,000 is payable with his paycheck following September 7, 2001; and the
+fourth installment of $600,000 is payable with his paycheck following September
+7, 2002. In the event Mr. Wilke's employment is terminated voluntarily or for
+cause during the first four years, he must reimburse the Company for that
+year's installment of the signing bonus on a pro-rated monthly basis, and will
+forfeit all subsequent installments. The Company also granted Mr. Wilke options
+to purchase a total of 1,000,000 shares of the Company's Common Stock pursuant
+to his employment offer letter. These options, which were granted on September
+7, 1999, at an exercise price of $63.25 per share (which was the fair market
+value of the Common Stock on the grant date),
+
+                                       14
+<PAGE>
+
+had terms expiring December 7, 2014. Options to purchase 600,000 shares of
+Common Stock vested in equal yearly installments over the ten-year period
+beginning September 7, 1999. Options to purchase 400,000 shares of Common Stock
+vested in equal yearly installments over the five-year period beginning
+September 7, 2009. Pursuant to an option exchange offer made by the Company on
+January 31, 2001, Mr. Wilke exchanged these options and all other options
+previously granted to him for a new option to purchase 240,000 shares at an
+exercise price of $13.375 per share with a term ending September 30, 2003. This
+new option vests and becomes exercisable at the rate of 25% on August 14, 2001,
+and 4.167% on the 14th day of each month thereafter until fully vested on
+February 14, 2003. In May 2000, Mr. Wilke was granted a special cash bonus in
+the amount of $1,000,000, payable in equal monthly installments over a one-year
+period beginning with his paycheck for May 2000. In the event Mr. Wilke's
+employment is terminated for any reason prior to payment of the entire amount
+of this bonus, he will forfeit all subsequent installments of this bonus.
+
+                                    AUDITORS
+
+  The Company has selected Ernst & Young LLP ("E&Y") to continue as its
+independent public accountants for the fiscal year ending December 31, 2001.
+Representatives of E&Y are expected to attend the Annual Meeting and will have
+an opportunity to make a statement or to respond to appropriate questions from
+stockholders.
+
+ Audit Fees
+
+  The aggregate fees billed by E&Y for professional services rendered for the
+audit of the Company's annual financial statements for the fiscal year ended
+December 31, 2000, and for the review of the financial statements included in
+the Company's Quarterly Reports on Form 10-Q for that fiscal year were
+$1,500,000.
+
+ Financial Information Systems Design and Implementation Fees
+
+  The Company did not incur any fees billed by E&Y for professional services
+rendered for information technology services relating to financial information
+systems design and implementation for the fiscal year ended December 31, 2000.
+
+ All Other Fees
+
+  The aggregate fees billed by E&Y for services rendered to the Company, other
+than the services described above under "Audit Fees" and "Financial Information
+Systems Design and Implementation Fees," for the fiscal year ended December 31,
+2000, were $3,000,000, consisting of audit related fees in the amount of
+$1,500,000 and non-audit fees in the amount of $1,500,000. Audit related
+services included accounting consultation, services related to registration of
+the Company's securities and other business services. The non-audit services
+consisted primarily of tax services. In the course of its meetings, the Audit
+Committee has considered whether E&Y's provision of these other services is
+compatible with maintaining E&Y's independence.
+
+Audit Committee Report
+
+  The Audit Committee reviews the Company's financial reporting process on
+behalf of the Board. Management has the primary responsibility for the
+financial statements and the reporting process. The Company's independent
+auditors are responsible for expressing an opinion on the conformity of the
+Company's audited financial statements to generally accepted accounting
+principles.
+
+  In this context, the Audit Committee reviewed and discussed with management
+and the independent auditors the audited financial statements for the year
+ended December 31, 2000 (the "Audited Financial Statements"). The Audit
+Committee has discussed with the independent auditors the matters required to
+be
+
+                                       15
+<PAGE>
+
+discussed by Statement on Auditing Standards No. 61 (Communication with Audit
+Committees). In addition, the Audit Committee has received from the independent
+auditors the written disclosures required by Independence Standards Board
+Standard No. 1 (Independence Discussions with Audit Committees) and discussed
+with them their independence from the Company and its management.
+
+  Following the reviews and discussions referred to above, the Audit Committee
+recommended to the Board that the Audited Financial Statements be included in
+the Company's Annual Report on Form 10-K for the year ended December 31, 2000,
+for filing with the Securities and Exchange Commission.
+
+  The Audit Committee members do not serve as professional accountants or
+auditors and their functions are not intended to duplicate or to certify the
+activities of management and the independent auditors. The Committee serves a
+board-level oversight role where it receives information from, consults with,
+and provides its views and directions to, management and the independent
+auditors on the basis of the information it receives and the experience of its
+members in business, financial and accounting matters.
+
+                                          The Audit Committee
+
+                                          Tom A. Alberg
+                                          Scott D. Cook
+                                          Patricia Q. Stonesifer
+
+            SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+  To the Company's knowledge, based solely on a review of the copies of such
+reports furnished to the Company and written representations that no other
+reports were required, the Company believes that during the year ended December
+31, 2000, its officers, Directors and greater-than-10% stockholders complied
+with all Section 16(a) filing requirements.
+
+                            EXPENSES OF SOLICITATION
+
+  The accompanying proxy is solicited by and on behalf of the Board of
+Directors, and the cost of such solicitation will be borne by the Company.
+Georgeson Shareholder Communications, Inc. will distribute proxy materials to
+beneficial owners, and may solicit proxies by personal interview, mail,
+telephone and electronic communications, and will request brokerage houses and
+other custodians, nominees and fiduciaries to forward soliciting material to
+the beneficial owners of the Common Stock held on the record date by such
+persons. The Company will pay Georgeson Shareholder Communications $5,000 for
+its proxy solicitation services and will reimburse Georgeson Shareholder
+Communications for payments made to brokers and other nominees for their
+expenses in forwarding solicitation materials. Solicitation also may be made by
+personal interview, telephone, and electronic communications by Directors,
+officers and other employees of the Company without additional compensation.
+
+                                 OTHER MATTERS
+
+  As of the date hereof, there are no other matters that the Company intends to
+present, or has reason to believe others will present, at the Annual Meeting.
+If, however, other matters properly come before the Annual Meeting, the
+enclosed proxy authorizes the persons named as proxies or their substitutes to
+vote on such matters as they determine appropriate.
+
+                                       16
+<PAGE>
+
+                           PROPOSALS OF STOCKHOLDERS
+
+  Proposals of stockholders to be considered for inclusion in the Proxy
+Statement and proxy card for the 2002 Annual Meeting of Stockholders pursuant
+to Rule 14a-8 under the Securities Exchange Act of 1934 must be received by the
+Secretary of the Company on or before December 10, 2001. The submission of a
+stockholder proposal does not guarantee that it will be included in the
+Company's Proxy Statement.
+
+  In addition, the Company's Bylaws include advance notice provisions that
+require stockholders desiring to bring nominations or other business before an
+annual stockholders meeting to do so in accordance with the terms of the
+advance notice provisions regardless of whether the stockholder seeks to
+include such matters in the Company's Proxy Statement pursuant to Rule 14a-8.
+These advance notice provisions require that, among other things, stockholders
+give timely written notice to the Secretary of the Company regarding such
+nominations or other business and otherwise satisfy the requirements set forth
+in the Bylaws. To be timely, a notice must be delivered to the Secretary at the
+principal executive offices of the Company not more than 90, but not less than
+60, days prior to the date of the annual meeting as determined under the
+Company's Bylaws.
+
+  Accordingly, a stockholder who intends to present nominations or a proposal
+at the 2002 Annual Meeting of Stockholders without inclusion of the proposal in
+the Company's proxy materials must provide written notice of the nominations or
+other business they wish to propose to the Secretary no earlier than February
+8, 2002 and no later than March 10, 2002. The Company reserves the right to
+reject, rule out of order, or take other appropriate action with respect to any
+proposal that does not comply with these and other applicable requirements.
+
+                           ANNUAL REPORT ON FORM 10-K
+
+  A copy of the Company's combined Annual Report to Stockholders and Annual
+Report on Form 10-K for the year ended December 31, 2000, accompanies this
+Proxy Statement. An additional copy will be furnished without charge to
+beneficial stockholders or stockholders of record upon request to Investor
+Relations, Amazon.com, Inc., P.O. Box 81226, Seattle, Washington 98108-1226 or
+by calling 1-800-426-6825. It is also available in digital form for download or
+review by visiting www.amazon.com/ir.
+
+                                       17
+<PAGE>
+
+                                                                      APPENDIX A
+
+                                AMAZON.COM, INC
+
+                            Audit Committee Charter
+              (As adopted by the Board of Directors May 10, 2000)
+
+Organization
+
+  This charter governs the operations of the Audit Committee of the Board of
+Directors of Amazon.com. The Committee shall review and reassess the charter at
+least annually and recommend any appropriate changes to the Board of Directors.
+The Committee shall be appointed by the Board of Directors and shall comprise
+at least three directors, each of whom meet NASD requirements with respect to
+independence and financial literacy.
+
+Statement of Policy
+
+  The Audit Committee shall provide assistance to the Board of Directors in
+fulfilling their oversight responsibility to the shareholders, potential
+shareholders, the investment community, and others relating to the Company's
+financial statements and the financial reporting process, the systems of
+internal accounting and financial controls, the annual independent audit of the
+Company's financial statements, and the legal compliance and ethics programs as
+established by management and the board. In so doing, the committee shall
+maintain free and open communication between the committee, the independent
+auditors and management of the Company. In discharging its oversight role, the
+committee is empowered to investigate any matter brought to its attention with
+full access to all books, records, facilities, and personnel of the Company and
+the power to retain outside counsel, or other experts for this purpose.
+
+Responsibilities and Processes
+
+  The primary responsibility of the Audit Committee is to oversee the Company's
+financial reporting process on behalf of the Board and report the results of
+their activities to the Board. Management is responsible for preparing the
+Company's financial statements, and the independent auditors are responsible
+for auditing those financial statements. The committee in carrying out its
+responsibilities believes its policies and procedures should remain flexible,
+in order to best react to changing conditions and circumstances.
+
+  The following shall be the principal recurring processes of the Audit
+Committee in carrying out its oversight responsibilities. The processes are set
+forth as a guide with the understanding that the Committee may supplement them
+as appropriate.
+
+  .  The committee shall have a clear understanding with management and the
+     independent auditors that the independent auditors are ultimately
+     accountable to the board and the audit committee, as representatives of
+     the Company's shareholders. The committee shall have the ultimate
+     authority and responsibility to evaluate and, where appropriate,
+     recommend the replacement of the independent auditors. The committee
+     shall discuss with the auditors their independence from management and
+     the Company and the matters included in the written disclosures required
+     by the Independence Standards Board. Annually, the committee shall
+     review and recommend to the board the selection of the Company's
+     independent auditors.
+
+  .  The committee shall discuss with the independent auditors the overall
+     scope and plans for their audit. Also, the committee shall discuss with
+     management and the independent auditors the adequacy and effectiveness
+     of the accounting and financial controls, including the Company's system
+     to monitor and manage business risk, and legal and ethical compliance
+     programs. Further, the committee shall meet separately with the
+     independent auditors, with and without management present, to discuss
+     the results of their audit procedures.
+
+                                      A-1
+<PAGE>
+
+  .  The committee shall discuss the results of the quarterly review and any
+     other matters required to be communicated to the committee by the
+     independent auditors under generally accepted auditing standards. The
+     chair of the committee may represent the entire committee for the
+     purposes of this review.
+
+  .  The committee shall review with management and the independent auditors
+     the financial statements to be included in the Company's Annual Report
+     on Form 10-K (or the annual report to shareholders if distributed prior
+     to the filing of Form 10-K), including their judgment about the quality,
+     not just acceptability, of accounting principles, the reasonableness of
+     significant judgments, and the clarity of the disclosures in the
+     financial statements. Also, the committee shall discuss the results of
+     the annual audit and any other matters required to be communicated to
+     the committee by the independent auditors under generally accepted
+     auditing standards.
+
+                                      A-2
+<PAGE>
+
+--------------------------------------------------------------------------------
+
+                                     PROXY
+
+                               AMAZON.COM, INC.
+
+               THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS
+
+The undersigned stockholder of Amazon.com,Inc., a Delaware corporation (the
+"Company"), hereby appoints Jeffrey P. Bezos, Warren C. Jenson and L. Michelle
+Wilson, or any one of them, with full power of substitution in each, as proxies
+to cast all votes that the undersigned is entitled to cast at the Annual Meeting
+of Stockholders (the "Annual Meeting") of the Company to be held at 9:00 a.m.,
+Pacific Daylight Time, on May 23, 2001 in the Metropolitan Ballroom of the
+Sheraton Seattle Hotel & Towers, 1400 - 6th Avenue, Seattle, Washington 98101,
+or any adjournment or postponement thereof, with authority to vote upon the
+matters set forth on the reverse side of this Proxy Card.
+
+THIS PROXY, WHEN PROPERLY EXECUTED, WILL BE VOTED IN THE MANNER DIRECTED HEREIN
+BY THE UNDERSIGNED STOCKHOLDER, UNLESS DIRECTION IS GIVEN, THIS PROXY WILL BE
+VOTED:
+
+     .  "FOR" THE ELECTION AS DIRECTORS OF THE NOMINEES NAMED IN THE
+        ACCOMPANYING PROXY STATEMENT,
+
+     .  AND IN ACCORDANCE WITH THE DISCRETION OF THE PROXIES AS TO ANY OTHER
+        MATTERS.
+
+The undersigned hereby acknowledges receipt of the Company's Proxy Statement in
+connection with the Annual Meeting and hereby revokes any proxy or proxies
+previously given.
+
+      (Continued, and to be marked, dated and signed, on the other side)
+
+--------------------------------------------------------------------------------
+                           . FOLD AND DETACH HERE .
+
+
+         You can now access your Amazon.com stockholder account online
+                       via Investor ServiceDirect (ISD)
+
+ Mellon Investor Services LLC, as agent for Amazon.com, Inc., now offers you
+            current information on your stockholder account online.
+
+                Visit the web at http://www.mellon-investor.com
+               then follow the instructions shown on this page.
+
+
+Step 1: First time - Establish a PIN
+
+You must first establish a Personal Identification Number (PIN) online by
+following the directions on the web page screen. You will need your Social
+Security Number (SSN) to do this. Investor ServiceDirect is currently only
+available for domestic individuals and joint accounts.
+
+ .  Enter SSN
+ .  Enter PIN
+ .  Then click on the Establish PIN button
+
+Make a note of your PIN in a secure place for later reference.
+
+
+Step 2: Log in for Account Access
+
+To access your account enter your:
+
+ .  SSN
+ .  PIN
+ .  Then click on the Submit button
+
+If you have more than one account, select the appropriate account and continue.
+
+
+Step 3: Account Status Screen
+
+You are ready to access your account information. Click on the appropriate
+button to view or initiate transactions.
+
+ .  Certificate History
+ .  Book-Entry Information
+ .  Issue Certificate
+ .  Payment History
+ .  Address Change
+ .  Duplicate 1099
+
+
+             For Technical Assistance Call 1-877-978-7778 between
+                      9am-7pm Monday-Friday Eastern Time.
+
+--------------------------------------------------------------------------------
+<PAGE>
+
+--------------------------------------------------------------------------------
+THIS PROXY WILL BE VOTED AS DIRECTED OR, IF NO DIRECTION        Please mark  [X]
+    IS INDICATED, WILL BE VOTED "FOR" THE PROPOSAL               your vote
+                                                              as indicated in
+                                                               this example.
+
+
+               THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS
+
+The Board of Directors recommends a vote "FOR" Proposal 1
+Proposal 1 - Election of five directors, each to hold office until his or her
+successor shall have been elected and qualified
+
+                                    FOR                         WITHHOLD
+                            the nominees listed                 AUTHORITY
+                        (except as indicated below)     to vote for all nominees
+
+Nominees:   01  Jeffrey P. Bezos       04  L. John Doerr
+            02  Tom A. Alberg          05  Patricia Q. Stonesifer
+            03  Scott D. Cook
+
+INSTRUCTION: To withhold authority to vote for any nominee, write that nominee's
+name in the space below.
+
+
+----------------------------------------------
+
+In their discretion, the proxies are authorized to vote upon such other matters
+as may properly come before the meeting or any adjournments or postponements
+thereof.
+
+[_]  CONSENT TO ELECTRONIC DELIVERY AND VOTING By checking the box to the left I
+     consent to future access to the Company's Annual Reports, Proxy Statements,
+     Prospectuses and other communications electronically via the Internet, and
+     to electronic proxy voting via the Internet or by telephone. I understand
+     that the Company may no longer distribute printed materials to me for any
+     future stockholders meeting until my consent is revoked. I understand that
+     I may revoke my consent at any time by contacting the Company's transfer
+     agent, Mellon Investor Services LLC, Ridgefield Park, NJ. I also understand
+     that costs normally associated with electronic access such as usage and
+     telephone charges will be my responsibility.
+
+
+  ______
+        |
+        |
+        |
+        |
+
+
+Signature(s):                                           Date:
+             ------------------------------------------      -------------------
+Please sign above exactly as your name appears on this Proxy Card. If shares are
+registered in more than one name, the signatures of all such persons are
+required. A corporation should sign in its full corporate name by a duly
+authorized officer, stating his/her title. Trustees, guardians, and
+administrators should sign in their official capacity, giving their full title
+as such. Partnerships should sign in the partnership name by the authorized
+person(s).
+
+--------------------------------------------------------------------------------
+                           . FOLD AND DETACH HERE .
+
+       Please Vote by Mailing this Proxy Card in Advance of the Meeting
+
+                                      OR
+
+                         Vote by Internet or Telephone
+
+                         24 Hours a Day, 7 Days a Week
+
+                              Before May 23, 2001
+
+              Amazon.com encourages you to vote via the Internet.
+          It is the most cost effective method of casting your vote
+                         and saves your Company money.
+
+Your Internet or telephone vote authorizes the named proxies to vote your shares
+  in the same manner as if your marked, signed and returned your proxy card.
+
+                                   Internet
+
+                                    Go to:
+
+                        http://www.proxyvoting.com/amzn
+
+            You will need your control number from this proxy card
+                  (see below) to submit your electronic vote
+
+
+                                   Telephone
+                                1-800-840-1208
+
+      You can use any touch-tone telephone. You will need to enter your
+     control number (see below) then follow directions to submit your vote
+
+
+                                     Mail
+
+              Mark, sign and date your proxy card and return it
+                    in the enclosed postage-paid envelope.
+
+--------------------------------------------------------------------------------
+</TEXT>
+</DOCUMENT>

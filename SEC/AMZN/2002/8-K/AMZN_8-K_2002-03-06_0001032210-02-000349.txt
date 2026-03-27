@@ -1,0 +1,75 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.txt
+<DESCRIPTION>CURRENT REPORT DATED 03/05/2002
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                                 March 5, 2002
+                                 DATE OF REPORT
+                       (DATE OF EARLIEST EVENT REPORTED)
+
+
+                                AMAZON.COM INC.
+               (EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER)
+
+
+    DELAWARE                       000-22513                     91-1646860
+(STATE OF OTHER              (COMMISSION FILE NO.)             (IRS EMPLOYER
+  JURISDICTION                                               IDENTIFICATION NO.)
+OF INCORPORATION)
+
+        1200 - 12TH AVENUE SOUTH, SUITE 1200, SEATTLE, WASHINGTON 98144
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE)
+
+                                 (206) 266-1000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+<PAGE>
+
+ITEM 5. OTHER EVENTS
+
+     On March 5, 2002, Amazon.com, Inc. announced that Warren Jenson,
+Amazon.com's Chief Financial Officer, will resign later this year.
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                       AMAZON.COM, INC.
+                                       (REGISTRANT)
+
+Dated:  March 5, 2002                  By:  /s/ L. Michelle Wilson
+                                            ------------------------------
+                                            L. Michelle Wilson
+                                            Senior Vice President
+
+
+
+                                 EXHIBIT INDEX
+
+Exhibit Number      Description
+--------------      -----------
+
+    99.1            Press Release dated March 5, 2002
+
+</TEXT>
+</DOCUMENT>
