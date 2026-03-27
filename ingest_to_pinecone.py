@@ -16,18 +16,31 @@ Usage:
 
 import os
 import re
+import time
 import hashlib
 import argparse
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 from pinecone import Pinecone
 from tqdm import tqdm
 
-EMBEDDING_MODEL = "text-embedding-3-small"
-CHUNK_SIZE      = 4000   # chars (~1000 tokens)
-CHUNK_OVERLAP   = 400    # chars
+EMBEDDING_MODEL  = "text-embedding-3-small"
+
+COMPANY_NAMES = {
+    "MSFT": "Microsoft",
+    "NVDA": "NVIDIA",
+    "AAPL": "Apple",
+    "GOOGL": "Alphabet",
+    "AMZN": "Amazon",
+    "META": "Meta",
+    "TSLA": "Tesla",
+}
+CHUNK_SIZE       = 1500   # chars (~375 tokens)
+CHUNK_OVERLAP    = 150    # chars
+EMBED_SLEEP      = 0.5    # seconds between embedding calls (rate limit buffer)
+MAX_RETRIES      = 6      # max retries on rate limit errors
 
 
 def extract_text(file_path: Path) -> str:
@@ -53,8 +66,18 @@ def chunk_text(text: str) -> list[str]:
 
 
 def embed(texts: list[str], client: OpenAI) -> list[list[float]]:
-    response = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
-    return [item.embedding for item in response.data]
+    """Embed texts with exponential backoff on rate limit errors."""
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
+            time.sleep(EMBED_SLEEP)
+            return [item.embedding for item in response.data]
+        except RateLimitError as e:
+            if attempt == MAX_RETRIES - 1:
+                raise
+            wait = 2 ** attempt  # 1, 2, 4, 8, 16, 32 seconds
+            print(f"\n  Rate limit hit — retrying in {wait}s...")
+            time.sleep(wait)
 
 
 def file_metadata(file_path: Path) -> dict | None:
@@ -120,10 +143,14 @@ def main():
             continue
 
         chunks = chunk_text(text)
+        company = COMPANY_NAMES.get(meta['ticker'], meta['ticker'])
+        prefix = f"[{company} ({meta['ticker']}) | {meta['form_type']} | {meta['year']}] "
 
         for i in range(0, len(chunks), args.embed_batch):
             batch_chunks = chunks[i : i + args.embed_batch]
-            embeddings   = embed(batch_chunks, openai_client)
+            # prepend metadata prefix so year/ticker signal is baked into the vector
+            prefixed = [prefix + c for c in batch_chunks]
+            embeddings = embed(prefixed, openai_client)
 
             for j, (chunk, emb) in enumerate(zip(batch_chunks, embeddings)):
                 pending.append({
@@ -132,7 +159,7 @@ def main():
                     "metadata": {
                         **meta,
                         "chunk_index": i + j,
-                        "text": chunk[:1000],  # stored for retrieval context
+                        "text": chunk[:1500],  # stored for retrieval context
                     },
                 })
 

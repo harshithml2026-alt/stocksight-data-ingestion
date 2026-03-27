@@ -1,3 +1,5 @@
 .env
 .claude/
 bash.exe.stackdump
+venv/
+evaluate.py
